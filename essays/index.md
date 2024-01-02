@@ -1,6 +1,6 @@
 ---
-title = "My Writings"
-sort_by = "weight"
+title: "My Writings"
+sort_by: "weight"
 ---
 
 This is a collection of my writings. The best place to start is:
