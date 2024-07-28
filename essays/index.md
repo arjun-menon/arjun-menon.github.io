@@ -1,6 +1,5 @@
 ---
-title: "My Writings"
-sort_by: "weight"
+title: My Writings
 ---
 
 This is a collection of my writings. The best place to start is:
