@@ -1,0 +1,27 @@
+name: Alteza
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    name: Build Website
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.generate.outputs.page_url }}
+
+    steps:
+      - name: Generate Alteza Website
+        id: generate
+        uses: arjun-menon/alteza@master
+        with:
+          path: .
