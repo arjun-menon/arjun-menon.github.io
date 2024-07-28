@@ -2,6 +2,8 @@
 
 .venv
 
+test_site  # To build the site locally & test.
+
 # Obsidian: https://lucafrance.medium.com/obsidian-versioning-with-git-and-github-f2b42d3b77b3
 .obsidian/*
 !.obsidian/app.json
