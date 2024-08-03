@@ -12,18 +12,19 @@ else
     # Create a new session and name it
     tmux new-session -d -s $SESSION_NAME
 
-    # Split the window horizontally
-    tmux split-window -v -l 1%
+    # Split the window vertically twice
+    tmux split-window -v
+    tmux split-window -v
 
-    # Send a command to the first pane
-    tmux send-keys -t 0 'cd test_site; python3 -m http.server 12345' C-m
+    # Send a command to the third pane
+    tmux send-keys -t 2 'cd test_site; python3 -m http.server 12345' C-m
 
     # Send a command to the second pane
     tmux send-keys -t 1 'source .venv/bin/activate.fish' C-m
+    tmux send-keys -t 1 './build.fish' C-m
 
-    tmux swap-pane -s 0 -t 1
-
-    #tmux resize-pane -t 1 -U 10
+    # Send a command to the first pane
+    tmux send-keys -t 0 'source .venv/bin/activate.fish' C-m
 
     # Attach to the created session
     tmux attach-session -t $SESSION_NAME
