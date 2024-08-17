@@ -1,6 +1,7 @@
 ---
 title: Praying for the discernment to make good decisions, knowledge, and depth of insight
 public: true
+done: false
 ---
 The question of making good decisions is something that's weighed on my mind for a while.
 
@@ -11,6 +12,7 @@ In situation like these, the only way to make the right decision is to rely on G
 But God knows what's best for us. Only God can see how a choice we make today could cause future events to involve.
 
 With this in mind, how do I know what the best choice is, in a situation? I need to ask God. My desire is that God would tell me what choice(s) to make, when I'm unsure of what to do next.
+
 
 
 Philippians 1:9-11: "And this is my prayer: that your love may abound more and more in knowledge and depth of insight, so that you may be able to discern what is best and may be pure and blameless for the day of Christ, filled with the fruit of righteousness that comes through Jesus Christ—to the glory and praise of God."
