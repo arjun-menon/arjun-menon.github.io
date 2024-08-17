@@ -56,6 +56,7 @@ LLVM Rust Bindings
 - https://github.com/tari/llvm-sys.rs
 
 Rust <-> C++
+- https://hkalbasi.github.io/zngur/#zngur (via https://news.ycombinator.com/item?id=41271273)
 - https://www.reddit.com/r/rust/comments/tk59id/a_tour_of_rust_c_interoperability/
 	- https://eshard.com/posts/Rust-Cxx-interop
 		- https://lib.rs/crates/inline-python
