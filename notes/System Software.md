@@ -11,3 +11,8 @@ https://github.com/PLSysSec/rlbox (sandboxing framework)
 
 
 
+On Operating Systems Design
+- https://blogsystem5.substack.com/p/windows-nt-vs-unix-design
+	- via https://news.ycombinator.com/item?id=41490290
+
+
