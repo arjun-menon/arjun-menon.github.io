@@ -2,15 +2,10 @@
 <html>
   <head>
   <title>Arjun Menon</title>
-
-  <link rel="canonical" href="https://arjun-menon.com"/>
-
   <link rel="apple-touch-icon" sizes="180x180" href="{{link('AM-apple-touch-icon')}}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
   <link rel="manifest" href="{{link('site')}}">
-  <style>
-  {{include(path('default_style'))}}
-  </style>
+  <link rel="stylesheet" href="{{link('site_style')}}">
   </head>
 
   <body>
@@ -35,6 +30,21 @@
   &mdash; Arjun Menon
 
   </div>
+
+
+<p>
+The directories here are:
+<ol>
+{% for d in dir.subDirs %}
+{% if d.title %}
+<li>
+<a href="{{link(d)}}">{{d.title}}</a>
+</li>
+{% endif %}
+{% endfor %}
+</ol>
+</p>
+
 
   </body>
 </html>
