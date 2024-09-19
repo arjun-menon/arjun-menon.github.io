@@ -10,26 +10,23 @@
 
 <body>
 
-<div class="sans">
+<div>
+
 <p>
 Welcome to my home page.
-</p>
+
 <p>
-I'm looking for new job opportunities at the moment.</p>
-<p>
+I'm looking for new job opportunities at the moment.
+
 <span style="">Feel free to take a look at my:</span>
 <ul>
-<li>GitHub: <spane class="monospace"><a href="https://github.com/arjun-menon">https://github.com/arjun-menon</a></span></li>
-<li>Resume: <spane class="monospace"><a href="https://arjun-menon.com/resume">https://arjun-menon.com/resume</a></span></li>
+<li>GitHub: <a href="https://github.com/arjun-menon">https://github.com/arjun-menon</a></li>
+<li>Resume: <a href="https://arjun-menon.com/resume">https://arjun-menon.com/resume</a></li>
 </ul>
-</p>
 
-<!--    <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Arjun_G._Menon_smiling.JPG/640px-Arjun_G._Menon_smiling.JPG" />  </p> -->
-<!--    <p> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Arjun_G._Menon_smiling.JPG" />  </p> -->
+&mdash; Arjun Menon
 
-  &mdash; Arjun Menon
-
-  </div>
+</div>
 
 
 <p>
@@ -37,13 +34,10 @@ The directories here are:
 <ol>
 {% for d in dir.subDirs %}
 {% if d.title %}
-<li>
-<a href="{{link(d)}}">{{d.title}}</a>
-</li>
+<li><a href="{{link(d)}}">{{d.title}}</a></li>
 {% endif %}
 {% endfor %}
 </ol>
-</p>
 
 {% for i in range(1,1) %}
   {{ '%d <br/>' % i }}
