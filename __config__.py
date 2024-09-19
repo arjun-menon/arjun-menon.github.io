@@ -1,2 +1,2 @@
-layout = 'a_page'  # default layout
+layout = 'page'  # default layout
 
