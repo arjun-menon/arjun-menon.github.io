@@ -20,3 +20,17 @@ My writings are broadly organized under these topics:
 * [Technology](./tech/_index.md): General ramblings on the state of technology, as well as musings for how to use technology _in general_ to improve the world, and ideas for ways in which we could make existing technology better.
 
 * [Politics](./pol/_index.md): A series of shorts essays documenting quest to figure out an impeccable political philosophy. Even though this is one of the most divisive and subjective topics ever, I think there exists (out there in the real of ideas), a objectively correct perfect political ideology. I am trying to figure out what it is.
+
+
+
+<ul>
+    {% for file in dir.pages %}
+    <li>
+        <a href="{{ link(file) }}">
+            {{file.title}}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+
