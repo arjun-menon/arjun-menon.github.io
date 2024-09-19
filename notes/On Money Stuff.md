@@ -2,8 +2,8 @@
 * TSE CASH.TO | https://www.globalx.ca/product/cash | 4.31%
 * TSE ZMMK.TO | https://www.bmogam.com/ca-en/products/exchange-traded-fund/bmo-money-market-fund-etf-series-zmmk/ | 4.81%
 * TSE CBIL.TO | https://www.globalx.ca/product/cbil | 4.56%
+
 ###### USD interest-issuing ETFs:
-ETFs:
 - TSE: UCSH.U | https://www.globalx.ca/product/ucsh-u | 5.16%
 - TSE: UBIL.U | https://www.globalx.ca/product/ubil-u | 5.28%
 - TSE: HSUV.U | https://www.globalx.ca/product/hsuv-u | ...
