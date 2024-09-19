@@ -1,6 +1,0 @@
-{% capture body %}
-{% if exists('title') %}
-<h4>{{ title }}</h4>
-{% endif %}
-{{ content }}{% endcapture %}
-{{ inject(path('skeleton')) }}

@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta charset="utf-8">
-    <title>
-        {% if exists('title') %}
-            {{ title }} – Arjun Menon
-        {% else %}
-            Arjun Menon
-        {% endif %}
-    </title>
+<title>{% if exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
+<link rel="apple-touch-icon" sizes="180x180" href="{{link('AM-apple-touch-icon')}}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
+<link rel="manifest" href="{{link('site')}}">
+<link rel="stylesheet" href="{{link('site_style')}}">
 </head>
+
 <body>
-{{ body }}
+<div class="top-level-wrapper">
+<div class="top-level-wrapper-main">
+<div class="main-content">
+{{ content }}
+</div>{# end main-content #}
+</div>{# end top-level-wrapper-main #}
+<div class="top-level-wrapper-footer"></div>
+</div>{# end top-level-wrapper #}
 </body>
+
 </html>
