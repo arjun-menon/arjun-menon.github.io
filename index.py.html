@@ -13,7 +13,6 @@ I'm looking for new job opportunities at the moment.
 &mdash; Arjun Menon
 
 <p>
-The directories here are:
 <ol>
 {% for d in dir.subDirs %}
 {% if d.title %}
@@ -21,10 +20,6 @@ The directories here are:
 {% endif %}
 {% endfor %}
 </ol>
-
-{% for i in range(1,1) %}
-  {{ '%d <br/>' % i }}
-{%%}
 
 {% endcapture %}
 {{ inject(path('skeleton')) }}
