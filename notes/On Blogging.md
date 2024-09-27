@@ -1,4 +1,11 @@
-
 https://news.ycombinator.com/item?id=41041537
 * https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/
+
+https://news.ycombinator.com/item?id=41646531
+- https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/
+
+https://drewdevault.com/
+
+https://news.ycombinator.com/item?id=41640812
+- https://github.com/okhat/blog/blob/main/2024.09.impact.md
 
