@@ -9,3 +9,10 @@ https://drewdevault.com/
 https://news.ycombinator.com/item?id=41640812
 - https://github.com/okhat/blog/blob/main/2024.09.impact.md
 
+
+
+#### On the HTML/CSS Aspects
+
+###### Tree Tabs
+https://iamkate.com/code/tree-views/
+

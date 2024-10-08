@@ -202,3 +202,16 @@ Modular/Mojo:
 * https://docs.modular.com/mojo/manual/
 * https://github.com/mojicians/awesome-mojo
 
+Hardware design languages:
+- https://gabizon103.github.io/blog/intro-filament/
+	- https://www.reddit.com/r/ProgrammingLanguages/comments/1fu1m9s/an_introduction_to_filament/
+
+http://hylang.org/
+- https://news.ycombinator.com/item?id=41617431
+- https://github.com/hylang/hy/discussions/2608
+
+https://tilde.team/~kiedtl/blog/hare/
+- https://news.ycombinator.com/item?id=31151591
+
+https://www.reddit.com/r/rust/comments/1fj31n3/i_would_choose_rust_just_for_the_types/
+
