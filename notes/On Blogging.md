@@ -14,5 +14,14 @@ https://news.ycombinator.com/item?id=41640812
 #### On the HTML/CSS Aspects
 
 ###### Tree Tabs
-https://iamkate.com/code/tree-views/
+* https://iamkate.com/code/tree-views/
+
+Progress Bars
+- https://codepen.io/brundolf/pen/YWEgLJ
+- https://www.red-team-design.com/stylish-css3-progress-bars/
+
+SVG Pencil Shades
+- https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html
+
+SVG Animations
 
