@@ -87,5 +87,5 @@ Riding.create()
 
 Riding.results()
 
-Riding.printProgressiveSplits()
+# Riding.printProgressiveSplits()
 
