@@ -1,6 +1,7 @@
 .DS_Store
 
 .venv
+__pycache__
 
 # To build the site locally & test.
 test_site
