@@ -3,7 +3,7 @@
 import csv, locale, os
 
 def clean_up():
-    locale.setlocale(locale.LC_ALL, 'en_CA.UTF-8')
+    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
     raw_file_name = 'bc-2024-initial-vote-count-oct-21-2024-raw.csv'
     cleaned_up_file_name = 'bc-2024-initial-vote-count-oct-21-2024.csv'
     # I used https://www.convertcsv.com/html-table-to-csv.htm to generate the raw csv from:
