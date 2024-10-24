@@ -1,6 +1,12 @@
 {% capture content %}
 
 <p>
+I'm working on this website right now. It's not quite ready yet.
+</p>
+
+<!--
+
+<p>
 Welcome to my home page.
 <p>
 I'm looking for new job opportunities at the moment.
@@ -12,10 +18,12 @@ I'm looking for new job opportunities at the moment.
 </ul>
 &mdash; Arjun Menon
 
+-->
+
 <p>
 <ol>
 {% for d in dir.subDirs %}
-{% if d.title %}
+{% if d.title and d.shouldPublish %}
 <li><a href="{{link(d)}}">{{d.title}}</a></li>
 {% endif %}
 {% endfor %}
