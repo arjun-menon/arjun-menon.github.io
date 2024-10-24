@@ -32,6 +32,7 @@ td {
 <th>Progressive Vote <br/> Total</th>
 <th>Con Vote</th>
 <th><em>Con Victory <br/> Margin</em></th>
+<!-- <th><em>Hypothetical Winner with <br/> Ranked Choice Voting</em></th> -->
 </tr>
 {% for r, i in zip(progressive_splits, range(1, len(progressive_splits) + 1)) %}
 <tr>
@@ -42,6 +43,7 @@ td {
 <td><b>{{f'{r.progressive_vote:n}'}}</b></td>
 <td>{{f'{r.con:n}'}}</td>
 <td><b>{{f'{(r.progressive_vote - r.con):n}'}}</b></td>
+<!-- <td>{{r.hypo_winner}}</td> -->
 </tr>
 {%%}
 </table>

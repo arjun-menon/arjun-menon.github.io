@@ -73,7 +73,10 @@ class Riding:
 
     @staticmethod
     def progressiveSplits():
-        return [r for r in Riding.ridings if r.winner_index == 2 and r.progressive_vote > r.con]
+        progressive_splits = [r for r in Riding.ridings if r.winner_index == 2 and r.progressive_vote > r.con]
+        for r in progressive_splits:
+            r.hypo_winner = 'Green' if r.green > r.ndp else 'NDP'
+        return progressive_splits
 
     @staticmethod
     def printProgressiveSplits():
