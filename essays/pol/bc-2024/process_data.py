@@ -66,7 +66,7 @@ class Riding:
         Riding.ridings = [Riding(row) for row in cleaned_up[1:]]
 
     @staticmethod
-    def results():
+    def printResults():
         print("\nSeat totals:")
         for i in range(0, 3):
             print("%s: %d" % (Riding.winner_names[i], Riding.seat_counts[i]))
@@ -85,7 +85,7 @@ class Riding:
 
 Riding.create()
 
-Riding.results()
-
-# Riding.printProgressiveSplits()
+if __name__ == '__main__':
+    Riding.printResults()
+    Riding.printProgressiveSplits()
 
