@@ -42,7 +42,7 @@ td {
 <td>{{f'{r.green:n}'}}</td>
 <td><b>{{f'{r.progressive_vote:n}'}}</b></td>
 <td>{{f'{r.con:n}'}}</td>
-<td><b>{{f'{(r.progressive_vote - r.con):n}'}}</b></td>
+<td><b>{{f'{r.progressive_margin:n}'}}</b></td>
 <!-- <td>{{r.hypo_winner}}</td> -->
 </tr>
 {%%}

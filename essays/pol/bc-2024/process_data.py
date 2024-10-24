@@ -76,6 +76,8 @@ class Riding:
         progressive_splits = [r for r in Riding.ridings if r.winner_index == 2 and r.progressive_vote > r.con]
         for r in progressive_splits:
             r.hypo_winner = 'Green' if r.green > r.ndp else 'NDP'
+            r.progressive_margin = r.progressive_vote - r.con
+        progressive_splits.sort(key=lambda r: r.progressive_margin, reverse=True)
         return progressive_splits
 
     @staticmethod
