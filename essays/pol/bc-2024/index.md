@@ -31,7 +31,7 @@ td {
 <th>Green Vote</th>
 <th>Progressive Vote <br/> Total</th>
 <th>Con Vote</th>
-<th><em>Con Victory <br/> Margin</em></th>
+<th><em>Progressive <br/> Margin</em></th>
 <!-- <th><em>Hypothetical Winner with <br/> Ranked Choice Voting</em></th> -->
 </tr>
 {% for r, i in zip(progressive_splits, range(1, len(progressive_splits) + 1)) %}
