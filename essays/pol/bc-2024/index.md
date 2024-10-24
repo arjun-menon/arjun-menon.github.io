@@ -44,6 +44,9 @@ td {
 <td><b>{{f'{(r.progressive_vote - r.con):n}'}}</b></td>
 </tr>
 {%%}
-
 </table>
+
+This is based on the [initial count as of October 19, 2024](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html) on the BC Elections website.
+
+Also, you can check out [the Python code for this page here](https://github.com/arjun-menon/arjun-menon.github.io/tree/master/essays/pol/bc-2024).
 
