@@ -2,11 +2,11 @@ public: true
 title: BC's 2024 Provincial Election
 ---
 
-These are the ridings progressive voters would have won, had the progessive vote _not been split_ between NDP and Green:
+These ridings either had the progessive vote split _(between NDP and Green)_, or the Conservative vote split with independents:
 
 {{
 	from process_data import Riding
-	progressive_splits = Riding.progressiveSplits()
+	vote_splits = Riding.voteSplits
 }}
 
 
@@ -31,10 +31,13 @@ td {
 <th>Green Vote</th>
 <th>Progressive Vote <br/> Total</th>
 <th>Con Vote</th>
-<th><em>Progressive <br/> Margin</em></th>
-<!-- <th><em>Hypothetical Winner with <br/> Ranked Choice Voting</em></th> -->
+<td><em>Con <br/> Margin</em></td>
+<th><em>Progressive<br/>Margin</em></th>
+<td>Con+Ind.<br>Vote</td>
+<th><em>Progressive Margin<br/>over Con+Ind.</em></th>
+<td><em><small>Hypothetical Flip w/<br/>Ranked Choice Voting</small></em></td>
 </tr>
-{% for r, i in zip(progressive_splits, range(1, len(progressive_splits) + 1)) %}
+{% for r, i in zip(vote_splits, range(1, len(vote_splits) + 1)) %}
 <tr>
 <td><b>{{i}}</b></td>
 <td>{{r.name}}</td>
@@ -42,13 +45,24 @@ td {
 <td>{{f'{r.green:n}'}}</td>
 <td><b>{{f'{r.progressive_vote:n}'}}</b></td>
 <td>{{f'{r.con:n}'}}</td>
-<td><b>{{f'{r.progressive_margin:n}'}}</b></td>
-<!-- <td>{{r.hypo_winner}}</td> -->
+<td><em>{{f'{r.win_margin:n}'}}</em></td>
+<td><b>{{f'{r.progressive_margin:n}'}}</b> ({{f'{round((r.progressive_margin/r.total)*100,2):n}'}}%)</td>
+<td>{{f'{(r.con+r.other):n}'}}</td>
+<td><b>
+{{f'{r.progressive_margin2:n}'}}
+</b> ({{f'{round((r.progressive_margin2/r.total)*100,2):n}'}}%)</td>
+<td>
+{% if r.winner != r.hypo_winner %}
+{{r.winner}} → {{r.hypo_winner}}
+{% else %}
+Stays {{r.winner}}
+{%%}
+</td>
 </tr>
 {%%}
 </table>
 
-This is based on the [initial count as of October 19, 2024](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html) on the Elections BC website.
+This is based on the [final vote count](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html) published on the Elections BC website. Also [on Global News](https://globalnews.ca/news/10801085/bc-election-results-live-2024-vote/).
 
 You can see the [Python code for this page here](https://github.com/arjun-menon/arjun-menon.github.io/tree/master/essays/pol/bc-2024).
 

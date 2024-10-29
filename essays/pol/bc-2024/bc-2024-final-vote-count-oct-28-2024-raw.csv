@@ -1,0 +1,94 @@
+,Electoral District,GP,NDP,CP,Other,Total Valid Votes,Status
+"<button data-ed=""Abbotsford-Mission"" onclick=""togglePinned('Abbotsford-Mission')""> <!-- Locked icon --> <!-- Unlocked icon -->",Abbotsford-Mission,0,"10,893","13,523",0,"24,416",Complete
+"<button data-ed=""Abbotsford South"" onclick=""togglePinned('Abbotsford South')""> <!-- Locked icon --> <!-- Unlocked icon -->",Abbotsford South,0,"7,454","13,052",681,"21,187",Complete
+"<button data-ed=""Abbotsford West"" onclick=""togglePinned('Abbotsford West')""> <!-- Locked icon --> <!-- Unlocked icon -->",Abbotsford West,0,"7,255","11,483",940,"19,678",Complete
+"<button data-ed=""Boundary-Similkameen"" onclick=""togglePinned('Boundary-Similkameen')""> <!-- Locked icon --> <!-- Unlocked icon -->",Boundary-Similkameen,"1,454","10,497","11,936",779,"24,666",Complete
+"<button data-ed=""Bulkley Valley-Stikine"" onclick=""togglePinned('Bulkley Valley-Stikine')""> <!-- Locked icon --> <!-- Unlocked icon -->",Bulkley Valley-Stikine,604,"3,709","4,992",239,"9,544",Complete
+"<button data-ed=""Burnaby Centre"" onclick=""togglePinned('Burnaby Centre')""> <!-- Locked icon --> <!-- Unlocked icon -->",Burnaby Centre,0,"9,779","7,293",0,"17,072",Complete
+"<button data-ed=""Burnaby East"" onclick=""togglePinned('Burnaby East')""> <!-- Locked icon --> <!-- Unlocked icon -->",Burnaby East,"1,543","10,487","8,199",0,"20,229",Complete
+"<button data-ed=""Burnaby-New Westminster"" onclick=""togglePinned('Burnaby-New Westminster')""> <!-- Locked icon --> <!-- Unlocked icon -->",Burnaby-New Westminster,0,"10,644","6,160",940,"17,744",Complete
+"<button data-ed=""Burnaby North"" onclick=""togglePinned('Burnaby North')""> <!-- Locked icon --> <!-- Unlocked icon -->",Burnaby North,0,"10,724","8,657",754,"20,135",Complete
+"<button data-ed=""Burnaby South-Metrotown"" onclick=""togglePinned('Burnaby South-Metrotown')""> <!-- Locked icon --> <!-- Unlocked icon -->",Burnaby South-Metrotown,960,"7,560","6,372",432,"15,324",Complete
+"<button data-ed=""Cariboo-Chilcotin"" onclick=""togglePinned('Cariboo-Chilcotin')""> <!-- Locked icon --> <!-- Unlocked icon -->",Cariboo-Chilcotin,0,"5,991","13,710",0,"19,701",Complete
+"<button data-ed=""Chilliwack-Cultus Lake"" onclick=""togglePinned('Chilliwack-Cultus Lake')""> <!-- Locked icon --> <!-- Unlocked icon -->",Chilliwack-Cultus Lake,0,"11,367","13,657",0,"25,024",Complete
+"<button data-ed=""Chilliwack North"" onclick=""togglePinned('Chilliwack North')""> <!-- Locked icon --> <!-- Unlocked icon -->",Chilliwack North,"1,187","8,125","11,776",487,"21,575",Complete
+"<button data-ed=""Columbia River-Revelstoke"" onclick=""togglePinned('Columbia River-Revelstoke')""> <!-- Locked icon --> <!-- Unlocked icon -->",Columbia River-Revelstoke,"1,430","8,097","8,768",0,"18,295",Complete
+"<button data-ed=""Coquitlam-Burke Mountain"" onclick=""togglePinned('Coquitlam-Burke Mountain')""> <!-- Locked icon --> <!-- Unlocked icon -->",Coquitlam-Burke Mountain,0,"11,022","10,651",0,"21,673",Complete
+"<button data-ed=""Coquitlam-Maillardville"" onclick=""togglePinned('Coquitlam-Maillardville')""> <!-- Locked icon --> <!-- Unlocked icon -->",Coquitlam-Maillardville,"1,462","11,963","9,140",534,"23,099",Complete
+"<button data-ed=""Courtenay-Comox"" onclick=""togglePinned('Courtenay-Comox')""> <!-- Locked icon --> <!-- Unlocked icon -->",Courtenay-Comox,"7,202","13,389","13,481",646,"34,718",Complete
+"<button data-ed=""Cowichan Valley"" onclick=""togglePinned('Cowichan Valley')""> <!-- Locked icon --> <!-- Unlocked icon -->",Cowichan Valley,"5,773","11,795","10,946",604,"29,118",Complete
+"<button data-ed=""Delta North"" onclick=""togglePinned('Delta North')""> <!-- Locked icon --> <!-- Unlocked icon -->",Delta North,"1,292","10,988","8,377",177,"20,834",Complete
+"<button data-ed=""Delta South"" onclick=""togglePinned('Delta South')""> <!-- Locked icon --> <!-- Unlocked icon -->",Delta South,0,"11,822","14,490",0,"26,312",Complete
+"<button data-ed=""Esquimalt-Colwood"" onclick=""togglePinned('Esquimalt-Colwood')""> <!-- Locked icon --> <!-- Unlocked icon -->",Esquimalt-Colwood,"5,716","15,237","8,652",0,"29,605",Complete
+"<button data-ed=""Fraser-Nicola"" onclick=""togglePinned('Fraser-Nicola')""> <!-- Locked icon --> <!-- Unlocked icon -->",Fraser-Nicola,"1,759","6,917","10,322",0,"18,998",Complete
+"<button data-ed=""Juan de Fuca-Malahat"" onclick=""togglePinned('Juan de Fuca-Malahat')""> <!-- Locked icon --> <!-- Unlocked icon -->",Juan de Fuca-Malahat,"5,522","9,308","9,167",0,"23,997",Complete
+"<button data-ed=""Kamloops Centre"" onclick=""togglePinned('Kamloops Centre')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kamloops Centre,"2,597","10,369","12,373",0,"25,339",Complete
+"<button data-ed=""Kamloops-North Thompson"" onclick=""togglePinned('Kamloops-North Thompson')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kamloops-North Thompson,"2,209","9,874","17,926",0,"30,009",Complete
+"<button data-ed=""Kelowna Centre"" onclick=""togglePinned('Kelowna Centre')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kelowna Centre,"1,111","10,993","11,031","2,612","25,747",Complete
+"<button data-ed=""Kelowna-Lake Country-Coldstream"" onclick=""togglePinned('Kelowna-Lake Country-Coldstream')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kelowna-Lake Country-Coldstream,"1,151","9,349","14,302","1,724","26,526",Complete
+"<button data-ed=""Kelowna-Mission"" onclick=""togglePinned('Kelowna-Mission')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kelowna-Mission,"1,349","8,913","14,071","2,996","27,329",Complete
+"<button data-ed=""Kootenay Central"" onclick=""togglePinned('Kootenay Central')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kootenay Central,"4,121","8,716","6,966","2,189","21,992",Complete
+"<button data-ed=""Kootenay-Monashee"" onclick=""togglePinned('Kootenay-Monashee')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kootenay-Monashee,"1,785","10,202","7,616",0,"19,603",Complete
+"<button data-ed=""Kootenay-Rockies"" onclick=""togglePinned('Kootenay-Rockies')""> <!-- Locked icon --> <!-- Unlocked icon -->",Kootenay-Rockies,996,"4,184","8,216","5,844","19,240",Complete
+"<button data-ed=""Ladysmith-Oceanside"" onclick=""togglePinned('Ladysmith-Oceanside')""> <!-- Locked icon --> <!-- Unlocked icon -->",Ladysmith-Oceanside,"2,292","14,144","12,097","5,559","34,092",Complete
+"<button data-ed=""Langford-Highlands"" onclick=""togglePinned('Langford-Highlands')""> <!-- Locked icon --> <!-- Unlocked icon -->",Langford-Highlands,"2,368","11,444","8,250",0,"22,062",Complete
+"<button data-ed=""Langley-Abbotsford"" onclick=""togglePinned('Langley-Abbotsford')""> <!-- Locked icon --> <!-- Unlocked icon -->",Langley-Abbotsford,"1,432","8,691","14,336","1,303","25,762",Complete
+"<button data-ed=""Langley-Walnut Grove"" onclick=""togglePinned('Langley-Walnut Grove')""> <!-- Locked icon --> <!-- Unlocked icon -->",Langley-Walnut Grove,"1,254","10,946","12,116",136,"24,452",Complete
+"<button data-ed=""Langley-Willowbrook"" onclick=""togglePinned('Langley-Willowbrook')""> <!-- Locked icon --> <!-- Unlocked icon -->",Langley-Willowbrook,"1,671","10,111","10,977",0,"22,759",Complete
+"<button data-ed=""Maple Ridge East"" onclick=""togglePinned('Maple Ridge East')""> <!-- Locked icon --> <!-- Unlocked icon -->",Maple Ridge East,"1,626","11,960","12,056",0,"25,642",Complete
+"<button data-ed=""Maple Ridge-Pitt Meadows"" onclick=""togglePinned('Maple Ridge-Pitt Meadows')""> <!-- Locked icon --> <!-- Unlocked icon -->",Maple Ridge-Pitt Meadows,0,"14,476","11,900",0,"26,376",Complete
+"<button data-ed=""Mid Island-Pacific Rim"" onclick=""togglePinned('Mid Island-Pacific Rim')""> <!-- Locked icon --> <!-- Unlocked icon -->",Mid Island-Pacific Rim,"3,401","14,037","11,365",0,"28,803",Complete
+"<button data-ed=""Nanaimo-Gabriola Island"" onclick=""togglePinned('Nanaimo-Gabriola Island')""> <!-- Locked icon --> <!-- Unlocked icon -->",Nanaimo-Gabriola Island,"3,501","14,663","9,630",0,"27,794",Complete
+"<button data-ed=""Nanaimo-Lantzville"" onclick=""togglePinned('Nanaimo-Lantzville')""> <!-- Locked icon --> <!-- Unlocked icon -->",Nanaimo-Lantzville,"2,586","15,304","11,686",0,"29,576",Complete
+"<button data-ed=""Nechako Lakes"" onclick=""togglePinned('Nechako Lakes')""> <!-- Locked icon --> <!-- Unlocked icon -->",Nechako Lakes,622,"3,167","7,852",0,"11,641",Complete
+"<button data-ed=""New Westminster-Coquitlam"" onclick=""togglePinned('New Westminster-Coquitlam')""> <!-- Locked icon --> <!-- Unlocked icon -->",New Westminster-Coquitlam,"2,379","12,754","6,436",0,"21,569",Complete
+"<button data-ed=""North Coast-Haida Gwaii"" onclick=""togglePinned('North Coast-Haida Gwaii')""> <!-- Locked icon --> <!-- Unlocked icon -->",North Coast-Haida Gwaii,0,"4,863","2,628",0,"7,491",Complete
+"<button data-ed=""North Island"" onclick=""togglePinned('North Island')""> <!-- Locked icon --> <!-- Unlocked icon -->",North Island,"2,396","13,461","14,099",0,"29,956",Complete
+"<button data-ed=""North Vancouver-Lonsdale"" onclick=""togglePinned('North Vancouver-Lonsdale')""> <!-- Locked icon --> <!-- Unlocked icon -->",North Vancouver-Lonsdale,0,"16,757","9,072",0,"25,829",Complete
+"<button data-ed=""North Vancouver-Seymour"" onclick=""togglePinned('North Vancouver-Seymour')""> <!-- Locked icon --> <!-- Unlocked icon -->",North Vancouver-Seymour,"1,721","16,210","10,994","1,793","30,718",Complete
+"<button data-ed=""Oak Bay-Gordon Head"" onclick=""togglePinned('Oak Bay-Gordon Head')""> <!-- Locked icon --> <!-- Unlocked icon -->",Oak Bay-Gordon Head,"6,508","14,519","8,542",0,"29,569",Complete
+"<button data-ed=""Peace River North"" onclick=""togglePinned('Peace River North')""> <!-- Locked icon --> <!-- Unlocked icon -->",Peace River North,0,828,"11,213","3,038","15,079",Complete
+"<button data-ed=""Peace River South"" onclick=""togglePinned('Peace River South')""> <!-- Locked icon --> <!-- Unlocked icon -->",Peace River South,0,576,"7,181","2,524","10,281",Complete
+"<button data-ed=""Penticton-Summerland"" onclick=""togglePinned('Penticton-Summerland')""> <!-- Locked icon --> <!-- Unlocked icon -->",Penticton-Summerland,"1,472","11,296","11,612","3,692","28,072",Complete
+"<button data-ed=""Port Coquitlam"" onclick=""togglePinned('Port Coquitlam')""> <!-- Locked icon --> <!-- Unlocked icon -->",Port Coquitlam,"1,641","13,837","9,960",244,"25,682",Complete
+"<button data-ed=""Port Moody-Burquitlam"" onclick=""togglePinned('Port Moody-Burquitlam')""> <!-- Locked icon --> <!-- Unlocked icon -->",Port Moody-Burquitlam,"1,926","13,475","10,485",0,"25,886",Complete
+"<button data-ed=""Powell River-Sunshine Coast"" onclick=""togglePinned('Powell River-Sunshine Coast')""> <!-- Locked icon --> <!-- Unlocked icon -->",Powell River-Sunshine Coast,"3,929","14,471","10,409",356,"29,165",Complete
+"<button data-ed=""Prince George-Mackenzie"" onclick=""togglePinned('Prince George-Mackenzie')""> <!-- Locked icon --> <!-- Unlocked icon -->",Prince George-Mackenzie,"1,498","5,020","10,762",424,"17,704",Complete
+"<button data-ed=""Prince George-North Cariboo"" onclick=""togglePinned('Prince George-North Cariboo')""> <!-- Locked icon --> <!-- Unlocked icon -->",Prince George-North Cariboo,866,"3,425","11,425","4,392","20,108",Complete
+"<button data-ed=""Prince George-Valemount"" onclick=""togglePinned('Prince George-Valemount')""> <!-- Locked icon --> <!-- Unlocked icon -->",Prince George-Valemount,"1,612","5,707","9,014",0,"16,333",Complete
+"<button data-ed=""Richmond-Bridgeport"" onclick=""togglePinned('Richmond-Bridgeport')""> <!-- Locked icon --> <!-- Unlocked icon -->",Richmond-Bridgeport,547,"5,921","9,907",651,"17,026",Complete
+"<button data-ed=""Richmond Centre"" onclick=""togglePinned('Richmond Centre')""> <!-- Locked icon --> <!-- Unlocked icon -->",Richmond Centre,0,"5,959","8,426","1,821","16,206",Complete
+"<button data-ed=""Richmond-Queensborough"" onclick=""togglePinned('Richmond-Queensborough')""> <!-- Locked icon --> <!-- Unlocked icon -->",Richmond-Queensborough,0,"8,713","10,051",979,"19,743",Complete
+"<button data-ed=""Richmond-Steveston"" onclick=""togglePinned('Richmond-Steveston')""> <!-- Locked icon --> <!-- Unlocked icon -->",Richmond-Steveston,803,"10,332","9,848","2,354","23,337",Complete
+"<button data-ed=""Saanich North and the Islands"" onclick=""togglePinned('Saanich North and the Islands')""> <!-- Locked icon --> <!-- Unlocked icon -->",Saanich North and the Islands,"12,307","10,958","10,143",635,"34,043",Complete
+"<button data-ed=""Saanich South"" onclick=""togglePinned('Saanich South')""> <!-- Locked icon --> <!-- Unlocked icon -->",Saanich South,"5,484","15,338","10,003",0,"30,825",Complete
+"<button data-ed=""Salmon Arm-Shuswap"" onclick=""togglePinned('Salmon Arm-Shuswap')""> <!-- Locked icon --> <!-- Unlocked icon -->",Salmon Arm-Shuswap,"2,250","9,677","16,565","3,295","31,787",Complete
+"<button data-ed=""Skeena"" onclick=""togglePinned('Skeena')""> <!-- Locked icon --> <!-- Unlocked icon -->",Skeena,406,"5,419","6,243",125,"12,193",Complete
+"<button data-ed=""Surrey City Centre"" onclick=""togglePinned('Surrey City Centre')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey City Centre,878,"6,727","6,491",307,"14,403",Complete
+"<button data-ed=""Surrey-Cloverdale"" onclick=""togglePinned('Surrey-Cloverdale')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Cloverdale,"1,150","9,679","10,266",153,"21,248",Complete
+"<button data-ed=""Surrey-Fleetwood"" onclick=""togglePinned('Surrey-Fleetwood')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Fleetwood,"1,318","9,913","9,164",0,"20,395",Complete
+"<button data-ed=""Surrey-Guildford"" onclick=""togglePinned('Surrey-Guildford')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Guildford,821,"8,938","8,911",369,"19,039",Complete
+"<button data-ed=""Surrey-Newton"" onclick=""togglePinned('Surrey-Newton')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Newton,0,"7,918","6,653",903,"15,474",Complete
+"<button data-ed=""Surrey North"" onclick=""togglePinned('Surrey North')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey North,656,"6,745","7,899",287,"15,587",Complete
+"<button data-ed=""Surrey-Panorama"" onclick=""togglePinned('Surrey-Panorama')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Panorama,0,"8,469","8,725",404,"17,598",Complete
+"<button data-ed=""Surrey-Serpentine River"" onclick=""togglePinned('Surrey-Serpentine River')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-Serpentine River,0,"9,343","9,780",554,"19,677",Complete
+"<button data-ed=""Surrey South"" onclick=""togglePinned('Surrey South')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey South,0,"8,968","12,832",0,"21,800",Complete
+"<button data-ed=""Surrey-White Rock"" onclick=""togglePinned('Surrey-White Rock')""> <!-- Locked icon --> <!-- Unlocked icon -->",Surrey-White Rock,0,"12,697","14,666",671,"28,034",Complete
+"<button data-ed=""Vancouver-Fraserview"" onclick=""togglePinned('Vancouver-Fraserview')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Fraserview,"1,291","11,895","7,618",0,"20,804",Complete
+"<button data-ed=""Vancouver-Hastings"" onclick=""togglePinned('Vancouver-Hastings')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Hastings,"2,409","14,236","5,391",157,"22,193",Complete
+"<button data-ed=""Vancouver-Kensington"" onclick=""togglePinned('Vancouver-Kensington')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Kensington,"1,457","11,713","6,059",0,"19,229",Complete
+"<button data-ed=""Vancouver-Langara"" onclick=""togglePinned('Vancouver-Langara')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Langara,969,"8,504","8,086",0,"17,559",Complete
+"<button data-ed=""Vancouver-Little Mountain"" onclick=""togglePinned('Vancouver-Little Mountain')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Little Mountain,"1,833","15,636","7,703",0,"25,172",Complete
+"<button data-ed=""Vancouver-Point Grey"" onclick=""togglePinned('Vancouver-Point Grey')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Point Grey,"1,925","12,538","7,620",0,"22,083",Complete
+"<button data-ed=""Vancouver-Quilchena"" onclick=""togglePinned('Vancouver-Quilchena')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Quilchena,"1,729","8,648","11,462",385,"22,224",Complete
+"<button data-ed=""Vancouver-Renfrew"" onclick=""togglePinned('Vancouver-Renfrew')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Renfrew,"1,064","10,982","5,325",0,"17,371",Complete
+"<button data-ed=""Vancouver-South Granville"" onclick=""togglePinned('Vancouver-South Granville')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-South Granville,"2,872","17,207","6,678",0,"26,757",Complete
+"<button data-ed=""Vancouver-Strathcona"" onclick=""togglePinned('Vancouver-Strathcona')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Strathcona,"2,730","13,563","3,427",336,"20,056",Complete
+"<button data-ed=""Vancouver-West End"" onclick=""togglePinned('Vancouver-West End')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-West End,"1,893","13,143","5,675",144,"20,855",Complete
+"<button data-ed=""Vancouver-Yaletown"" onclick=""togglePinned('Vancouver-Yaletown')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vancouver-Yaletown,"1,248","9,018","7,857",0,"18,123",Complete
+"<button data-ed=""Vernon-Lumby"" onclick=""togglePinned('Vernon-Lumby')""> <!-- Locked icon --> <!-- Unlocked icon -->",Vernon-Lumby,0,"11,836","11,359","4,531","27,726",Complete
+"<button data-ed=""Victoria-Beacon Hill"" onclick=""togglePinned('Victoria-Beacon Hill')""> <!-- Locked icon --> <!-- Unlocked icon -->",Victoria-Beacon Hill,"9,645","13,634","5,514",0,"28,793",Complete
+"<button data-ed=""Victoria-Swan Lake"" onclick=""togglePinned('Victoria-Swan Lake')""> <!-- Locked icon --> <!-- Unlocked icon -->",Victoria-Swan Lake,"5,900","14,272","5,146",156,"25,474",Complete
+"<button data-ed=""West Kelowna-Peachland"" onclick=""togglePinned('West Kelowna-Peachland')""> <!-- Locked icon --> <!-- Unlocked icon -->",West Kelowna-Peachland,0,"7,394","13,475","5,630","26,499",Complete
+"<button data-ed=""West Vancouver-Capilano"" onclick=""togglePinned('West Vancouver-Capilano')""> <!-- Locked icon --> <!-- Unlocked icon -->",West Vancouver-Capilano,"1,435","7,005","12,048","5,325","25,813",Complete
+"<button data-ed=""West Vancouver-Sea to Sky"" onclick=""togglePinned('West Vancouver-Sea to Sky')""> <!-- Locked icon --> <!-- Unlocked icon -->",West Vancouver-Sea to Sky,"10,438","7,212","9,762",0,"27,412",Complete
