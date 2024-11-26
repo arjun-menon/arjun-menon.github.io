@@ -9,7 +9,11 @@ https://drewdevault.com/
 https://news.ycombinator.com/item?id=41640812
 - https://github.com/okhat/blog/blob/main/2024.09.impact.md
 
+Obsidian Plugins
+- https://github.com/zolrath/obsidian-auto-link-title
 
+VS Code Plugins
+* https://github.com/yzhang-gh/vscode-markdown
 
 #### On the HTML/CSS Aspects
 
@@ -24,4 +28,8 @@ SVG Pencil Shades
 - https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html
 
 SVG Animations
+
+CSS Special Effects
+* Frosted Glass: https://www.tyleo.com/html-glass.html
+	* via https://news.ycombinator.com/item?id=42225481
 

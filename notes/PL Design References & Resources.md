@@ -7,6 +7,10 @@ Idris:
 - https://livebook.manning.com/book/type-driven-development-with-idris/chapter-1/7
 
 
+LigoL
+* https://ligolang.org/?lang=jsligo
+
+
 Cadence: https://cadence-lang.org/docs/
 - https://cadence-lang.org/docs/tutorial/resources-compose
 - https://github.com/onflow/cadence
@@ -19,6 +23,9 @@ https://ballerina.io/
 
 https://github.com/ponylang/ponyc
 
+Mech:
+* https://github.com/mech-lang/mech
+	* https://github.com/mech-lang/mech/releases
 
 
 Run CUDA unmodified on AMD
