@@ -17,6 +17,8 @@ Cadence: https://cadence-lang.org/docs/
 
 Move: https://medium.com/coinmonks/overview-of-move-programming-language-a860ffd8f55d – https://developers.diem.com/docs/technical-papers/move-paper/
 
+Borgo: https://borgo-lang.github.io/
+* https://news.ycombinator.com/item?id=42244791
 
 https://ballerina.io/
 
