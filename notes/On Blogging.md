@@ -33,3 +33,7 @@ CSS Special Effects
 * Frosted Glass: https://www.tyleo.com/html-glass.html
 	* via https://news.ycombinator.com/item?id=42225481
 
+Other
+* How to Auto-Publish Your Markdown Posts to Medium: https://medium.com/@ritviknag/how-to-auto-publish-your-markdown-posts-to-medium-a9fe7519eaba 
+
+

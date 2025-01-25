@@ -60,3 +60,22 @@ https://www.ktfpress.com/p/how-trump-makes-confessing-christ
 https://www.instagram.com/ktfpress/
 - https://www.instagram.com/p/DADqAZwOcY8/
 
+
+Lyman Stone
+* https://substack.com/home/post/p-154003374
+* https://substack.com/home/post/p-154819917
+
+Scott Luft: https://substack.com/@scottluft 
+* https://coldair.substack.com/p/simple-rubbish-told-around-the-world*
+
+
+Paul Graham's Latest
+* https://paulgraham.com/woke.html
+* https://paulgraham.com/mod.html
+
+
+Canada Politics
+- (Jan 07, 2025) https://www.cbc.ca/news/politics/how-does-trudeau-resignation-impact-election-timing-1.7425153
+- (old 2011) https://www.cbc.ca/news/politics/harper-majority-takes-a-pass-on-throne-speech-debate-1.1123100
+
+

@@ -11,6 +11,8 @@ LigoL
 * https://ligolang.org/?lang=jsligo
 
 
+ 
+
 Cadence: https://cadence-lang.org/docs/
 - https://cadence-lang.org/docs/tutorial/resources-compose
 - https://github.com/onflow/cadence
@@ -61,6 +63,7 @@ Other
 - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/) – https://jstrieb.github.io/posts/c-reflection-zig/
 
+Float Self-tagging: https://arxiv.org/abs/2411.16544 via https://news.ycombinator.com/item?id=42249609
 
 Rust parser generators
 - https://www.reddit.com/r/rust/comments/t1j7z6/best_option_for_rust_parser_and_lexer_generators/
