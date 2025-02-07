@@ -28,6 +28,7 @@ SVG Pencil Shades
 - https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html
 
 SVG Animations
+* https://expressive.app/expressive-animator/
 
 CSS Special Effects
 * Frosted Glass: https://www.tyleo.com/html-glass.html

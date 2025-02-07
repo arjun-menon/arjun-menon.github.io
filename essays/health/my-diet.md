@@ -10,6 +10,8 @@ Brunch 1:
 
 Brunch 2: a bunch of pistachios (organic raw shelled), a can of sardines, an apple (organic pink lady), a cup of organic milk, and a spoonful of honey.
 
+https://www.healthline.com/health/how-to-reduce-uric-acid
+
 Dinner 1:
 * a pile of raw shelled organic pistachios, 
 * a small amount of pasta made of:
@@ -22,9 +24,23 @@ Dinner 1:
 * 2 organic pink lady apples 🍎,
 * a small piece of alpine milk chocolate 🍫
 
+ https://en.m.wikipedia.org/wiki/Adventist_Health_Studies 
 
 Mushrooms:
 * Organics Sliced Cremini Mushrooms: https://www.loblaws.ca/en/organics-sliced-cremini-mushrooms/p/21005382_EA
+
+Metamusil Fiber Drink
+
+Vimerson Health Turmeric Ginkgo Biloba
+
+Chocolate Milk with: Camino Dutch-processed Cocoa Powder, Milk, Splenda.
+  
+Milk 🥛 Chocolate 🍫 sugar level:
+- Camino Milk chocolate: 16g / 40g — 40%
+- Merci Hazelnut-almond milk chocolate: 23g / 50g — 46%
+- Lindt Extra Creamy Milk Chocolate: 20g / 40g — 50%
+- Ritter Alpine Milk Chocolate: 20g / 38g — 52.6%
+- Terrys orange milk: 26g / 45g — 57.8%
 
 {#
 
