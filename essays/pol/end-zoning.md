@@ -29,3 +29,25 @@ https://www.theatlantic.com/business/archive/2015/11/zoning-laws-and-the-rise-of
 
 https://www.theatlantic.com/ideas/archive/2023/02/us-housing-market-shortage-costs-san-francisco-cities/673121/
 
+https://www.theatlantic.com/family/archive/2023/05/zoning-laws-nuclear-modern-family-definition/674117/
+
+https://www.theatlantic.com/politics/archive/2007/10/zoning-ourselves-to-death/46666/
+
+https://www.theatlantic.com/politics/archive/2017/11/rluipa/543504/
+
+https://www.theatlantic.com/business/archive/2012/01/can-the-rise-of-the-internet-explain-dc-zoning-fights/251930/
+
+https://www.theatlantic.com/ideas/archive/2024/09/jerusalem-demsas-on-the-housing-crisis-book/679666/
+
+https://www.theatlantic.com/ideas/archive/2024/02/american-street-grid-city-planning/677432/
+
+https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/
+
+https://www.theatlantic.com/ideas/archive/2025/01/rebuild-la-with-better-zoning/681526/
+
+https://www.theatlantic.com/podcasts/archive/2024/09/housing-crisis-local-government/679670/
+
+https://www.theatlantic.com/ideas/archive/2024/03/yimby-housing-bipartisan-zoning/677704/
+
+https://www.theatlantic.com/magazine/archive/1996/09/home-from-nowhere/376664/
+
