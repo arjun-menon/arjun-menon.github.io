@@ -227,3 +227,5 @@ https://tilde.team/~kiedtl/blog/hare/
 
 https://www.reddit.com/r/rust/comments/1fj31n3/i_would_choose_rust_just_for_the_types/
 
+Tiny Pointers: https://arxiv.org/abs/2111.12800 
+
