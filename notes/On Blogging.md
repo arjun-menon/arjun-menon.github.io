@@ -1,3 +1,9 @@
+
+https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/
+- https://blog.codinghorror.com/fear-of-writing/
+- https://blog.codinghorror.com/users-dont-care-about-you/
+- https://blog.codinghorror.com/blogging-about-blogging/
+
 https://news.ycombinator.com/item?id=41041537
 * https://lars-christian.com/re-do-people-irl-know-you-have-a-blog/
 
