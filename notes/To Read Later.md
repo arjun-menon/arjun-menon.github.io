@@ -12,6 +12,9 @@ Health Pieces by [Alice Callahan](https://www.nytimes.com/by/alice-callahan):
 https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation
 - via https://news.ycombinator.com/item?id=41958221
 
+https://www.gospelparallels.com/index.html
+https://www.gospelparallels.com/gospelparallels.html
+
 Patrick Mackenzie
 - https://www.kalzumeus.com/greatest-hits/
 	- https://www.worksinprogress.co/issue/the-story-of-vaccinateca/

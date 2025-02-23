@@ -21,6 +21,10 @@ Obsidian Plugins
 VS Code Plugins
 * https://github.com/yzhang-gh/vscode-markdown
 
+Archive/etc.:
+- https://perma.cc/
+- https://archive.is/
+
 #### On the HTML/CSS Aspects
 
 ###### Tree Tabs
