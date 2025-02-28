@@ -4,6 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>{% if exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
+{% if exists('desc') %}<meta name="description" content="{{ desc }}">{% endif %}
 <link rel="apple-touch-icon" sizes="180x180" href="{{link('AM-apple-touch-icon')}}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
 <link rel="manifest" href="{{link('site')}}">

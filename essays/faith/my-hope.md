@@ -1,8 +1,9 @@
 ---
 title: My Hope
 public: true
+desc: What I put my hope. This is an essay about my source of everlasting hope; my fountain of eternal Hope.
 ---
-This is an essay about my source of everlasting hope; my fountain of eternal Hope. _Note:_ This post is mostly a collection of Bible verses–in particular, the Bible verses that forms the essence of my undying hope.
+ _Note:_ This post is mostly a collection of Bible verses–in particular, the Bible verses that forms the essence of my hope.
 #### Life is too short
 
 People often have ambitions of things they want to achieve in this life. But I feel like it is too short to achieve anything of great significance. I reflect on the immense gift and ability _to create_ that people have been bestowed with, yet our lifetimes are too short to accomplish great works of art and creation. It takes years to actually become masterfully good at something — and by the time we reach that point, we only have so much time left to do works of beauty. If we were to live for a thousand years, perhaps we could accomplish far more great works.
