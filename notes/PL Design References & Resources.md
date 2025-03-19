@@ -42,6 +42,9 @@ What Are the Enduring Innovations of Lisp?: https://elliottslaughter.com/2022/12
 [Pin](https://without.boats/blog/pin/) ([without.boats](https://news.ycombinator.com/from?site=without.boats))
 - https://fasterthanli.me/articles/pin-and-suffering
 
+Rust’s Ugly Syntax:
+- https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html
+	- via https://news.ycombinator.com/item?id=41355731 
 
 https://terralang.org/: Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language:
 
@@ -62,6 +65,8 @@ Other
 	- https://iitd.github.io/col729/lec/affine_transform_theory.html
 - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 - [C Macro Reflection in Zig](https://jstrieb.github.io/posts/c-reflection-zig/) – https://jstrieb.github.io/posts/c-reflection-zig/
+
+https://news.ycombinator.com/item?id=43360287
 
 Float Self-tagging: https://arxiv.org/abs/2411.16544 via https://news.ycombinator.com/item?id=42249609
 

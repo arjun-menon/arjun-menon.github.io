@@ -25,6 +25,9 @@ Archive/etc.:
 - https://perma.cc/
 - https://archive.is/
 
+SVG tools:
+- https://www.reddit.com/r/webdev/comments/17mm7rl/any_good_ai_tools_that_can_create_svg_graphics/
+
 #### On the HTML/CSS Aspects
 
 ###### Tree Tabs
