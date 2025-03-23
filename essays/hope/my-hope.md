@@ -1,7 +1,7 @@
 ---
 title: My Hope
 public: true
-desc: What I put my hope. This is an essay about my source of everlasting hope; my fountain of eternal Hope.
+desc: What I put my hope in. This is an essay about my source of everlasting hope -- my fountain of eternal Hope.
 ---
  _Note:_ This post is mostly a collection of Bible verses–in particular, the Bible verses that forms the essence of my hope.
 #### Life is too short

@@ -11,7 +11,9 @@ LigoL
 * https://ligolang.org/?lang=jsligo
 
 
- 
+Zest: https://github.com/jamii/zest
+ - via https://news.ycombinator.com/item?id=43379082
+
 
 Cadence: https://cadence-lang.org/docs/
 - https://cadence-lang.org/docs/tutorial/resources-compose
