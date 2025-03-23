@@ -4,8 +4,8 @@ public: false
 
 Heather Smith (Dan Smith's wife) recollected two visions about me:
 
-On March 16: (at church prayer) me sitting there ... God ... crown of glory ...
+On Sunday, March 16: (at church prayer) me sitting there ... God ... crown of glory ...
 
-On March 20: a seed sprouting
+On Wednesday, March 19: a seed sprouting
 
 
