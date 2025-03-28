@@ -1,6 +1,7 @@
 ---
 title: A set of prayers to start the day with
 public: true
+desc: 7 prayers to start the day with (from my friend Emmanuel).
 ---
 
 7 prayers to start the day with (_from my friend Emmanuel_).
@@ -41,42 +42,28 @@ Amen.<br>
 
 <u>#3</u><br>
 Praying Psalm 33 (*modified by me*):
->Sing joyfully to the LORD, you righteous; it is fitting for the upright to praise him.
+>Sing joyfully to the LORD, you righteous; it is fitting to praise him.
 >
->Praise the LORD with the harp; make music to him on the ten-stringed lyre.
->
->Sing to him a new song; play skillfully, and shout for joy. 
+>Praise the LORD; sing to him a new song; and shout for joy.
 >
 >For the word of the LORD is right and true; he is faithful in all he does.
->
->The LORD loves righteousness and justice; the earth is full of his unfailing love. 
+>The LORD loves righteousness and justice; the earth is full of his unfailing love.
 >
 >By the word of the LORD were the heavens made, their starry host by the breath of his mouth.
->
->He gathers the waters of the sea into jars [1] ; he puts the deep into storehouses.
->
 >Let all the earth fear the LORD; let all the people of the world revere him.
->
 >For he spoke, and it came to be; he commanded, and it stood firm.
 >
 >The LORD foils the plans of the nations; he thwarts the purposes of the peoples.
->
 >But the plans of the LORD stand firm forever, the purposes of his heart through all generations. 
->
->Blessed is the nation whose God is the LORD, the people he chose for his inheritance.
+>Blessed is the nation whose God is the LORD [and] the people [including this Body of Christ] he chose for his inheritance.
 >
 >From heaven the LORD looks down and sees all mankind;
->
 >from his dwelling place he watches all who live on earth--
->
 >he who forms the hearts of all, who considers everything they do.
->
 >No king is saved by the size of his army; no warrior escapes by his great strength.
->
->A horse is a vain hope for deliverance; despite all its great strength it cannot save.
+>A horse [or technology] is a vain hope for deliverance; despite all its great strength it cannot save.
 >
 >But the eyes of the LORD are on those who fear him, on those whose hope is in his unfailing love,
->
 >to deliver them from death and keep them alive in famine. 
 >
 >We wait in hope for the LORD; he is our help and our shield.
