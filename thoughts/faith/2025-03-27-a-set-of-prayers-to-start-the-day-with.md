@@ -1,7 +1,7 @@
 ---
 title: A set of prayers to start the day with
 public: true
-desc: 7 prayers to start the day with (from my friend Emmanuel).
+desc: A set of prayers to start the day with (from my friend Emmanuel).
 ---
 A set of prayers to start the day with (_from my friend Emmanuel_).
 
@@ -78,25 +78,15 @@ Praying Psalm 33 (*modified by me*):
 Praying Psalm 16 (*modified by me*):
 >Keep me safe, O God, for in you I take refuge. 
 >
->I said to the LORD, "You are my Lord; apart from you I have no good thing."
+>You are my Lord; apart from you I have no good thing. [...]
 >
->As for the saints who are in the land, they are the glorious ones in whom is all my delight.
+>Lord, you have assigned me my portion and my cup; you have made my lot secure. The boundary lines have fallen for me in pleasant places; surely I have a delightful inheritance. 
 >
->The sorrows of those will increase who run after other gods. I will not pour out their libations of blood or take up their names on my lips. 
+>I will praise God, who counsels me; even at night my heart [and His Holy Spirit] instructs me.
 >
->LORD, you have assigned me my portion and my cup; you have made my lot secure.
+>I have God always before me. Because he is at my right hand, I will not be shaken. Therefore my heart is glad and my tongue rejoices; my body also rests secure, because God will not abandon me to the grave.
 >
->The boundary lines have fallen for me in pleasant places; surely I have a delightful inheritance. 
->
->I will praise the LORD, who counsels me; even at night my heart instructs me.
->
->I have set the LORD always before me. Because he is at my right hand, I will not be shaken. 
->
->Therefore my heart is glad and my tongue rejoices; my body also will rest secure,
->
->because you will not abandon me to the grave, nor will you let your Holy One see decay.
->
->You have made known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand. 
+>{#You have made known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand.#}You will make known to me the way of life; in Your presence is fullness of joy; in Your right hand there are pleasures forever.
 
 
 <u>#5</u><br>
