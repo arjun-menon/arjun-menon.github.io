@@ -30,6 +30,9 @@ SVG tools:
 
 #### On the HTML/CSS Aspects
 
+Thumbnails:
+* https://css-tricks.com/essential-meta-tags-social-media/
+* https://nickcarmont8.medium.com/how-to-add-a-website-thumbnail-for-sharing-your-html-site-on-social-media-facebook-linkedin-12813f8d2618
 ###### Tree Tabs
 * https://iamkate.com/code/tree-views/
 

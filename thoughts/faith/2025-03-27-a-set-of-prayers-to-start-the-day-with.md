@@ -3,9 +3,10 @@ title: A set of prayers to start the day with
 public: true
 desc: 7 prayers to start the day with (from my friend Emmanuel).
 ---
+A set of prayers to start the day with (_from my friend Emmanuel_).
 
-7 prayers to start the day with (_from my friend Emmanuel_).
-
+<u>#0</u>
+Set a stopwatch on your phone for 10 minutes, and pray *(mainly)* for other people.
 
 <u>#1</u><br>
 The [Lord’s Prayer](https://en.wikipedia.org/wiki/Lord%27s_Prayer):
