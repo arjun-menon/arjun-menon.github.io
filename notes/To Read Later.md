@@ -1,4 +1,6 @@
 
+https://www.theatlantic.com/family/archive/2025/04/quaker-parenting-research/682277/
+
 Health Pieces by [Alice Callahan](https://www.nytimes.com/by/alice-callahan):
 * [This Is Your Body on Sugar](https://www.nytimes.com/interactive/2024/10/30/well/eat/sugar-health-effects-risks.html)
 * [Are Some Ultraprocessed Foods Worse Than Others?](https://www.nytimes.com/2024/09/05/well/eat/ultraprocessed-foods-types-unhealthy-study.html)

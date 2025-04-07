@@ -1,11 +1,10 @@
 ---
 title: My Hope
 public: true
-desc: What I put my hope in. This is an essay about my source of everlasting hope -- my fountain of eternal Hope.
+desc: What I put my hope in.
 ---
  _Note:_ This post is mostly a collection of Bible verses–in particular, the Bible verses that forms the essence of my hope.
-#### Life is too short
-
+### Life is too short
 People often have ambitions of things they want to achieve in this life. But I feel like it is too short to achieve anything of great significance. I reflect on the immense gift and ability _to create_ that people have been bestowed with, yet our lifetimes are too short to accomplish great works of art and creation. It takes years to actually become masterfully good at something — and by the time we reach that point, we only have so much time left to do works of beauty. If we were to live for a thousand years, perhaps we could accomplish far more great works.
 
 There are a lot of things I want to do. Books I want to read. Books that I want _to write_. New software that I want to write. Skills I want to master. Yet, time is incurably short. I would love to delve deep into many endeavors, but the shortness of human life means that there are only a few things we can do, and we have to prioritize and choose a few things to work on. One cannot help but imagine that people were meant to do so much more.
@@ -18,7 +17,7 @@ No. Life is short and fleeting, and I want more. **This world is not enough**.
 
 > As for man, his days are like grass; he flourishes like a flower of the field; for the wind passes over it, and it is gone, and its place knows it no more. But the steadfast love of the God is from everlasting to everlasting on those who fear him, and his righteousness to children’s children, to those who keep his covenant and remember to do his commandments. (Ps 103:15–18)
 
-## My Great Hope
+### My Great Hope
 
 I believe in something greater. Some people might call me crazy, but I believe in God, and I believe in Christ, and I believe in promises of the Bible. The promises of the Bible in the book of Revelation (in particular, chapters 21 and 22) are what give me **_my hope for the future_**.
 
@@ -46,7 +45,7 @@ The city that I yearn for is not a city on this Earth. The city look forward to 
 
 > Let not your hearts be troubled. Believe in God; believe also in me. **In my Father’s house are many rooms.** If it were not so, **would I have told you that I go to prepare a place for you?** And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also. And you know the way to where I am going.” Thomas said to him, “Lord, we do not know where you are going. How can we know the way?” Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me. If you had known me, you would have known my Father also. From now on you do know him and have seen him.” Philip said to him, “Lord, show us the Father, and it is enough for us.” Jesus said to him, “Have I been with you so long, and you still do not know me, Philip? Whoever has seen me has seen the Father. How can you say, ‘Show us the Father’? Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own authority, but the Father who dwells in me does his works. Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves.
 
-## New Bodies
+### New Bodies
 
 One other thing I find incredible is that Jesus and his apostles say that we ourselves will be recreated with new eternal, indestructible angelic bodies.
 
@@ -82,7 +81,7 @@ More exciting verses on this topic are:
 
 I find the last verse really awesome. In a flash, we will **be changed**. We will be **_raised imperishable_**. Maybe even our mental/psychological nature will be changed so that we are free of the earthly tendency to sin. Then there’s the verse before that one (2 Cor 3:18), which is kind of mysterious — as it talks about looking through a glass, and how we will go from “_glory to glory”_. There’s something so cool and magical about this.
 
-## Peace, Finally
+### Peace, Finally
 
 One of things I find horrifying about this world is how full of violence it is. As We live in a world full of darkness and evil. Besides how cruel humans often are to each other, there’s animals too. Animals are so violent, and with predators their very sustenance depends on killing and consuming other animals. The whole way this world is set up is cruel. I don’t see much goodness in this state of affairs. I think the horror and brutality of “nature” is one of many signs of the brokenness of this world. And I don’t think think that the new heaven will have this sort of cruelty, if there are animals. Pain and destruction are of this world. The new creation must be free of it.
 
@@ -90,7 +89,7 @@ I find hope in the redemption of the current order of things in nature, in [Isai
 
 > The wolf will live with the lamb, the leopard will lie down with the goat, the calf and the lion and the yearling together; and a little child will lead them.
 
-## On Meaning, and Absurd Ideas
+### On Meaning, and Absurd Ideas
 
 In [this piece on The Atlantic](https://www.theatlantic.com/video/index/604840/being-97/), the philosopher Herbert Fingarette says: “I walk around often and ask myself, ‘What is the point of it all?’ There must be something I’m missing. I wish I knew.” This is someone who earlier in life, wrote a book called “Death” in which he emphatically proclaimed that “that fearing one’s own demise was irrational” and that when you die “there is nothing”. Later, at 97, close to the end, he couldn’t help but stare at the futility of the idea that there was nothing at all after death.
 
