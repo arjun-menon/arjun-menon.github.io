@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Optima",
+  "baseFontSize": 15
 }
