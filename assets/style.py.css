@@ -1,6 +1,6 @@
 body {
   font-family: Optima, Candara, Calibri, Arial, Helvetica, sans-serif;
-  background-color: #fef7ef;
+  background-color: #fefefe; {# fef7ef; #}
   margin: 0;
 }
 
@@ -16,8 +16,8 @@ body, .top-level-wrapper {
 }
 
 .top-level-wrapper-main {
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 1.7em;
+  padding-right: 1.7em;
 }
 
 .top-level-wrapper-footer {
@@ -25,6 +25,10 @@ body, .top-level-wrapper {
 /*  https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
   background-repeat:repeat-x;
 /*  height: 1em;*/
+}
+
+.main-content {
+
 }
 
 
@@ -40,18 +44,18 @@ body, .top-level-wrapper {
  }*/
 
 html {
-    overflow-y: scroll;
-    height: 100%;
-    font: 100%/1.5 sans-serif;
-    word-wrap: break-word;
+/*    overflow-y: scroll;*/
+/*    height: 100%;*/
+/*    font: 100%/1.5 sans-serif;*/
+/*    word-wrap: break-word;*/
     margin: 0 auto;
-    padding: 1.5em;
+/*    padding: 1.5em;*/
  }
 
 @media (min-width: 768px) {
     html {
-        font-size: 125%;
-        max-width: 42em;
+/*        font-size: 125%;*/
+        max-width: 45em;
  } }
 
 h1, h2, h3, h4 {
