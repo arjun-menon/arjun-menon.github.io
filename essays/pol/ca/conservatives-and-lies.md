@@ -1,21 +1,27 @@
 ---
 title: Conservative and Lies – a Culture of Deception
 desc: Dishonesty and Misrepresentation are the bread and butter of North American conservative politicians. The extreme, rampant, and pervasive dishonesty of conservative politicians is evil.
+public: true
 ---
 “My people are destroyed for lack of knowledge” — Hosea 4:6a.
 
-Dishonesty and Misrepresentation have become a core and recurring theme of North American conservative politics and politicians.
+Dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I intend to discuss that here.
 
 
 
+
+
+
+
+There might be a place for a fiscally-conservative low-regulation/small-government point of view, but North American conservatives have long abandoned such a point of view. In Canada, the fiscally-conservative party today would be the Liberal Party of Canada. The Conservative Party of Canada has become the *"shamelessly lie to people endlessly"* party.
 
 
 Areas of deception:
 * People are being deceived.
 * Often they repeat the same nonsense they hear.
 * Canada
-    * Carbon tax
-        * Quotas of things the cons have said about it
+	* Carbon tax
+        * Quotes of things the cons have said about it
         * Links to studies on it
         * The family of 4 in Alberta
         * The On Liberals’ lie on it.
@@ -24,10 +30,15 @@ Areas of deception:
     * CTV: https://www.youtube.com/watch?v=HdPiBNiedQg 
     * Lies on tariffs: https://factcheck.afp.com/doc.afp.com.36ZB6AD 
     * Pierre’s projection.
-    * To Pierre’s credit he hasn’t demonized people.
+	    * journalists
+	    * jusitn trudeau
+	    * mark carney
+    * To Pierre’s Credit:
+	    * he hasn’t demonized people.
+	    * he's promised to retain certain social services. (a late last-minute promise tho)
 * U.S.
     * Obamacare
-    * Estate tax
+    * Estate tax: A More Perfect Union vid
     * Trump’s incessant lying. Over 30,000 mistruths in his first term. 
     * Pravda and Truth Social. When people loudly claim a moral value, it’s a good reason to be suspicious.
     * Copying terms like the “lugenpress”.
@@ -41,30 +52,34 @@ Areas of deception:
 * Jordan Peterson’s lie about the license.
 * JJ: https://archive.is/AqTSV and https://x.com/stklietsch/status/1902427679908827398 
 * D’Souza — a liar at a whole different level — it’s too much to get into right now.
-* Right wing media dominance - media matters, Reddit post on it.
+* Right wing media dominance - media matters diagram, Reddit post on it.
+	* Better sources: NYTimes, Atlantic, Vox, Forbes, The Guardian.
 * In re: the 4mycanada website.
 * Integrate: https://www.reddit.com/r/onguardforthee/comments/1js4tp4/i_also_succesfully_voted_against_several_bills/ points in the top comment
 
 
-Mark Carney is basically a moderate conservative. Things he’s said that sounds conservative.
+(heading 4?) Mark Carney is basically a moderate conservative. Things he’s said that sounds conservative.
 
 
-We have no idea what we’re getting Pierre Pollievre, since he’s a liar.
+(heading 4?) We have no idea what we’re getting Pierre Pollievre, since he’s a liar.
 
 
 List PP’s votes on various things. The things he plans to cancel. (Except for a recent election pivot.)
 
-
+Note on PP’s endless stream of lies: https://www.youtube.com/watch?v=447aDYWu3FA
 The economy policy of the Conservatives would hit the very people they claim to help:
 * the working class people
 * mid & low income people
+
 From a Christian point of view:
 * On welfare:
     * https://biblehub.com/ezekiel/16-49.htm “She and her daughters were arrogant, overfed and unconcerned; they did not help the poor and needy”
 
 
 I personally hate lying.
+
 Disrespect for the truth is deeply disturbing to me.
+
 Satan is the “father of lies” and “when he lies he speaks his native language”.
 
 
@@ -73,16 +88,17 @@ There’s also something about taking gleeful joy in cruelty.
     * Gleeful cruelty: https://www.theatlantic.com/technology/archive/2025/03/gleeful-cruelty-white-house-x-account/682234/
 
 
-And
-* Insane of absurd out-of-this-world misinformation:
-    * https://www.reddit.com/r/CanadianIdiots/comments/1jglnn3/a_reminder_that_pierre_poilievre_and_the_entire/
-    * Hysteria about groups, like:
-        * WEF for some conservatives
-        * IDU among some progressives: https://www.reddit.com/r/ndp/comments/1jgfslo/nxt_conclave_it_looks_like_stephen_harper/
-* Question to ask: what is the fruit of this misinformation?
+And Insane of absurd out-of-this-world misinformation:
+* https://www.reddit.com/r/CanadianIdiots/comments/1jglnn3/a_reminder_that_pierre_poilievre_and_the_entire/
+* Hysteria about groups, like:
+	* WEF for some conservatives
+	* IDU among some progressives: https://www.reddit.com/r/ndp/comments/1jgfslo/nxt_conclave_it_looks_like_stephen_harper/
 
 
-Con bots: https://www.reddit.com/r/onguardforthee/comments/1jn2lsx/political_propaganda_bots_spamming_youtube_with/
+(heading) Question to ask: *what is the fruit of this misinformation?*
+
+
+The problem of Con bots online: https://www.reddit.com/r/onguardforthee/comments/1jn2lsx/political_propaganda_bots_spamming_youtube_with/
 
 
 
@@ -111,4 +127,9 @@ I’ve met people (even at church) who genuinely believe that the carbon tax is 
 
 Based on various Bible verses, dishonesty & misrepresentation make me very uncomfortable. Especially when someone is willing to just persistently lie non-stop. When there’s so much compulsive incessant lying, it reminds me of John 8:44 in which Jesus says this about the devil: “When he lies, he speaks his native language, for he is a liar and the father of lies.” I personally think it’s spiritually dangerous of emulate / copy a behavioral trait of Satan.
 
+The issue of discernment of the truth—vaccines, science, climate change, carbon tax, etc.
 
+---
+
+"The righteous detest the dishonest; the wicked detest the upright." — Proverbs 29:27 (NIV).<br>
+"An unjust man is an abomination to the righteous, but one whose way is straight is an abomination to the wicked." — Proverbs 29:27 (ESV).<br>
