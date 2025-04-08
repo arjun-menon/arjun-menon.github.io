@@ -4,8 +4,8 @@
 <head>
 <meta charset="utf-8">
 <title>{% if exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
-<link rel="preload" href="{{link('style')}}" as="style" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preload" href="{{link('style')}}" as="style">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 {% if exists('desc') %}<meta name="description" content="{{ desc }}">{% endif %}
 <link rel="apple-touch-icon" sizes="180x180" href="{{link('AM-apple-touch-icon')}}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
