@@ -31,9 +31,7 @@ body, #page-div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin: 0 auto;
   height: 100%;
-  max-width: {{max_page_width}};
 }
 
 /*@media (min-width: 768px) {
@@ -43,20 +41,21 @@ body, #page-div {
 }*/
 
 #main-div {
+  max-width: {{max_page_width}};
+  margin: 0 auto;
   padding-left: 1.7em;
   padding-right: 1.7em;
 }
 
 #footer-div {
-/*  margin-top: 2em;*/
 /*  https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
+  background-image: url("/assets/grass-01.svg"); /* {{link('grass-01')}} */
   background-repeat:repeat-x;
-/*  height: 1em;*/
+  height: 44px;
 }
 
 #main-article {
 }
-
 
 /*
  * Experiment with: view-source:https://niklasfasching.de/style.css
