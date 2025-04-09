@@ -47,14 +47,14 @@ body, #page-div {
   padding-right: 1.7em;
 }
 
-.top-level-wrapper-footer {
+#footer-div {
 /*  margin-top: 2em;*/
 /*  https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
   background-repeat:repeat-x;
 /*  height: 1em;*/
 }
 
-.main-content {
+#main-article {
 }
 
 
