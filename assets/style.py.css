@@ -10,7 +10,7 @@
 
     bgcolor = yellowish_1
 
-    large_screen_page_width = '45em'
+    max_page_width = '45em'
 }}
 
 body {
@@ -33,13 +33,14 @@ body, .top-level-wrapper {
   justify-content: space-between;
   margin: 0 auto;
   height: 100%;
+  max-width: {{max_page_width}};
 }
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     .top-level-wrapper {
-        max-width: {{large_screen_page_width}};
+        
     }
-}
+}*/
 
 .top-level-wrapper-main {
   padding-left: 1.7em;
