@@ -3,22 +3,25 @@ title: Conservative and Lies – a Culture of Deception
 desc: Dishonesty and Misrepresentation are the bread and butter of North American conservative politicians. The extreme, rampant, and pervasive dishonesty of conservative politicians is evil.
 public: true
 ---
-“My people are destroyed for lack of knowledge” — Hosea 4:6a.
+"My people are destroyed for lack of knowledge" — Hosea 4:6a.
 
-Dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I intend to discuss that here.
+Unfortunately, dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I will discuss this sad state of affairs in both Canada and the U.S., by touching on a few demonstrative examples.
 
+Lying is not a good thing. Lying deceives people. Lying breaks trust. God hates lying.
 
+While all politicians (all _all people_ in general) might lie to a certain extent, the pestilence of lying has become particularly extreme, thematic, and all-too-common, among ***conservative politicians***. Moreover, the manner in which conservative politicians use their speech – the persistent compulsive lying, the abusive language and invective, and an utter disregard for truthfulness – has had a corrupting influence on political culture in North America.
 
+### People are being deceived
 
+A lot of people in North America have unfortunately believed the incessant stream of dishonest statements conservative politicians make, and become fooled by it, and thus have been deceived into lending these conservative politicians their support.
 
+Many people often repeat the same nonsense they hear.
 
+Many people blindly trust these lying politicians; not having recognized the lies for what they are.
 
-There might be a place for a fiscally-conservative low-regulation/small-government point of view, but North American conservatives have long abandoned such a point of view. In Canada, the fiscally-conservative party today would be the Liberal Party of Canada. The Conservative Party of Canada has become the *"shamelessly lie to people endlessly"* party.
 
 
 Areas of deception:
-* People are being deceived.
-* Often they repeat the same nonsense they hear.
 * Canada
 	* Carbon tax
         * Quotes of things the cons have said about it
@@ -128,6 +131,8 @@ I’ve met people (even at church) who genuinely believe that the carbon tax is 
 Based on various Bible verses, dishonesty & misrepresentation make me very uncomfortable. Especially when someone is willing to just persistently lie non-stop. When there’s so much compulsive incessant lying, it reminds me of John 8:44 in which Jesus says this about the devil: “When he lies, he speaks his native language, for he is a liar and the father of lies.” I personally think it’s spiritually dangerous of emulate / copy a behavioral trait of Satan.
 
 The issue of discernment of the truth—vaccines, science, climate change, carbon tax, etc.
+
+There might be a place for a fiscally-conservative low-regulation/small-government point of view, but North American conservatives have long abandoned such a point of view. In Canada, the fiscally-conservative party today would be the Liberal Party of Canada. The Conservative Party of Canada has become the *"shamelessly lie to people endlessly"* party.
 
 ---
 
