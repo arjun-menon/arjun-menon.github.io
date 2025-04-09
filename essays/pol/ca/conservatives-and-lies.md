@@ -1,5 +1,5 @@
 ---
-title: Conservative and Lies – a Culture of Deception
+title: Conservative Politicians and Lies – a Culture of Deception
 desc: Dishonesty and Misrepresentation are the bread and butter of North American conservative politicians. The extreme, rampant, and pervasive dishonesty of conservative politicians is evil.
 public: true
 ---

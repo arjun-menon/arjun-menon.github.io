@@ -47,7 +47,6 @@ body, .top-level-wrapper {
 }
 
 .main-content {
-
 }
 
 
@@ -68,12 +67,10 @@ html {
 /*    font: 100%/1.5 sans-serif;*/
 /*    word-wrap: break-word;*/
     margin: 0 auto;
-/*    padding: 1.5em;*/
  }
 
 @media (min-width: 768px) {
     html {
-/*        font-size: 125%;*/
         max-width: {{large_screen_page_width}};
  } }
 
