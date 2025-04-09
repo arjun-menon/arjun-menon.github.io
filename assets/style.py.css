@@ -34,12 +34,6 @@ body, #page-div {
   height: 100%;
 }
 
-/*@media (min-width: 768px) {
-    #page-div {
-        
-    }
-}*/
-
 #main-div {
   max-width: {{max_page_width}};
   margin: 0 auto;
@@ -48,7 +42,7 @@ body, #page-div {
 }
 
 #footer-div {
-/*  https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
+  /* https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
   background-image: url("/assets/grass-01.svg"); /* {{link('grass-01')}} */
   background-repeat:repeat-x;
   height: 44px;
@@ -61,76 +55,32 @@ body, #page-div {
  * Experiment with: view-source:https://niklasfasching.de/style.css
  *   Also on post: https://niklasfasching.de/posts/just-enough-css/
  */
-
-/** {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
- }*/
-
-html {
-/*    overflow-y: scroll;*/
-/*    height: 100%;*/
-/*    font: 100%/1.5 sans-serif;*/
-/*    word-wrap: break-word;*/
-/*    margin: 0 auto;*/
- }
-
-
 h1, h2, h3, h4 {
-    margin: 2.5rem 0 1.5rem 0;
-    line-height: 1.25;
-    color: #333;
- }
+  margin: 2.5rem 0   1.5rem 0;
+  line-height: 1.25;
+  color: #333;
+}
 
 a {
-    color: #fa6432;
-    text-decoration: none;
- }
+  color: #fa6432;
+  text-decoration: none;
+}
 a:hover, a:focus, a:active {
-    text-decoration: underline;
- }
+  text-decoration: underline;
+}
 
 p {
-    margin: 1em 0;
-    line-height: 1.5;
- }
+  margin: 1em 0;
+  line-height: 1.5;
+}
 p code {
-    background-color: #eee;
-    padding: 0.05em 0.2em;
-    border: 1px solid #ccc;
- }
-
-/*ol, ul {
-    margin: 1em;
- }
-ol li ol, ol li ul, ul li ol, ul li ul {
-    margin: 0 2em;
- }
-ol li p, ul li p {
-    margin: 0;
- }
-
-dl {
-    font-family: monospace, monospace;
- }
-dl dt {
-    font-weight: bold;
- }
-dl dd {
-    margin: -1em 0 1em 1em;
- }
-
-img {
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-    padding: 0.5em;
- }*/
+  background-color: #eee;
+  padding: 0.05em 0.2em;
+  border: 1px solid #ccc;
+}
 
 blockquote {
-    padding-left: 1em;
-    font-style: italic;
-    border-left: solid 1px #fa6432;
- }
-
+  padding-left: 1em;
+  font-style: italic;
+  border-left: solid 1px #fa6432;
+}
