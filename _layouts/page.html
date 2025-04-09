@@ -1,6 +1,6 @@
 {% capture content %}
 {% if exists('title') %}
-<h1>{{ title }}</h1>
+<h2>{{ title }}</h2>
 {% endif %}
 {{ content }}{% endcapture %}
 {{ inject(path('skeleton')) }}

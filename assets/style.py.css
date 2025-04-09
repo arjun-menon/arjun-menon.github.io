@@ -31,7 +31,14 @@ body, .top-level-wrapper {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin: 0 auto;
   height: 100%;
+}
+
+@media (min-width: 768px) {
+    .top-level-wrapper {
+        max-width: {{large_screen_page_width}};
+    }
 }
 
 .top-level-wrapper-main {
@@ -66,13 +73,9 @@ html {
 /*    height: 100%;*/
 /*    font: 100%/1.5 sans-serif;*/
 /*    word-wrap: break-word;*/
-    margin: 0 auto;
+/*    margin: 0 auto;*/
  }
 
-@media (min-width: 768px) {
-    html {
-        max-width: {{large_screen_page_width}};
- } }
 
 h1, h2, h3, h4 {
     margin: 2.5rem 0 1.5rem 0;
