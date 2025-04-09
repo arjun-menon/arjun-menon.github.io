@@ -1,7 +1,26 @@
+{{
+    # https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#some_common_font_families
+    # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
+    serif_fonts = '"Times New Roman", Times, Georgia, serif;'
+
+    fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif;'
+
+    yellowish_1 = '#fef7ef;'
+    whiteish_1 = '#fefefe;'
+
+    bgcolor = yellowish_1
+
+    large_screen_page_width = '45em'
+}}
+
 body {
-  font-family: Optima, Candara, Calibri, Arial, Helvetica, sans-serif;
-  background-color: #fefefe; {# fef7ef; #}
+  font-family: {{ serif_fonts }}
+  background-color: {{bgcolor}}
   margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: {{ fancy_sans_1 }}
 }
 
 body, .top-level-wrapper {
@@ -55,7 +74,7 @@ html {
 @media (min-width: 768px) {
     html {
 /*        font-size: 125%;*/
-        max-width: 45em;
+        max-width: {{large_screen_page_width}};
  } }
 
 h1, h2, h3, h4 {
