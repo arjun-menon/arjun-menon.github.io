@@ -42,7 +42,7 @@ body, .top-level-wrapper {
     }
 }*/
 
-.top-level-wrapper-main {
+#main-div {
   padding-left: 1.7em;
   padding-right: 1.7em;
 }
