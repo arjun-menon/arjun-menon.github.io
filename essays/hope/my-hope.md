@@ -11,7 +11,7 @@ There are a lot of things I want to do. Books I want to read. Books that I want 
 
 When I reflect on the shortness of life, it makes me realize the futility and truly temporal nature of everything we are doing here. Am I going to make everything be about this short life of mine?
 
-No. Life is short and fleeting, and I want more. **This world is not enough**.
+No. Life is short and fleeting, and I want more.
 
 [As the Bible says](https://www.esv.org/Isaiah+40:6%E2%80%938;Psalm+103:13%E2%80%9318;2+Kings+19:26;Psalm+37:2;1+Peter+1:24%E2%80%9325/), our lives are so short in the big picture of things:
 
