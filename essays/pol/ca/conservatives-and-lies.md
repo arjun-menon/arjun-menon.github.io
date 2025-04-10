@@ -66,9 +66,12 @@ Tariffs — the CBC video on it. Another example of a lie: https://www.youtube.c
 
 “Even some Republicans worry privately that the proposal is deceptive.” — https://www.nytimes.com/2025/04/04/us/politics/republicans-filibuster-tax-cuts.html?smid=nytcore-ios-share&referringSource=articleShare 
 
-Misrepresenation regarding the us-aid cuts
+Misrepresentation regarding the us aid cuts
 
-Bruce Scheiner First Amendment destruction. The hypocrisy of speech they tolerate.
+Misrepresentation and dishonesty with regard to DOGE in general. It's a massive set of lies. And these people have no shame in lying. Because it's their culture.
+
+First Amendment destruction. The hypocrisy of speech they tolerate.
+https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/
 
 Worse than Nazi Germany — no warning. Thugs. Even Germany warned an American journalist and gave them time. This is horror drama, for a people who love evil and whose hearts are dark and rejoice in evil.
 
@@ -82,7 +85,7 @@ D’Souza — a liar at a whole different level — it’s too much to get into 
 
 Right wing media dominance - media matters diagram, Reddit post on it.
 * https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly
-* Better sources: NYTimes, Atlantic, Vox, Forbes, The Guardian.
+* Better sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian.
 
 ### On Canada again
 
