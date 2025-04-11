@@ -27,7 +27,7 @@ td {
 }
 </style>
 
-<table>
+<table style="font-family: var(--fancy-sans-1);">
 <tr>
 <th>№</th>
 <th>Riding Name</th>

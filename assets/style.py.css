@@ -1,20 +1,23 @@
 {{
     # https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#some_common_font_families
     # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
-    serif_fonts = '"Times New Roman", Times, Georgia, serif;'
-
+    std_serif_1 = '"Times New Roman", Times, Georgia, serif;'
     fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif;'
 
     yellowish_1 = '#fef7ef;'
     whiteish_1 = '#fefefe;'
-
     bgcolor = yellowish_1
 
     max_page_width = '45em'
 }}
 
+:root {
+  --std-serif-1: {{ std_serif_1 }}
+  --fancy-sans-1: {{ fancy_sans_1 }}
+}
+
 body {
-  font-family: {{ serif_fonts }}
+  font-family: {{ std_serif_1 }}
   background-color: {{bgcolor}}
   margin: 0;
 }
