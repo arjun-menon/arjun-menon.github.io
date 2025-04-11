@@ -87,6 +87,16 @@ Right wing media dominance - media matters diagram, Reddit post on it.
 * https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly
 * Better sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian.
 
+### Vagueness
+
+Conservatives live in a matrix of vague thought and vague thinking.
+
+Deep critical thinking is quite far from these people.
+
+Words like "woke", "CRT", etc.
+
+https://www.reddit.com/r/CanadianIdiots/comments/1jvmjjs/theyre_young_male_and_swinging_conservative/
+
 ### On Canada again
 
 In re: the 4mycanada website.
