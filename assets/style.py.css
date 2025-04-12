@@ -40,8 +40,8 @@ body, #page-div {
 #main {
   max-width: {{max_page_width}};
   margin: 0 auto;
-  padding-left: 1.7em;
-  padding-right: 1.7em;
+  padding-left: {{lr_padding}};
+  padding-right: {{lr_padding}};
 }
 
 #footer {
