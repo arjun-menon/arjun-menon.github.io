@@ -10,13 +10,13 @@ These ridings either had their progressive vote split between NDP and Green, or 
 
 {{
 	from process_data import Riding
-	vote_splits = Riding.voteSplits
+	table_rows = Riding.voteSplits
 }}
 
 
 <style>
 #main {
-	max-width: 54em;
+	max-width: 54em; {# or 56em; #}
 	width: calc(100vw - 2 * {{lr_padding}});
 }
 table, td {
@@ -46,10 +46,10 @@ td {
 <th><em>Progressive Margin<br>over Con + Ind.</em></th>
 <td><em><small>Hypothetical Flip w/<br>Ranked Choice Voting</small></em></td>
 </tr>
-{% for r, i in zip(vote_splits, range(1, len(vote_splits) + 1)) %}
+{% for r, i in zip(table_rows, range(1, len(table_rows) + 1)) %}
 <tr>
 <td><b>{{i}}</b></td>
-<td>{{r.name}}</td>
+<td><small>{{r.name}}</small></td>
 <td>{{f'{r.ndp:n}'}}</td>
 <td>{{f'{r.green:n}'}}</td>
 <td><b>{{f'{r.progressive_vote:n}'}}</b></td>

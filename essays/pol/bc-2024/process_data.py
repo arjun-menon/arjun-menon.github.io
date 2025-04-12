@@ -88,6 +88,10 @@ class Riding:
         Riding.voteSplits = Riding.progressiveSplits + Riding.conSplits
         Riding.voteSplits.sort(key=lambda r: r.progressive_margin2, reverse=True)
 
+        # Close races:
+        Riding.closeRaces = [r for r in Riding.ridings if abs(r.progressive_margin2/r.total) < 0.2]
+        Riding.closeRaces.sort(key=lambda r: r.progressive_margin2, reverse=True)
+
     @staticmethod
     def printResults():
         print("\nSeat totals:")
