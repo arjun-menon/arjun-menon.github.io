@@ -16,7 +16,7 @@ These ridings either had their progressive vote split between NDP and Green, or 
 
 <style>
 #main {
-	max-width: 73em;
+	max-width: 54em;
 	width: calc(100vw - 2 * {{lr_padding}});
 }
 table, td {
@@ -36,12 +36,12 @@ td {
 <tr>
 <th>№</th>
 <th>Riding Name</th>
-<th>NDP Vote</th>
-<th>Green Vote</th>
-<th>Progressive Vote <br> Total</th>
-<th>Con Vote</th>
-<td><em>Con <br> Margin</em></td>
-<th><em>Progressive<br>Margin</em></th>
+<th>NDP <br>Vote</th>
+<th>Green <br>Vote</th>
+<th>Progressive <br>Total Vote</th>
+<td><em>Con <br>Vote</em></td>{# <th>Con Vote</th> #}
+{# <td><em>Con <br>Margin</em></td> #}
+{# <th><em>Progressive<br>Margin</em></th> #}
 <td>Con+Ind.<br>Vote</td>
 <th><em>Progressive Margin<br>over Con + Ind.</em></th>
 <td><em><small>Hypothetical Flip w/<br>Ranked Choice Voting</small></em></td>
@@ -53,9 +53,9 @@ td {
 <td>{{f'{r.ndp:n}'}}</td>
 <td>{{f'{r.green:n}'}}</td>
 <td><b>{{f'{r.progressive_vote:n}'}}</b></td>
-<td>{{f'{r.con:n}'}}</td>
-<td><em>{{f'{(r.con - r.ndp):n}'}}</em></td>
-<td>{{f'{r.progressive_margin:n}'}} ({{f'{round((r.progressive_margin/r.total)*100,2):n}'}}%)</td>
+<td><em>{{f'{r.con:n}'}}</em></td>
+{# <td><em>{{f'{(r.con - r.ndp):n}'}}</em></td> #}
+{# <td>{{f'{r.progressive_margin:n}'}} ({{f'{round((r.progressive_margin/r.total)*100,2):n}'}}%)</td> #}
 <td>{{f'{(r.con+r.other):n}'}}</td>
 <td><b>
 <span style="color: {% if r.progressive_margin2 > 0 %}green{% else %}darkred{% %};">
