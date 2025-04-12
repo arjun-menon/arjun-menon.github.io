@@ -15,6 +15,9 @@ These ridings either had their progressive vote split between NDP and Green, or 
 
 
 <style>
+#main {
+	max-width: 73em;
+}
 table, td {
 	border: 1px solid black;
 }
