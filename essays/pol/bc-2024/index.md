@@ -2,7 +2,7 @@
 title: BC's 2024 Provincial Election
 public: true
 ---
-We need electoral reform in BC as soon as possible. BC came dangerously close to putting anti-science (e.g. climate-change-denying & anti-vaxx) pro-NIMBY conservatives in power. It is no small thing to endanger the future of a province with over 5 million of people over _an inability to enact electoral reform_. The harm that a Conservative victory would have caused people for four whole years (or more) cannot be understated. The <u>Legislative Assembly of British Columbia has the authority to pass electoral reform without subjecting the decision to an unnecessary referendum</u>.
+We need electoral reform in BC as soon as possible. BC came dangerously close to putting anti-science (e.g. climate-change-denying & anti-vaccine) pro-NIMBY conservatives in power. It is no small thing to endanger the future of a province with over 5 million of people over _an inability to enact electoral reform_. The harm that a Conservative victory would have caused people for four whole years (or more) cannot be understated. The <u>Legislative Assembly of British Columbia has the authority to pass electoral reform without subjecting the decision to an unnecessary referendum</u>.
 
 #### Ridings where Split Votes made a difference
 
@@ -27,19 +27,20 @@ td {
 }
 </style>
 
+<div style="overflow: auto;">
 <table style="font-family: var(--fancy-sans-1);">
 <tr>
 <th>№</th>
 <th>Riding Name</th>
 <th>NDP Vote</th>
 <th>Green Vote</th>
-<th>Progressive Vote <br/> Total</th>
+<th>Progressive Vote <br> Total</th>
 <th>Con Vote</th>
-<td><em>Con <br/> Margin</em></td>
-<th><em>Progressive<br/>Margin</em></th>
+<td><em>Con <br> Margin</em></td>
+<th><em>Progressive<br>Margin</em></th>
 <td>Con+Ind.<br>Vote</td>
-<th><em>Progressive Margin<br/>over Con + Ind.</em></th>
-<td><em><small>Hypothetical Flip w/<br/>Ranked Choice Voting</small></em></td>
+<th><em>Progressive Margin<br>over Con + Ind.</em></th>
+<td><em><small>Hypothetical Flip w/<br>Ranked Choice Voting</small></em></td>
 </tr>
 {% for r, i in zip(vote_splits, range(1, len(vote_splits) + 1)) %}
 <tr>
@@ -66,6 +67,7 @@ Stays {{r.winner}}
 </tr>
 {%%}
 </table>
+</div>
 
 {{
 	PR = '<abbr title="Proportional Representation">PR</abbr>'

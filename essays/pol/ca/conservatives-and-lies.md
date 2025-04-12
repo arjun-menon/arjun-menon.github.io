@@ -27,6 +27,7 @@ Many people blindly trust these lying politicians; not having recognized the lie
 Carbon tax
 * Quotes of things the cons have said about it
 * Links to studies on it
+    * grocery price impact
 * The family of 4 in Alberta
 * The On Liberals’ lie on it.
 
