@@ -48,28 +48,17 @@ body, #page-div {
 #footer {
   /* https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
   background-image: url("/assets/grass-01.svg"); /* {{link('grass-01')}} */
-  background-repeat:repeat-x;
+  background-repeat: repeat-x;
   height: 44px;
 }
 
-/*
- * Experiment with: view-source:https://niklasfasching.de/style.css
- *   Also on post: https://niklasfasching.de/posts/just-enough-css/
- */
 h1, h2, h3, h4 {
   color: #333;
 }
 
-a {
-  color: #fa6432;
-  text-decoration: none;
-}
-a:hover, a:focus, a:active {
-  text-decoration: underline;
-}
-
 blockquote {
+  margin-left: 2em;
   padding-left: 1em;
   font-style: italic;
-  border-left: solid 1px purple;
+  border-left: solid 1.5px purple;
 }
