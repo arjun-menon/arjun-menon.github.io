@@ -56,8 +56,6 @@ body, #page-div {
  *   Also on post: https://niklasfasching.de/posts/just-enough-css/
  */
 h1, h2, h3, h4 {
-  margin: 2.5rem 0   1.5rem 0;
-  line-height: 1.25;
   color: #333;
 }
 
@@ -70,7 +68,6 @@ a:hover, a:focus, a:active {
 }
 
 p {
-  margin: 1em 0;
   line-height: 1.5;
 }
 p code {
