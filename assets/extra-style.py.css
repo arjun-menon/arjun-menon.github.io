@@ -1,0 +1,26 @@
+{{
+	bg1x = 'https://gratom.com/arjun-menon/nature-bg.png'
+	bg2x = 'https://gratom.com/arjun-menon/nature-bg-2x.png'
+}}
+@media (min-width: {{max_content_width}}) {
+	@supports (backdrop-filter: blur(20px)) {
+		#page-div {
+			background-image: -webkit-image-set(
+				url('{{bg1x}}') 1x,
+				url('{{bg2x}}') 2x
+			);
+			background-image: image-set(
+				url('{{bg1x}}') 1x,
+				url('{{bg2x}}') 2x
+			);
+		}
+
+		#main {
+			background: rgba({{bgcolor}}, 0.79);
+			border-radius: 25px;
+			box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+			backdrop-filter: blur(22px);
+			border: 1px solid rgba({{bgcolor}}, 0.3);
+		}
+	}
+}

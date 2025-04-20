@@ -1,29 +1,23 @@
 {{
     # https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#some_common_font_families
     # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
-    std_serif_1 = '"Times New Roman", Times, Georgia, serif;'
-    fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif;'
-
-    yellowish_1 = '#fef7ef;'
-    whiteish_1 = '#fefefe;'
-    bgcolor = yellowish_1
-
-    max_page_width = '45em'
+    std_serif_1 = '"Times New Roman", Times, Georgia, serif'
+    fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif'
 }}
 
 :root {
-  --std-serif-1: {{ std_serif_1 }}
-  --fancy-sans-1: {{ fancy_sans_1 }}
+  --std-serif-1: {{ std_serif_1 }};
+  --fancy-sans-1: {{ fancy_sans_1 }};
 }
 
 body {
-  font-family: {{ std_serif_1 }}
-  background-color: {{bgcolor}}
+  font-family: {{ std_serif_1 }};
+  background-color: rgb({{bgcolor}});
   margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: {{ fancy_sans_1 }}
+  font-family: {{ fancy_sans_1 }};
 }
 
 body, #page-div {
@@ -38,10 +32,11 @@ body, #page-div {
 }
 
 #main {
-  max-width: {{max_page_width}};
-  margin: 0 auto;
+  max-width: {{max_content_width}};
+  margin: 1em auto 0 auto;
   padding-left: {{lr_padding}};
   padding-right: {{lr_padding}};
+  padding-bottom: 1em;
 }
 
 #footer {
