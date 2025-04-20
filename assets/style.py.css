@@ -42,7 +42,6 @@ body, #page-div {
   margin: 0 auto;
   padding-left: {{lr_padding}};
   padding-right: {{lr_padding}};
-  line-height: 1.5;
 }
 
 #footer {
@@ -54,6 +53,10 @@ body, #page-div {
 
 h1, h2, h3, h4 {
   color: #333;
+}
+
+p {
+  line-height: 1.5;
 }
 
 blockquote {
