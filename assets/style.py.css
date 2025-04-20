@@ -42,6 +42,7 @@ body, #page-div {
   margin: 0 auto;
   padding-left: {{lr_padding}};
   padding-right: {{lr_padding}};
+  line-height: 1.5;
 }
 
 #footer {
@@ -67,17 +68,8 @@ a:hover, a:focus, a:active {
   text-decoration: underline;
 }
 
-p {
-  line-height: 1.5;
-}
-p code {
-  background-color: #eee;
-  padding: 0.05em 0.2em;
-  border: 1px solid #ccc;
-}
-
 blockquote {
   padding-left: 1em;
   font-style: italic;
-  border-left: solid 1px #fa6432;
+  border-left: solid 1px purple;
 }
