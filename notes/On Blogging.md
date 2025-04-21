@@ -53,4 +53,11 @@ CSS Special Effects
 Other
 * How to Auto-Publish Your Markdown Posts to Medium: https://medium.com/@ritviknag/how-to-auto-publish-your-markdown-posts-to-medium-a9fe7519eaba 
 
+Beautiful Free Assets
+* Nature -- water flowing:
+    * https://pixabay.com/videos/waterfall-mountain-stream-flow-228847/
+    * https://pixabay.com/videos/waterfall-stream-river-mountains-169249/
+    * https://pixabay.com/videos/river-waterfall-mountain-forest-173887/
+    * https://pixabay.com/videos/river-stream-waterfall-trees-174860/
+
 

@@ -76,6 +76,15 @@ https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-unde
 
 Worse than Nazi Germany — no warning. Thugs. Even Germany warned an American journalist and gave them time. This is horror drama, for a people who love evil and whose hearts are dark and rejoice in evil.
 
+#### On Idiocy
+
+Zero understanding of the US constitutional principles.
+
+https://www.theatlantic.com/ideas/archive/2025/04/nazi-germany-tariffs-trade/682521/
+
+> Hitler had what one might call a diffident, occasionally felonious disregard for financial matters. He owed 400,000 reichsmarks in back taxes. His understanding of economics was primitive. “You have inflation only if you want it,” Hitler once said. “Inflation is a lack of discipline. I will see to it that prices remain stable. I have my S.A. for that.” (The S.A., or Brownshirts, were the original paramilitary organization associated with the Nazi Party.) Hitler held Jews responsible for most of Germany’s financial woes.
+
+
 ### Online personalities
 
 Jordan Peterson’s lie about the license.

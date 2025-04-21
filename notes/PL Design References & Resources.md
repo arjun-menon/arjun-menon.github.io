@@ -1,5 +1,5 @@
 
-
+Need to organize this...
 
 Idris:
 - https://www.idris-lang.org/
@@ -14,6 +14,8 @@ LigoL
 Zest: https://github.com/jamii/zest
  - via https://news.ycombinator.com/item?id=43379082
 
+On Zig:
+* https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
 
 Cadence: https://cadence-lang.org/docs/
 - https://cadence-lang.org/docs/tutorial/resources-compose
