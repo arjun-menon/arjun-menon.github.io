@@ -4,7 +4,7 @@ desc: Analysis of British Columbia's 2024 election, and the need for electoral r
 ---
 We need electoral reform in BC as soon as possible. BC came dangerously close to putting anti-science (e.g. climate-change-denying & anti-vaccine) pro-NIMBY conservatives in power. It is no small thing to endanger the future of a province with over 5 million of people over _an inability to enact electoral reform_. The harm that a Conservative victory would have caused people for four whole years (or more) cannot be understated. The <u>Legislative Assembly of British Columbia has the authority to pass electoral reform without subjecting the decision to an unnecessary referendum</u>.
 
-### Analysis of Results – ridings with vote splitting
+### Analysis of Results – Ridings where vote splitting had an impact
 
 These ridings either had their progressive vote split between NDP and Green, or their conservative vote split by independents:
 
@@ -144,7 +144,9 @@ If independent candidates had not run, the outcome of the election would have be
 
 ### Electoral Reform
 
-We need electoral reform ASAP to secure the future of British Columbia. We need a grassroots movement to push the NDP and Greens to enact electoral reform. 
+We need electoral reform ASAP to secure the future of British Columbia. Electoral reform substantially would reduce the serious danger of conspiracy-theory-touting conservatives gaining power. We need _**a grassroots movement**_ to push the NDP and Greens to enact electoral reform.
+
+Under the BC constiution and BC law, the legislature has the power to enact electoral reform unilaterally, without anyone else's approval and without any sort of referendum. Referendums offer dishonest conservatives a chance to spread FUD and lies about electoral reform. The supporters of the NDP and Greens need to campaign to have electoral reform passed <u>_simply with an Act of the [BC Legislative Assembly](https://en.wikipedia.org/wiki/Legislative_Assembly_of_British_Columbia)_</u>. The reform could take any shape, whether that's ranked choice or proportional representation.
 
 ### Sources
 
