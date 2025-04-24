@@ -4,7 +4,7 @@
 }}
 {% capture content %}
 <style>
-.article-content {
+.content {
 	font-family: {{ fancy_sans_1 }};
 }
 </style>
@@ -27,8 +27,6 @@ I'm looking for new job opportunities at the moment.
 </ul>
 &mdash; Arjun Menon
 
--->
-
 <p>
 <ol>
 {% for d in dir.subDirs %}
@@ -37,6 +35,8 @@ I'm looking for new job opportunities at the moment.
 {% endif %}
 {% endfor %}
 </ol>
+
+-->
 
 {% endcapture %}
 {{ inject(path('page')) }}
