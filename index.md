@@ -15,13 +15,23 @@ ul {
 .datenote {
 	color: gray;
 }
+.am-icon {
+	display:inline; border-radius: 16%;
+}
+.mdm-icon {
+	display:inline; border-radius: 35%;
+}
+.endnote-mail {
+	font-family: 'IM Fell English', {{ std_serif_1 }};
+	font-size: large;
+}
 </style>
 {{
 	icon_hw = '14px'
 	am_icon = link('AM-favicon-32x32')
-	am = f'<img style="display:inline; border-radius: 16%;" src="{am_icon}" height="{icon_hw}" width="{icon_hw}"/>'
+	am = f'<img class="am-icon" src="{am_icon}" height="{icon_hw}" width="{icon_hw}"/>'
 	medium_icon = link('medium-logo-square')
-	mdm = f'<img style="display:inline; border-radius: 35%;" src="{medium_icon}" height="{icon_hw}" width="{icon_hw}"/>'
+	mdm = f'<img class="mdm-icon" src="{medium_icon}" height="{icon_hw}" width="{icon_hw}"/>'
 }}
 
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, technology, science, etc.
@@ -63,7 +73,12 @@ I'm looking for new job opportunities at the moment. Feel free to take a look at
 	* [Distributed graph algorithms](https://github.com/arjun-menon/Distributed-Graph-Algorithms): implementations of a few distributed graph algorithms, where each node in the graph is a process, and IPC is used to solve graph problems.
 	* [Multi Adblock Detect](https://github.com/arjun-menon/multi-adblock-detect) ([npm](https://www.npmjs.com/package/multi-adblock-detect)): a library containing a React hook for detecting ad blockers.
 
+### Endnote
+
+You can reach out to me at <span class="endnote-mail">arj9 at pm dot me</span>, at my addresses listed elsewhere, or other platforms.
+
 I hope to write more stuff in the near future, and publish it here as well as elsewhere.
+
 
 {#
 

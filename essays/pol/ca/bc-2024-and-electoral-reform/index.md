@@ -115,7 +115,7 @@ details[open] summary {
 </style>
 
 <details>
-<summary style="font-family: var(--fancy-sans-1);">Details on Independent Candidates (click to view/hide)</summary>
+<summary style="font-family: var(--fancy-sans-1);">Details on the Independent Candidates (click to view/hide)</summary>
 
 {{write(markdown("""
 I've excluded the Ladysmith-Oceanside riding from the list above, since the independent spoiler candidate there ([Adam Walker](https://en.wikipedia.org/wiki/Adam_Walker_(Canadian_politician))) was a former NDP MLA who had been expelled from the NDP. This riding was won by the NDP, so Adam Walker's presence did not spoil this seat for progressive voters.
