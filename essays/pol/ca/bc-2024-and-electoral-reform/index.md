@@ -145,11 +145,11 @@ If independent candidates had not run, the outcome of the election would have be
 
 ### Electoral Reform
 
-We need electoral reform ASAP to secure the future of British Columbia.
+We need electoral reform ASAP to secure the future of British Columbia. We need a grassroots movement to push the NDP and Greens to enact electoral reform. 
 
 ### Sources
 
 This is based on the [final vote count](https://elections.bc.ca/news/2024-final-count-complete/)<sup>_[broken link](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html)_</sup> published on the Elections BC website. You can also explore the election results with an interactive map [on Global News](https://globalnews.ca/news/10801085/bc-election-results-live-2024-vote/).
 
-You can check out the [Python code for this page here](https://github.com/arjun-menon/arjun-menon.github.io/tree/master/essays/pol/bc-2024).
+You can check out the [Python code for this page here](https://github.com/arjun-menon/arjun-menon.github.io/tree/master/essays/pol/ca/bc-2024-and-electoral-reform).
 
