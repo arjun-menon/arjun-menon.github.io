@@ -3,8 +3,8 @@
 {{page.crumbs()}}
 <article>
 <h2>{{ title }}</h2>
-<div class="article-content">
 {% endif %}
+<div class="content">
 {{ content }}
 </div>
 {% if 'fiction' in [d.dirName for d in page.parents] + [dir.dirName] %}
@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
 <style>
-.article-content {
+.content {
 	font-family: 'IM Fell English', {{ std_serif_1 }};
 	font-size: 17px;
 }

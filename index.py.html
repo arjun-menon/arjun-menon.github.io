@@ -1,7 +1,13 @@
 {{
+	title = 'Arjun Menon'
 	desc = "Arjun Menon's essays, thoughts & notes."
 }}
 {% capture content %}
+<style>
+.article-content {
+	font-family: {{ fancy_sans_1 }};
+}
+</style>
 
 <p>
 I'm working on this website right now. It's not quite ready yet.
@@ -33,4 +39,4 @@ I'm looking for new job opportunities at the moment.
 </ol>
 
 {% endcapture %}
-{{ inject(path('skeleton')) }}
+{{ inject(path('page')) }}
