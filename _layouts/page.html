@@ -1,7 +1,7 @@
 {% capture content %}
-{% if exists('title') %}
 {{page.crumbs()}}
 <article>
+{% if exists('title') %}
 <h2>{{ title }}</h2>
 {% endif %}
 <div class="content">
