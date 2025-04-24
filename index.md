@@ -4,6 +4,7 @@ desc: Arjun Menon's essays, thoughts & notes.
 <style>
 .content {
 	font-family: {{ fancy_sans_1 }};
+	font-size: normal;
 }
 h1, h2 {
 	margin-top: 1em;
@@ -15,28 +16,37 @@ ul {
 	color: gray;
 }
 </style>
+{{
+	icon_hw = '14px'
+	am_icon = link('AM-favicon-32x32')
+	am = f'<img style="display:inline; border-radius: 16%;" src="{am_icon}" height="{icon_hw}" width="{icon_hw}"/>'
+	medium_icon = link('medium-logo-rounded-square')
+	mdm = f'<img style="display:inline;" src="{medium_icon}" height="{icon_hw}" width="{icon_hw}"/>'
+}}
 
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, etc.
 
-I write here, and [on medium](https://medium.com/@arjungmenon). A few of my writings, organized by topic, are:{# Some of my pieces include: #}
+{# ### Writings #}
+
+I write here and [on medium](https://medium.com/@arjungmenon). A few of my writings, organized by topic, are:{# Some of my pieces include: #}
 * Essays:
 	* On faith:
-		* [My Hope]({{link('my-hope')}}) (also on [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">(Jan 18, 2020)</span>
-		* [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
-		* [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
+		* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">(Jan 18, 2020)</span>
+		* {{mdm}} [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
+		* {{mdm}} [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
 	* On politics and the Christian faith:
-		* [A disturbing thing about Christianity in North America](https://medium.com/@arjungmenon/one-disturbing-thing-on-christianity-in-north-america-9dae8088c0e4) <span class="datenote">(Aug 4, 2023)</span>
+		* {{mdm}} [A disturbing thing about Christianity in North America](https://medium.com/@arjungmenon/one-disturbing-thing-on-christianity-in-north-america-9dae8088c0e4) <span class="datenote">(Aug 4, 2023)</span>
 	* On life:
-		* [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
+		* {{mdm}} [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
 	* On just politics:
-		* [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since ~Oct 2024)</span>
-		* [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
-		* [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
-		* [Ideas for reducing pollution / emissions](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* [Fiction]({{link('fiction')}}): I'm slowly starting to write some series of short stories, in the fantasy genre.
+		* {{am}} [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since ~Oct 2024)</span>
+		* {{mdm}} [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
+		* {{mdm}} [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
+		* {{mdm}} [Ideas for reducing emissions / pollution](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
+* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write some series of short stories, in the fantasy genre.
 {# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
 
-I hope the stuff I write is encouraging, contains good ideas, and is uplifting / hope-inducing, or is otherwise edifying in some way.
+I hope the stuff I write contains good ideas, or is encouraging / uplifting / hope-inducing, or otherwise edifying in some way.
 
 ### Software
 
