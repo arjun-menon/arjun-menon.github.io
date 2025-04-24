@@ -87,7 +87,7 @@ On a side note, it's highly probable that {{RCV}} (or {{PR}}) would lead to more
 
 #### Independent Candidates
 
-Most independent candidates held conservative views. Two ridings were won by the NDP due to the presence ofo conservative independent candidates.
+Most independent candidates held conservative views. Two ridings were won by the NDP because to the presence of conservative independent candidates (due to the [BC United / Liberal party](https://en.wikipedia.org/wiki/BC_United) shutting down _and effectively merging_ with the Cons).
 
 <style>
 /* From: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details */
