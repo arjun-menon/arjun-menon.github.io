@@ -4,7 +4,7 @@ import csv, locale, os
 
 def clean_up():
     locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-    raw_file_name = 'bc-vote-count-csvs/bc-2024-final-vote-count-oct-28-2024-raw.csv'
+    raw_file_name = 'bc-2024-vote-count-csvs/bc-2024-final-vote-count-oct-28-2024-raw.csv'
     cleaned_up_file_name = 'bc-2024-vote-count.csv'
     # I used https://www.convertcsv.com/html-table-to-csv.htm to generate the raw csv from:
     #   https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html
