@@ -1,10 +1,3 @@
-{{
-    # https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#some_common_font_families
-    # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
-    std_serif_1 = '"Times New Roman", Times, Georgia, serif'
-    fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif'
-}}
-
 :root {
   --std-serif-1: {{ std_serif_1 }};
   --fancy-sans-1: {{ fancy_sans_1 }};

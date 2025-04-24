@@ -5,5 +5,16 @@
 <h2>{{ title }}</h2>
 {% endif %}
 {{ content }}
+{% if 'fiction' in [d.dirName for d in page.parents] %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+<style>
+p {
+	font-family: 'IM Fell English', {{ std_serif_1 }};
+	font-size: 17px;
+}
+</style>
+{% endif %}
 </article>{% endcapture %}
 {{ inject(path('skeleton')) }}
