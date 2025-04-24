@@ -33,7 +33,7 @@ I write here, and [on medium](https://medium.com/@arjungmenon). A few of my writ
 		* [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
 		* [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
 		* [Ideas for reducing pollution / emissions](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* [Fiction]({{link('fiction')}}): I'm slowly starting writing some series of short stories, in the fantasy genre.
+* [Fiction]({{link('fiction')}}): I'm slowly starting to write some series of short stories, in the fantasy genre.
 {# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
 
 I hope the stuff I write is encouraging, contains good ideas, and is uplifting / hope-inducing, or is otherwise edifying in some way.
