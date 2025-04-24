@@ -5,7 +5,7 @@ desc: Analysis of British Columbia's 2024 election, and the need for electoral r
 ---
 We need electoral reform in BC as soon as possible. BC came dangerously close to putting anti-science (e.g. climate-change-denying & anti-vaccine) pro-NIMBY conservatives in power. It is no small thing to endanger the future of a province with over 5 million of people over _an inability to enact electoral reform_. The harm that a Conservative victory would have caused people for four whole years (or more) cannot be understated. The <u>Legislative Assembly of British Columbia has the authority to pass electoral reform without subjecting the decision to an unnecessary referendum</u>.
 
-#### Ridings where Split Votes made a difference
+### Analysis of Results – ridings where _vote splitting_ changed outcomes
 
 These ridings either had their progressive vote split between NDP and Green, or their conservative vote split by independents:
 
@@ -143,11 +143,13 @@ The four ridings above, won by the Cons, which would have stayed with the Cons, 
 
 If independent candidates had not run, the outcome of the election would have been the Cons at 46 seats, the NDP at 45, and the Greens at 2 seats. This would not have been a good state of affairs.
 
+### Electoral Reform
+
 We need electoral reform ASAP to secure the future of British Columbia.
 
-#### Sources
+### Sources
 
-This is based on the [final vote count](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html) published on the Elections BC website. You can also explore the election results with an interactive map [on Global News](https://globalnews.ca/news/10801085/bc-election-results-live-2024-vote/).
+This is based on the [final vote count](https://elections.bc.ca/news/2024-final-count-complete/)<sup>_[broken link](https://electionsbcenr.blob.core.windows.net/electionsbcenr/Results_7097_GE-2024-10-19_Party.html)_</sup> published on the Elections BC website. You can also explore the election results with an interactive map [on Global News](https://globalnews.ca/news/10801085/bc-election-results-live-2024-vote/).
 
 You can check out the [Python code for this page here](https://github.com/arjun-menon/arjun-menon.github.io/tree/master/essays/pol/bc-2024).
 
