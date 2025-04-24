@@ -7,3 +7,9 @@ I'm writing a series of short stories, partly inspired by the universes of Tolki
 
 The temporary placeholder name for these, for now, is Endor <sup>([definition](https://tolkiengateway.net/wiki/Endor))</sup>.
 
+### Chapters
+
+{% for page in dir.pages %}
+* <a href="{{link(page)}}">{{page.title}}</a>
+{% %}
+
