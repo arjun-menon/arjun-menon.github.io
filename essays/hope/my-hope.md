@@ -1,6 +1,5 @@
 ---
 title: My Hope
-public: true
 desc: What I put my hope in.
 ---
  _Note:_ This post is mostly a collection of Bible verses–in particular, the Bible verses that forms the essence of my hope.

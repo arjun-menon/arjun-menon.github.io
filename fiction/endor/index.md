@@ -1,4 +1,3 @@
-public: true
 title: Endor
 desc: A series of short stories, set in Endor and Valinor.
 ---
