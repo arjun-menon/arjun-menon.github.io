@@ -54,7 +54,7 @@ nav {
   font-size: smaller;
   font-family: {{ fancy_sans_1 }};
   a {
-    color: rgb(250, 50, 50);
+    color: rgb(150, 50, 0); /* #963200 */
     text-decoration: none;
   }
   a:hover, a:focus, a:active {
