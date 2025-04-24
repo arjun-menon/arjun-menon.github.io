@@ -4,15 +4,17 @@ desc: Analysis of British Columbia's 2024 election, and the need for electoral r
 ---
 We need electoral reform in BC as soon as possible. BC came dangerously close to putting anti-science (e.g. climate-change-denying & anti-vaccine) pro-NIMBY conservatives in power. It is no small thing to endanger the future of a province with over 5 million of people over _an inability to enact electoral reform_. The harm that a Conservative victory would have caused people for four whole years (or more) cannot be understated. The <u>Legislative Assembly of British Columbia has the authority to pass electoral reform without subjecting the decision to an unnecessary referendum</u>.
 
-### Analysis of Results – Ridings where vote splitting had an impact
+### Ridings where split votes had an impact
 
 These ridings either had their progressive vote split between NDP and Green, or their conservative vote split by independents:
 
 {{
 	from process_data import Riding
 	table_rows = Riding.voteSplits
-}}
 
+	thumbnail = link('bc-2024-thumbnail-c')
+	extra_meta_html = f'<meta property="og:image" content="{thumbnail}" />'
+}}
 
 <style>
 #main {
