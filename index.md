@@ -28,14 +28,14 @@ I write here, and [on medium](https://medium.com/@arjungmenon). A few of my writ
 * On life:
 	* [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
 * On just politics:
-	* [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since Oct 2024)</span>
+	* [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since ~Oct 2024)</span>
 	* [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
 	* [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
 	* [Ideas for reducing pollution / emissions](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
 * [Fiction]({{link('fiction')}}): I'm starting writing some series of short stories, in the fantasy genre.
 {# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
 
-I hope the stuff I write is encouraging, uplifting, hope-inducing, or otherwise edifying in some way.
+I hope the stuff I write is encouraging, contains good ideas, and is uplifting / hope-inducing, or is otherwise edifying in some way.
 
 ### Software
 
