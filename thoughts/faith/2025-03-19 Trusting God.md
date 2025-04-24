@@ -4,7 +4,7 @@ public: true
 ---
 _Notes from chats with my friend Emmanuel._
 
-<u>From 2025-03-19:</u>
+#### <u>From 2025-03-19:</u>
 
 In the morning, as soon as I’m awake, I focus on trusting in God, and I take peace from it.
 
@@ -22,19 +22,19 @@ It’s the habit of the unbelievers to worry & run after all sorts of things (th
 
 Good pslam to read: Pslam 62.
 
-<u>From 2025-03-14:</u>
+#### <u>From 2025-03-14:</u>
 
 If you have faith, that God will give you the right person at the right time, then you’ll stop thinking about all this. And you’ll think about other things, and seek first the kingdom. Why worry, since God will deliver.
 
-<u>From 2025-02-23:</u>
+#### <u>From 2025-02-23:</u>
 
 Do not make emotions your boss.
 
-<u>From 2025-02-14:</u>
+#### <u>From 2025-02-14:</u>
 
 It’s good to not give into that feeling of wanting to feel comfort all the time.
 
-<u>From 2025-02-10:</u>
+#### <u>From 2025-02-10:</u>
 
 Anything you do: Be in a mind of connection and trust in the Lord.
 
