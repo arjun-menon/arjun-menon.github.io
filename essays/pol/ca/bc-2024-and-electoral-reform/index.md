@@ -12,7 +12,7 @@ These ridings either had their progressive vote split between NDP and Green, or 
 	from process_data import Riding
 	table_rows = Riding.voteSplits
 
-	thumbnail = link('bc-2024-thumbnail-c')
+	thumbnail = './' + link('bc-2024-thumbnail')
 	extra_meta_html = f'<meta property="og:image" content="{thumbnail}" />'
 }}
 
