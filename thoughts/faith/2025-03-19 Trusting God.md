@@ -1,5 +1,4 @@
 ---
-title: Trusting God
 public: true
 ---
 _Notes from chats with my friend Emmanuel._
@@ -36,6 +35,6 @@ It’s good to not give into that feeling of wanting to feel comfort all the tim
 
 #### <u>From 2025-02-10:</u>
 
-Anything you do: Be in a mind of connection and trust in the Lord.
+With anything you do: Be in a mind of connection and trust in the Lord.
 
 When you’re feeling sad about something, brining it to the Lord is better than thanking about it a lot.
