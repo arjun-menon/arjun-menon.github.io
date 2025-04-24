@@ -37,25 +37,16 @@
 @font-face {
     font-family: 'Optima';
     font-style: normal;
-    font-weight: 400;
     src: local('Optima'), url('https://fonts.cdnfonts.com/s/14439/OPTIMA.woff') format('woff');
 }
 @font-face {
     font-family: 'Optima';
     font-style: italic;
-    font-weight: 5;
-    src: local('Optima'), url('https://fonts.cdnfonts.com/s/14439/Optima_Italic.woff') format('woff');
+    src: local('Optima Italic'), url('https://fonts.cdnfonts.com/s/14439/Optima_Italic.woff') format('woff');
 }
 @font-face {
     font-family: 'Optima';
-    font-style: normal;
-    font-weight: 550;
-    src: local('Optima'), url('https://fonts.cdnfonts.com/s/14439/Optima Medium.woff') format('woff');
-}
-@font-face {
-    font-family: 'Optima';
-    font-style: normal;
-    font-weight: 700;
-    src: local('Optima'), url('https://fonts.cdnfonts.com/s/14439/OPTIMA_B.woff') format('woff');
+    font-weight: bold;
+    src: local('Optima Bold'), url('https://fonts.cdnfonts.com/s/14439/OPTIMA_B.woff') format('woff');
 }
 
