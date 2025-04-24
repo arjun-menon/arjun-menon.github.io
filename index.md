@@ -24,7 +24,7 @@ ul {
 	mdm = f'<img style="display:inline; border-radius: 35%;" src="{medium_icon}" height="{icon_hw}" width="{icon_hw}"/>'
 }}
 
-Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, etc.
+Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, technology, science, etc.
 
 {# ### Writings #}
 
@@ -43,7 +43,7 @@ I write here and [on medium](https://medium.com/@arjungmenon). A few of my writi
 		* {{mdm}} [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
 		* {{mdm}} [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
 		* {{mdm}} [Ideas for reducing emissions / pollution](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write some series of short stories, in the fantasy genre.
+* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write a series of short stories, in the fantasy genre.
 {# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
 
 I hope the stuff I write contains good ideas, or is encouraging / uplifting / hope-inducing, or otherwise edifying in some way.
@@ -65,7 +65,7 @@ I'm looking for new job opportunities at the moment. Feel free to take a look at
 
 I hope to write more stuff in the near future, and publish it here as well as elsewhere.
 
-<!--
+{#
 
 <p>
 <ol>
@@ -78,4 +78,4 @@ I hope to write more stuff in the near future, and publish it here as well as el
 
 &mdash; Arjun Menon
 
--->
+#}
