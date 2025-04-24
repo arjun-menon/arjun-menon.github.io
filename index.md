@@ -19,20 +19,21 @@ ul {
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, etc.
 
 I write here, and [on medium](https://medium.com/@arjungmenon). A few of my writings, organized by topic, are:{# Some of my pieces include: #}
-* On faith:
-	* [My Hope]({{link('my-hope')}}) (also on [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">(Jan 18, 2020)</span>
-	* [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
-	* [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
-* On politics and the Christian faith:
-	* [A disturbing thing about Christianity in North America](https://medium.com/@arjungmenon/one-disturbing-thing-on-christianity-in-north-america-9dae8088c0e4) <span class="datenote">(Aug 4, 2023)</span>
-* On life:
-	* [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
-* On just politics:
-	* [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since ~Oct 2024)</span>
-	* [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
-	* [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
-	* [Ideas for reducing pollution / emissions](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* [Fiction]({{link('fiction')}}): I'm starting writing some series of short stories, in the fantasy genre.
+* Essays:
+	* On faith:
+		* [My Hope]({{link('my-hope')}}) (also on [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">(Jan 18, 2020)</span>
+		* [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
+		* [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
+	* On politics and the Christian faith:
+		* [A disturbing thing about Christianity in North America](https://medium.com/@arjungmenon/one-disturbing-thing-on-christianity-in-north-america-9dae8088c0e4) <span class="datenote">(Aug 4, 2023)</span>
+	* On life:
+		* [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
+	* On just politics:
+		* [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since ~Oct 2024)</span>
+		* [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
+		* [What on earth was the NDP and Jagmeet Singh thinking? Two options to consider](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
+		* [Ideas for reducing pollution / emissions](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
+* [Fiction]({{link('fiction')}}): I'm slowly starting writing some series of short stories, in the fantasy genre.
 {# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
 
 I hope the stuff I write is encouraging, contains good ideas, and is uplifting / hope-inducing, or is otherwise edifying in some way.
