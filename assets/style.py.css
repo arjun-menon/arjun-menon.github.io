@@ -18,6 +18,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: {{ fancy_sans_1 }};
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  color: #333;
 }
 
 body, #page-div {
@@ -46,8 +49,17 @@ body, #page-div {
   height: 44px;
 }
 
-h1, h2, h3, h4 {
-  color: #333;
+nav {
+  padding-top: 1em;
+  font-size: smaller;
+  font-family: {{ fancy_sans_1 }};
+  a {
+    color: rgb(250, 50, 50);
+    text-decoration: none;
+  }
+  a:hover, a:focus, a:active {
+    text-decoration: underline;
+  }
 }
 
 p {

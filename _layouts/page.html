@@ -1,6 +1,9 @@
 {% capture content %}
 {% if exists('title') %}
+{{page.crumbs()}}
+<article>
 <h2>{{ title }}</h2>
+</article>
 {% endif %}
 {{ content }}{% endcapture %}
 {{ inject(path('skeleton')) }}
