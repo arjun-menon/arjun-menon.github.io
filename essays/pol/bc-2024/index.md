@@ -87,8 +87,37 @@ On a side note, it's highly probable that {{RCV}} (or {{PR}}) would lead to more
 
 #### Independent Candidates
 
-Most independent candidates held conservative views.
+Most independent candidates held conservative views. Two ridings were won by the NDP due to the presence ofo conservative independent candidates.
 
+<style>
+/* From: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details */
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+</style>
+
+<details>
+<summary style="font-family: var(--fancy-sans-1);">Details on Independent Candidates (click to view/hide)</summary>
+
+{{write(markdown("""
 I've excluded the Ladysmith-Oceanside riding from the list above, since the independent spoiler candidate there ([Adam Walker](https://en.wikipedia.org/wiki/Adam_Walker_(Canadian_politician))) was a former NDP MLA who had been expelled from the NDP. This riding was won by the NDP, so Adam Walker's presence did not spoil this seat for progressive voters.
 
 The two ridings which would have flipped from the NDP to the Cons were:
@@ -106,6 +135,14 @@ The four ridings above, won by the Cons, which would have stayed with the Cons, 
 * Boundary-Similkameen: former PPC candidate [Sean Taylor](https://www.pentictonwesternnews.com/local-news/former-peoples-party-candidate-running-for-mla-of-boundary-similkameen-7551429) ran here, and got 779 votes. The PPC is a single-issue far-right party that calls for a moratorium on immigration.
 
 * Langley-Walnut Grove: [Carlos Suaréz Rubio](https://en.votemate.org/local2022/candidates/6828) was the independent here, but his page says he's with BC Cons, even though Misty Van Popta was the BC Con for this riding. No idea what the story was here; perhaps his candidacy was rejected by the Cons, and so he decided to run as an independent.
+
+"""))}}
+
+</details>
+
+If independent candidates had not run, the outcome of the election would have been the Cons at 46 seats, the NDP at 45, and the Greens at 2 seats. This would not have been a good state of affairs.
+
+We need electoral reform ASAP to secure the future of British Columbia.
 
 #### Sources
 
