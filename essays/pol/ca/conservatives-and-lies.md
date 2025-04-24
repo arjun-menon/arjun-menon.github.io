@@ -3,9 +3,6 @@ title: Conservative Politicians and Lies – a Culture of Deception
 desc: Dishonesty and Misrepresentation are the bread and butter of North American conservative politicians. The extreme, rampant, and pervasive dishonesty of conservative politicians is evil.
 public: true
 ---
-<div style="text-align: end;">
-"My people are destroyed for lack of knowledge." — Hosea 4:6a.
-</div>
 
 Unfortunately, dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I will discuss this sad state of affairs in both Canada and the U.S., by touching on a few demonstrative examples.
 
@@ -189,6 +186,94 @@ The issue of discernment of the truth—vaccines, science, climate change, carbo
 There might be a place for a fiscally-conservative low-regulation/small-government point of view, but North American conservatives have long abandoned such a point of view. In Canada, the fiscally-conservative party today would be the Liberal Party of Canada. The Conservative Party of Canada has become the *"shamelessly lie to people endlessly"* party.
 
 ---
+
+free speech - Amy Wax “cancleation”
+
+I know atheist or agnostic Democrats in the US who were against abortion. And, yes, atheists have moral values, even if people like Frank Turek like to claim that atheists do not have moral values (link to Randal Rauser video).
+
+[https://www.reddit.com/r/Foodforthought/s/h3KaLmzIsV](https://www.reddit.com/r/Foodforthought/s/h3KaLmzIsV) 
+
+PP’s dishonesty with numbers: https://www.reddit.com/r/CanadaPolitics/comments/1k5aiqp/comment/moglmlc/
+
+Or to constitutional order: https://www.reddit.com/r/WeTheFifth/s/JR5WKd8BQ5
+
+Reliable news sources: PressProgress.ca, The Breach, Current Affairs, Slate, The Tyee, etc.
+
+PP lying about crime: [https://www.reddit.com/r/SaveTheCBC/s/3EHtP2iyri](https://www.reddit.com/r/SaveTheCBC/s/3EHtP2iyri) 
+
+PP most lies in debate: https://cultmtl.com/2025/04/report-finds-pierre-poilievre-told-the-most-lies-at-last-nights-leaders-debate/ ( via https://www.reddit.com/r/onguardforthee/comments/1k1fqmu/report_finds_pierre_poilievre_told_the_most_lies/ and https://www.reddit.com/r/CanadianIdiots/s/6iR2PxivKu )
+
+https://www.reddit.com/r/GlobalNews/comments/1k2dl0f/trump_accused_a_reporter_of_being_fake_and/
+
+It’s better to refuse to lie and lose an election, than to win an election through dishonest means.
+
+Vague words like woke: https://www.youtube.com/watch?v=C6hOk-XdE9c 
+
+The demonization of empathy is insane.
+Any moral person can see that (whether Christian or not).
+- the 2 posts I shared with Evan.
+
+Empathy — not hatred and fear — is the correct response — is the correct way
+
+The spreading of all this hatred and lack of empathy is a moral disaster — they’re spreading evil, corrupting people (including Christians), etc.
+
+On doge: https://www.currentaffairs.org/news/only-a-dope-would-like-doge 
+
+The child who committed suicide after being bullied by classmates.
+
+https://www.nytimes.com/2025/04/15/world/americas/trump-migrants-deportations.html
+> Last month, an appeals court judge criticized the lack of due process under the Trump administration. “Nazis got better treatment under the Alien Enemy Act,” said Judge Patricia Millett.
+   During World War II, the Department of Justice established civilian hearing boards in which “registered aliens” of German, Italian and Japanese descent arrested by the government could argue they were not a danger to the nation, legal scholars said.
+> Many scholars have criticized that process as deeply flawed; detainees were not afforded lawyers and could still be held based on hearsay and bias or racial discrimination.
+> But Eric L. Muller, a professor at the University of North Carolina School of Law, said they nevertheless provided “a check” on the government, adding that the majority of people who obtained a hearing under the civilian boards were released.
+
+Wes Huff lying
+- ask Evan
+
+https://reason.com/2025/04/15/stephen-miller-egregiously-misrepresented-a-supreme-court-order-while-trump-nodded-along/
+
+Augustine on lies.
+
+My own 2 lies in the past month: I remember distincitly that I felt really dirty about it, and how it’s not okay at all - no matter who is doing it. And I’m working on getting better at this — and not lying at all ever; if anything, I can simply refuse to answer a question when asked, instead of making dishonest statements.
+
+Lies from Liberals and NDP:
+- Federal NDP fearmongering about abortion …
+- Ontario Liberal lie about Doug Ford
+- (This doesn’t really count.) Federal Liberal canvassers. Mark Carney’s response was epic and excellent, and the right one here.  
+
+https://www.reddit.com/r/law/comments/1jynkpk/comment/mn00rdg/
+
+crowd size
+
+Rachel Gilmore PP video on abortion
+
+The conservatives feel so comfortable with lying / general dishonesty, that they have no problem pretending like all the people sent to CECOT were criminals, whereas in reality circa 75% of deportees to CECTO had no criminal recrod. This comfort of theirs with lying is disgusting. Everyone in that room knew full well that they were lying, but they felt perfectly comfortable with lying. In general, due process — a disrespect for the principles of Magna Carta and the Bill of Rights has been a conservative attitude for a long time.
+
+[…] I don’t know if these people are just stupid or what. I think you have the lying conservative politicians on the top who just blatantly plain evil, and then you have large masses of low intelligence people who believe all the lies have little understanding of constitutional rights and freedoms, and just go carry on with the evil and wickedness of hatred of the other outgroup.
+
+These people are behaving worse than the Nazis were in the mid-1930s with a foreign journalist they didn’t like. 
+
+https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump
+
+the reason people say “reality is liberal” is because the conservatives live in such a matrix of lies that it feels so to them.
+
+Children died due to doge: [https://www.reddit.com/r/WhitePeopleTwitter/s/LfF5epuYdH](https://www.reddit.com/r/WhitePeopleTwitter/s/LfF5epuYdH)
+
+The Bible — the widow and the orphan — cons who want to make mothers economically dependent and desperate.
+
+Major Canadian subs are run by white supremacists: https://www.reddit.com/r/canadaleft/comments/1k5crzw/comment/mohqpj3/
+
+Vagueness and conservative thought:
+* Example: https://news.bloomberglaw.com/daily-labor-report/trumps-illegal-dei-orders-hit-due-process-questions-in-court
+* Rachel Gilmore on the Cons adding "woke" to their platform
+
+
+
+---
+
+<div style="text-align: end;">
+"My people are destroyed for lack of knowledge." — Hosea 4:6a.
+</div>
 
 "The righteous detest the dishonest; the wicked detest the upright." — Proverbs 29:27 (NIV).<br>
 "An unjust man is an abomination to the righteous, but one whose way is straight is an abomination to the wicked." — Proverbs 29:27 (ESV).<br>
