@@ -7,20 +7,16 @@
 }}
 @media (min-width: {{max_content_width}}) {
 	@supports (backdrop-filter: blur(20px)) {
-		#page-div {
+		body {
+			background-color: rgb({{body_bgcolor}});
 			background-image: -webkit-image-set(
 				url('{{bg1x}}') 1x,
 				url('{{bg2x}}') 2x
-			);
+			), url("{{textured_paper_png}}");
 			background-image: image-set(
 				url('{{bg1x}}') 1x,
 				url('{{bg2x}}') 2x
-			);
-		}
-
-		body {
-			background-color: rgb({{body_bgcolor}});
-			background-image: url("{{textured_paper_png}}");
+			), url("{{textured_paper_png}}");
 		}
 
 		#main {
