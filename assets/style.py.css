@@ -5,17 +5,14 @@
   --fancy-sans-1: {{ fancy_sans_1 }};
 }
 
+/*
+ * Body, page layout, etc.
+ */
+
 body {
   margin: 0;
   font-family: {{ std_serif_1 }};
   background-color: rgb({{bgcolor}});
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: {{ fancy_sans_1 }};
-  margin-top: 0.5em;
-  margin-bottom: 0;
-  color: #333;
 }
 
 body, #page-div {
@@ -44,6 +41,10 @@ body, #page-div {
   height: 44px;
 }
 
+/*
+ * Nav crumbs
+ */
+
 nav {
   padding-top: 1em;
   font-size: smaller;
@@ -55,6 +56,17 @@ nav {
   a:hover, a:focus, a:active {
     text-decoration: underline;
   }
+}
+
+/*
+ * Content
+ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: {{ fancy_sans_1 }};
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  color: #333;
 }
 
 p {
@@ -69,10 +81,37 @@ blockquote {
   border-left: solid 1.5px purple;
 }
 
+/*
+ * CSS from https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
+ */
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+
+/*
+ * Inline icons
+ */
 {{
   icon_hw = '14px'
 }}
-
 {% def icon_class class_name icon_url border_radius %}
 .{{class_name}} {
   background: url("{{link(icon_url)}}");
