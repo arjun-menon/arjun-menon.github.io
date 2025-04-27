@@ -1,4 +1,4 @@
-skip = ['_archive', '_layouts']
+skip = ['_layouts']
 
 layout = 'page'  # default layout
 
