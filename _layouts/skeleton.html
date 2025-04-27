@@ -21,7 +21,7 @@
 </head>
 
 <body>
-<link rel="stylesheet" href="{{link('style')}}">
+<link rel="stylesheet" href="{{link('style')}}?{{int(file('style').lastModifiedObj.timestamp())}}">
 <div id="page-div">
 
 <main id="main" role="main">
