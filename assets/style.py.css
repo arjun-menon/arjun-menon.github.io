@@ -36,7 +36,7 @@ body, #page-div {
 
 #footer {
   /* https://stackoverflow.com/questions/56309871/svg-as-a-css-background-is-there-any-way-to-repeat-x-with-no-space-in-between */
-  background-image: url("/assets/grass-01.svg"); /* {{link('grass-01')}} */
+  background-image: url("{{link('grass-01')}}");
   background-repeat: repeat-x;
   height: 44px;
 }
