@@ -120,8 +120,9 @@ details[open] summary {
   height: {{icon_hw}};
   width: {{icon_hw}};
   display: inline-block;
-}
-{% %}
+}{% %}
 
 {{icon_class('am-icon', 'AM-favicon-192x192', '16%')}}
 {{icon_class('mdm-icon', 'medium-logo-square', '35%')}}
+
+/* Last modified {{page.getLastModified()}}. */
