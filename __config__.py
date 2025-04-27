@@ -22,3 +22,6 @@ bgcolor = content_bgcolor
 # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
 std_serif_1 = '"Times New Roman", Times, Georgia, serif'
 fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif'
+
+am = f'<span class="am-icon"></span>'
+mdm = f'<span class="mdm-icon"></span>'

@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 :root {
   --std-serif-1: {{ std_serif_1 }};
   --fancy-sans-1: {{ fancy_sans_1 }};
@@ -65,3 +67,21 @@ blockquote {
   font-style: italic;
   border-left: solid 1.5px purple;
 }
+
+{{
+  icon_hw = '14px'
+}}
+
+{% def icon_class class_name icon_url border_radius %}
+.{{class_name}} {
+  background: url("{{link(icon_url)}}");
+  background-size: cover;
+  border-radius: {{border_radius}};
+  height: {{icon_hw}};
+  width: {{icon_hw}};
+  display: inline-block;
+}
+{% %}
+
+{{icon_class('am-icon', 'AM-favicon-192x192', '16%')}}
+{{icon_class('mdm-icon', 'medium-logo-square', '35%')}}

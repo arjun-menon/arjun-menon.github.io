@@ -15,24 +15,11 @@ ul {
 .datenote {
 	color: gray;
 }
-.am-icon {
-	display:inline; border-radius: 16%;
-}
-.mdm-icon {
-	display:inline; border-radius: 35%;
-}
 .endnote-mail {
 	font-family: 'IM Fell English', {{ std_serif_1 }};
 	font-size: large;
 }
 </style>
-{{
-	icon_hw = '14px'
-	am_icon = link('AM-favicon-32x32')
-	am = f'<img class="am-icon" src="{am_icon}" height="{icon_hw}" width="{icon_hw}"/>'
-	medium_icon = link('medium-logo-square')
-	mdm = f'<img class="mdm-icon" src="{medium_icon}" height="{icon_hw}" width="{icon_hw}"/>'
-}}
 
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation. Some of my favorite topics include computer science / software, religion, politics, history, technology, science, etc.
 
