@@ -18,7 +18,7 @@ Many people often repeat the same nonsense they hear.
 
 Many people blindly trust these lying politicians; not having recognized the lies for what they are.
 
-
+{#
 ### Canada
 
 Carbon tax
@@ -92,7 +92,8 @@ D’Souza — a liar at a whole different level — it’s too much to get into 
 
 Right wing media dominance - media matters diagram, Reddit post on it.
 * https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly
-* Better sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian.
+* Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs.
+* Better Canadian news: TheWalrus, The Tyee, PressProgress.ca, The Breach, etc.
 
 ### Vagueness
 
@@ -156,7 +157,54 @@ The problem of Con bots online: https://www.reddit.com/r/onguardforthee/comments
 ...
 
 
+More Stuff
 
+
+People repeating lies without thinking:
+
+Video people-and-political-ideas-louis-rossmann-av1-opus-1920x1080.mp4
+
+  
+
+Golden card subterfuge. Modifying the existing eb5, perhaps even making it even more restrictivec and pretending like this is a new thing. 
+
+  
+
+sales tax nonsense — an attempt to redistribute the tax burden — and lower taxes on the wealthiest groups
+
+  
+
+lying about kilmar: [https://www.theatlantic.com/politics/archive/2025/04/kilmar-abrego-garcia-plan-reversal/682594/](https://www.theatlantic.com/politics/archive/2025/04/kilmar-abrego-garcia-plan-reversal/682594/) 
+
+  
+
+Pierre Poilievre named #1 spreader of disinformation in Canada by ChatGPT: [https://cultmtl.com/2025/04/pierre-poilievre-named-1-spreader-of-disinformation-in-canada-by-chatgpt/](https://cultmtl.com/2025/04/pierre-poilievre-named-1-spreader-of-disinformation-in-canada-by-chatgpt/) 
+
+  
+
+"A previous [study](https://cultmtl.com/2023/10/study-finds-that-84-of-canadians-with-strongest-belief-in-disinformation-vote-conservative/) by EKOS found that 84% of Canadians with the strongest belief in disinformation vote Conservative.”
+
+- [https://cultmtl.com/2023/10/study-finds-that-84-of-canadians-with-strongest-belief-in-disinformation-vote-conservative/](https://cultmtl.com/2023/10/study-finds-that-84-of-canadians-with-strongest-belief-in-disinformation-vote-conservative/)
+
+  
+
+It’s evil and wrong (and _a disgrace to Christ_) if people purpoting to be Christians (who are supposed to be bearers of light and truth) believe liars and crooks, and follow after and repeat conspiracy theories.
+
+  
+
+[https://www.theguardian.com/commentisfree/2025/apr/27/fibs-and-exaggeration-have-always-been-part-of-politics-but-who-knows-what-lies-are-now-being-pushed-online](https://www.theguardian.com/commentisfree/2025/apr/27/fibs-and-exaggeration-have-always-been-part-of-politics-but-who-knows-what-lies-are-now-being-pushed-online) 
+
+  
+
+“It's one big show of contempt for the court, rife with dishonest behavior” — [https://www.akronlegalnews.com/editorial/36631](https://www.akronlegalnews.com/editorial/36631) 
+
+  
+
+Great reset garbage on National Post: [https://archive.is/oTvS5](https://archive.is/oTvS5) 
+
+  
+
+PP could have been a disaster: [https://www.youtube.com/watch?v=vJYuQ1fFLPg](https://www.youtube.com/watch?v=vJYuQ1fFLPg) from 3:30
 
 
 ---
@@ -196,8 +244,6 @@ I know atheist or agnostic Democrats in the US who were against abortion. And, y
 PP’s dishonesty with numbers: https://www.reddit.com/r/CanadaPolitics/comments/1k5aiqp/comment/moglmlc/
 
 Or to constitutional order: https://www.reddit.com/r/WeTheFifth/s/JR5WKd8BQ5
-
-Reliable news sources: PressProgress.ca, The Breach, Current Affairs, Slate, The Tyee, etc.
 
 PP lying about crime: [https://www.reddit.com/r/SaveTheCBC/s/3EHtP2iyri](https://www.reddit.com/r/SaveTheCBC/s/3EHtP2iyri) 
 
@@ -277,3 +323,4 @@ Vagueness and conservative thought:
 
 "The righteous detest the dishonest; the wicked detest the upright." — Proverbs 29:27 (NIV).<br>
 "An unjust man is an abomination to the righteous, but one whose way is straight is an abomination to the wicked." — Proverbs 29:27 (ESV).<br>
+#}
