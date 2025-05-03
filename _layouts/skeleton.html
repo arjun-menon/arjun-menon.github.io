@@ -8,7 +8,7 @@
 }}
 <head>
 <meta charset="utf-8">
-<title>{% if page.isIndex and page.parentName == '/' %}Arjun G. Menon{% elif exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
+<title>{% if page.isIndex and page.parentDir.dirName == '/' %}Arjun G. Menon{% elif exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
 <link rel="preload" href="{{style_css_href}}" as="style">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if exists('desc') %}<meta name="description" content="{{ desc }}">{% endif %}
