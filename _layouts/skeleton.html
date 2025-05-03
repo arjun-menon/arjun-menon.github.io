@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 
+{{
+	style_css_href = f"{link('style')}?t={int(file('style').lastModifiedObj.timestamp())}"
+}}
 <head>
 <meta charset="utf-8">
 <title>{% if page.isIndex and page.parentName == '/' %}Arjun G. Menon{% elif exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
-<link rel="preload" href="{{link('style')}}" as="style">
+<link rel="preload" href="{{style_css_href}}" as="style">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {% if exists('desc') %}<meta name="description" content="{{ desc }}">{% endif %}
 <link rel="icon" type="image/png" sizes="192x192" href="{{link('AM-favicon-192x192')}}">
@@ -21,7 +24,7 @@
 </head>
 
 <body>
-<link rel="stylesheet" href="{{link('style')}}?{{int(file('style').lastModifiedObj.timestamp())}}">
+<link rel="stylesheet" href="{{style_css_href}}">
 <div id="page-div">
 
 <main id="main" role="main">
