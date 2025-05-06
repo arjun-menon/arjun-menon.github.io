@@ -164,7 +164,9 @@ People repeating lies without thinking:
 
 Video people-and-political-ideas-louis-rossmann-av1-opus-1920x1080.mp4
 
-  
+
+Alberta disability payments clawback:  [https://www.cbc.ca/news/canada/edmonton/alberta-to-claw-back-federal-disability-benefit-from-aish-recipients-1.7493962](https://www.cbc.ca/news/canada/edmonton/alberta-to-claw-back-federal-disability-benefit-from-aish-recipients-1.7493962)
+
 
 Golden card subterfuge. Modifying the existing eb5, perhaps even making it even more restrictivec and pretending like this is a new thing. 
 
