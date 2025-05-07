@@ -107,6 +107,18 @@ https://www.reddit.com/r/CanadianIdiots/comments/1jvmjjs/theyre_young_male_and_s
 
 ### On Canada again
 
+[https://www.reddit.com/r/CanadaPolitics/comments/1kfmsge/comment/mqrxdcc/](https://www.reddit.com/r/CanadaPolitics/comments/1kfmsge/comment/mqrxdcc/) 
+
+Zelaya, another liar:
+- [https://www.threads.com/@thefrankdomenic/post/DIE4y_YiNyc/video-zelaya-maple-maga-is-crashing-out-hard-with-election-misinformation-theyre-panic](https://www.threads.com/@thefrankdomenic/post/DIE4y_YiNyc/video-zelaya-maple-maga-is-crashing-out-hard-with-election-misinformation-theyre-panic) 
+
+[https://en.wikipedia.org/wiki/Draft:Great_Reset_conspiracy_theory](https://en.wikipedia.org/wiki/Draft:Great_Reset_conspiracy_theory)
+
+George Bush — the clip of the guy saying he lied [https://www.reddit.com/r/librandu/comments/1kdthf9/what_is_the_indian_equivalent_for_this/](https://www.reddit.com/r/librandu/comments/1kdthf9/what_is_the_indian_equivalent_for_this/) -by [https://www.answercoalition.org/iraq_war_veteran_confronts_george_bush_during_speech](https://www.answercoalition.org/iraq_war_veteran_confronts_george_bush_during_speech) Mike Prysner [https://en.wikipedia.org/wiki/Michael_Prysner](https://en.wikipedia.org/wiki/Michael_Prysner) interesting: [https://www.youtube.com/watch?v=rfLehqMtQUo](https://www.youtube.com/watch?v=rfLehqMtQUo) , [https://liberationnews.org/author/mike_prysner/](https://liberationnews.org/author/mike_prysner/) , [https://www.ihadadreamproject.com/blog-post/who-is-mike-prysner](https://www.ihadadreamproject.com/blog-post/who-is-mike-prysner) , [https://www.ihadadreamproject.com/blog-post/to-tell-the-truth-about-war-the-story-of-iraq-war-veteran-michael-prysner](https://www.ihadadreamproject.com/blog-post/to-tell-the-truth-about-war-the-story-of-iraq-war-veteran-michael-prysner) .
+
+[https://jacobin.com/2025/04/canada-poilievre-sanders-elite-conservatives/](https://jacobin.com/2025/04/canada-poilievre-sanders-elite-conservatives/) 
+In _The Poilievre Project: A Radical Blueprint for Corporate Rule_, journalist Martin Lukacs [traces the origins](https://breachmedia.ca/the-poilievre-project-by-martin-lukacs/) of Poilievre’s rise and appeal, and warns what a Conservative government under his leadership could mean for Canada.
+
 In re: the 4mycanada website.
 
 Integrate: https://www.reddit.com/r/onguardforthee/comments/1js4tp4/i_also_succesfully_voted_against_several_bills/ points in the top comment
