@@ -92,7 +92,7 @@ D’Souza — a liar at a whole different level — it’s too much to get into 
 
 Right wing media dominance - media matters diagram, Reddit post on it.
 * https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly
-* Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs.
+* Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs, Jacobin.
 * Better Canadian news: TheWalrus, The Tyee, PressProgress.ca, The Breach, etc.
 
 ### Vagueness
@@ -117,7 +117,16 @@ Zelaya, another liar:
 George Bush — the clip of the guy saying he lied [https://www.reddit.com/r/librandu/comments/1kdthf9/what_is_the_indian_equivalent_for_this/](https://www.reddit.com/r/librandu/comments/1kdthf9/what_is_the_indian_equivalent_for_this/) -by [https://www.answercoalition.org/iraq_war_veteran_confronts_george_bush_during_speech](https://www.answercoalition.org/iraq_war_veteran_confronts_george_bush_during_speech) Mike Prysner [https://en.wikipedia.org/wiki/Michael_Prysner](https://en.wikipedia.org/wiki/Michael_Prysner) interesting: [https://www.youtube.com/watch?v=rfLehqMtQUo](https://www.youtube.com/watch?v=rfLehqMtQUo) , [https://liberationnews.org/author/mike_prysner/](https://liberationnews.org/author/mike_prysner/) , [https://www.ihadadreamproject.com/blog-post/who-is-mike-prysner](https://www.ihadadreamproject.com/blog-post/who-is-mike-prysner) , [https://www.ihadadreamproject.com/blog-post/to-tell-the-truth-about-war-the-story-of-iraq-war-veteran-michael-prysner](https://www.ihadadreamproject.com/blog-post/to-tell-the-truth-about-war-the-story-of-iraq-war-veteran-michael-prysner) .
 
 [https://jacobin.com/2025/04/canada-poilievre-sanders-elite-conservatives/](https://jacobin.com/2025/04/canada-poilievre-sanders-elite-conservatives/) 
-In _The Poilievre Project: A Radical Blueprint for Corporate Rule_, journalist Martin Lukacs [traces the origins](https://breachmedia.ca/the-poilievre-project-by-martin-lukacs/) of Poilievre’s rise and appeal, and warns what a Conservative government under his leadership could mean for Canada.
+> Part of his project is the strategy he learned from Reform Party leader Preston Manning, who understood that a radical free market agenda could only succeed in Canada if it was disguised and tethered to popular discontent. Manning was always very clear — both with his inner circle and the broader party — that they would surf a wave of anger and disenchantment.
+
+> In _The Poilievre Project: A Radical Blueprint for Corporate Rule_, journalist Martin Lukacs [traces the origins](https://breachmedia.ca/the-poilievre-project-by-martin-lukacs/) of Poilievre’s rise and appeal, and warns what a Conservative government under his leadership could mean for Canada.
+* https://paulwells.substack.com/p/a-new-poilievre-biography-from-andrew
+* https://thewalrus.ca/why-poilievre-is-always-looking-for-a-fight/
+> The one reality we face on the Left is that, while our ideas might be better, we have nothing to compare to the architecture of crisis-ready, idea-generation that the Right has — the think tanks, activist training centers, academic schools, and ecosystem of right-wing media.
+
+> Poilievre has never made his peace with the welfare state and all the progressive post-WWII social gains. His goal is to ultimately take a blowtorch to all of them.
+
+https://spencersunshine.com/2025/01/27/guides/
 
 In re: the 4mycanada website.
 
