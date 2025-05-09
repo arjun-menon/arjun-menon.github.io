@@ -20,7 +20,7 @@ bgcolor = content_bgcolor
 
 # https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#some_common_font_families
 # Or: https://github.com/mdn/content/blob/main/files/en-us/web/css/font-family/index.md
-std_serif_1 = '"Times New Roman", Times, Georgia, serif'
+std_serif_1 = '"EB Garamond", "Times New Roman", Times, Georgia, serif'
 fancy_sans_1 = 'Optima, Candara, Calibri, Arial, Helvetica, sans-serif'
 
 am = f'<span class="am-icon"></span>'

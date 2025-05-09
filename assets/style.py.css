@@ -11,7 +11,6 @@
 
 body {
   margin: 0;
-  font-family: {{ std_serif_1 }};
   background-color: rgb({{bgcolor}});
 }
 
@@ -61,6 +60,11 @@ nav {
 /*
  * Content
  */
+.content {
+  font-family: {{ std_serif_1 }};
+  font-size: 18px;
+  font-optical-sizing: auto;
+}
 
 a:hover {
   text-shadow: 0 0 5px gold;
@@ -80,7 +84,7 @@ p {
 blockquote {
   margin-left: 2em;
   padding-left: 1em;
-  font-style: italic;
+/*  font-style: italic;*/
   border-left: solid 1.5px purple;
 }
 
