@@ -11,13 +11,16 @@
 <title>{% if page.isIndex and page.parentDir.dirName == '/' %}Arjun G. Menon{% elif exists('title') %}{{ title }} – Arjun Menon{% else %}Arjun Menon{% endif %}</title>
 <link rel="preload" href="{{style_css_href}}" as="style">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% if exists('desc') %}<meta name="description" content="{{ desc }}">{% endif %}
+{% if exists('desc') %}<meta name="description" content="{{ desc }}">{% else %}{{
+if page.done:
+	warn('Missing meta description.')
+}}{% endif %}
 <link rel="icon" type="image/png" sizes="192x192" href="{{link('AM-favicon-192x192')}}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
 <link rel="icon" type="image/png" sizes="512x512" href="{{link('AM-favicon-512x512')}}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{link('AM-apple-touch-icon')}}">
 <link rel="manifest" href="{{link('site')}}">
-<meta name="theme-color" content="{{meta_theme_color}}" />
+<meta name="theme-color" content="{{meta_theme_color}}">
 {% if exists('thumbnail') %}<meta property="og:image" content="{{thumbnail}}" />{% endif %}
 <meta name="author" content="Arjun G. Menon">
 <meta name="generator" content="https://github.com/arjun-menon/alteza">
@@ -29,7 +32,7 @@
 <link rel="stylesheet" href="{{style_css_href}}">
 <div id="page-div">
 
-<main id="main" role="main">
+<main id="main">
 {{ content }}
 </main>{# end main #}
 

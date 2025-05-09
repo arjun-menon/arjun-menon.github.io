@@ -1,12 +1,12 @@
 {% capture extra_meta_html %}
-<meta http-equiv="refresh" content="0;URL={{redir}}" />
+<meta http-equiv="refresh" content="0; URL={{redir}}">
 {% endcapture %}
 {{
 	title = 'Redirecting'
 }}
 {% capture content %}
 <h3>Redirecting to <strong><em><code>{{redir}}</code></em></strong>...</h3>
-<script type="text/javascript">
+<script>
 <!--
 window.location = "{{redir}}"
 //-->
