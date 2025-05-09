@@ -4,7 +4,6 @@ desc: Arjun Menon's essays, thoughts & notes.
 <style>
 .content {
 	font-family: {{ fancy_sans_1 }};
-	font-size: normal;
 }
 h1, h2 {
 	margin-top: 1em;
