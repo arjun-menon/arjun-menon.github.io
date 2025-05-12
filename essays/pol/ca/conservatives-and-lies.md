@@ -92,7 +92,7 @@ D’Souza — a liar at a whole different level — it’s too much to get into 
 
 Right wing media dominance - media matters diagram, Reddit post on it.
 * https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly
-* Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs, Jacobin.
+* Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs, Jacobin, https://www.democracynow.org/.
 * Better Canadian news: TheWalrus, The Tyee, PressProgress.ca, The Breach, etc.
 
 ### Vagueness
@@ -126,7 +126,9 @@ George Bush — the clip of the guy saying he lied [https://www.reddit.com/r/lib
 
 > Poilievre has never made his peace with the welfare state and all the progressive post-WWII social gains. His goal is to ultimately take a blowtorch to all of them.
 
-https://spencersunshine.com/2025/01/27/guides/
+A Guide to Guides: Over 30 Activist Guides You Might Find Helpful When Opposing the Far Right: https://spencersunshine.com/2025/01/27/guides/
+
+[How Pierre Poilievre’s Conservatives seduced working-class voters](https://breachmedia.ca/how-pierre-poilievres-conservatives-seduced-working-class-voters/)
 
 In re: the 4mycanada website.
 
@@ -225,7 +227,7 @@ It’s evil and wrong (and _a disgrace to Christ_) if people purpoting to be Chr
 
 Great reset garbage on National Post: [https://archive.is/oTvS5](https://archive.is/oTvS5) 
 
-  
+
 
 PP could have been a disaster: [https://www.youtube.com/watch?v=vJYuQ1fFLPg](https://www.youtube.com/watch?v=vJYuQ1fFLPg) from 3:30
 
