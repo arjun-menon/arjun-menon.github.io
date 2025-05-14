@@ -46,7 +46,7 @@ Elves were immune to disease and sickness, so they themselves had nothing to wor
 
 Aurielle whispered, “I have a feeling or sense that tells me that this person knows what’s going on here.”
 
-Alethea walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the universities in Zior.”
+Alethea walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the institutions of learning in Zior.”
 
 “What changed?”
 
@@ -56,17 +56,17 @@ Alethea walked over to the rash-covered human and asked, “What happened here?�
 
 “The red dragon from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
-“What about the people in your universities? Were not the professors in your university immune to this spell of deception?”
+“What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
-“Yes, they were immune to it. They blocked it from themselves immediately. But he lied and lied and convinced people that our universities were all about brainwashing people. He called the people who spoke out against him liars and fake news, even though he was the biggest liar we’d seen in a position of power in over a century. He surrounded himself with evil and obsequious people, and elevated himself so that many deceived people failed to see his wickedness and looked up to him as though he was good.”
+Indeed, they were immune to it. Most of them blocked it from themselves. But he lied and lied and convinced people that our places of learning were all about brainwashing people. He called the people who spoke out against him liars and fake news, even though he was the biggest liar we’d seen in a position of power in over a century. He surrounded himself with evil and obsequious people, and elevated himself so that many deceived people failed to see his wickedness and looked up to him as though he was good.”
 
 “How did he stay on for so long?”
 
-“He canceled elections, and became a king. Many were deceived by his lies, and so he had a cadre of supporters to help him cling on to power as well. He also cut off funding to all our universities, so most of the learned people left Zior. The universities shuttered, and the people that remained fell deeper into his blackhole of lies. Many weak ones in our city fell for his deception spell, and felt like there was nothing wrong, and failed to see the evil and suffering that was before their very eyes. And also, he threw anyone who resisted or wasn’t sycophantic towards him or didn’t address him as ‘_our dear and beloved king_’ into a gulag in a foreign land, to be tortured. Our people got sick. We became poor.”
+“He canceled elections, and became a king. Many were deceived by his lies, and so he had a cadre of supporters to help him cling on to power as well. He also cut off funding for education, so most of the learned people left Zior. The institutions of learning shuttered, and the people that remained fell deeper into his blackhole of lies. Many weak ones in our city fell for his deception spell, and felt like there was nothing wrong, and failed to see the evil and suffering that was before their very eyes. And also, he threw anyone who resisted or wasn’t sycophantic towards him or didn’t address him as ‘_our dear and beloved king_’ into a gulag in a foreign land, to be tortured. Our people got sick. We became poor.”
 
-“What did he have against universities?”
+“What did he have against education and places of learning?”
 
-“The universities taught people to think and discern between truth and lies better, even without magic. In addition, our greatest university’s professors fought to counter the evil deception spell he’d cast over our city. But, alas, the dragon’s magic was too strong for us to overcome at the time...”
+“Education at our places of learning taught people to think and discern between truth and lies better, even without magic. In addition, our greatest teachers and learned peple fought to counter the evil deception spell he’d cast over our city. But, alas, the dragon’s magic was too strong for us to overcome at the time...”
 
 “What’s the rash you have?”
 
@@ -74,7 +74,7 @@ Alethea walked over to the rash-covered human and asked, “What happened here?�
 
 “Didn’t I give you all a spell a hundred years ago that eradicated it?” Aurielle piped in.
 
-“Yes, you did. No one had measles fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct professors, and so we could not afford to move like some of our friends.”
+“Yes, you did. No one had measles fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
 
 “Who benefits from all this?”
 
