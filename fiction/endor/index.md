@@ -1,5 +1,5 @@
 title: "Endor: on Truth & Lies"
-desc: "Endor: A short story about truth & lies, the Elves from Valinor, Nauriel, and the King of Zior, set in Endor and Valinor."
+desc: "Endor: A short story about truth & lies, some elves, magic, a bad king, etc."
 ---
 
 “Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
