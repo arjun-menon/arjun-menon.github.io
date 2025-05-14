@@ -3,6 +3,9 @@
 {% endcapture %}
 {{
 	title = 'Redirecting'
+
+	# Automatically make redirect pages public
+	page.makePublic()
 }}
 {% capture content %}
 <h3>Redirecting to <strong><em><code>{{redir}}</code></em></strong>...</h3>
