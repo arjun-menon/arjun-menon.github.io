@@ -10,6 +10,8 @@ Idris:
 LigoL
 * https://ligolang.org/?lang=jsligo
 
+[Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
+- https://news.ycombinator.com/item?id=43980760 
 
 Zest: https://github.com/jamii/zest
  - via https://news.ycombinator.com/item?id=43379082
