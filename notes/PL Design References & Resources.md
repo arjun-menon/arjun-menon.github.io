@@ -30,6 +30,11 @@ Borgo: https://borgo-lang.github.io/
 
 https://ballerina.io/
 
+Raising money / funds:
+- GitHub donations
+- Patreon
+- Open Collective: https://opencollective.com/
+- Stripe charity?
 
 https://github.com/ponylang/ponyc
 
