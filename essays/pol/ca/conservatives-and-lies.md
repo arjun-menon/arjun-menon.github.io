@@ -1,8 +1,10 @@
 ---
 title: Conservative Politicians and Lies – a Culture of Deception
 desc: Dishonesty and Misrepresentation are the bread and butter of North American conservative politicians. The extreme, rampant, and pervasive dishonesty of conservative politicians is evil.
-public: true
 ---
+<p><div style="border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
+This is an ongoing <b>WORK IN PROGRESS</b>, and will be updated a lot in the coming days.
+</div></p>
 
 Unfortunately, dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I will discuss this sad state of affairs in both Canada and the U.S., by touching on a few demonstrative examples.
 
