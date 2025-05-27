@@ -170,7 +170,7 @@ Hysteria about groups, like:
 * WEF for some conservatives
 * IDU among some progressives: https://www.reddit.com/r/ndp/comments/1jgfslo/nxt_conclave_it_looks_like_stephen_harper/
 
-
+Example of fake ads on facebook & elsewhere: https://www.reddit.com/r/onguardforthee/comments/1kw2q2f/comment/mue5onx/
 
 The problem of Con bots online: https://www.reddit.com/r/onguardforthee/comments/1jn2lsx/political_propaganda_bots_spamming_youtube_with/
 

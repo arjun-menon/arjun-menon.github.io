@@ -28,6 +28,12 @@ Archive/etc.:
 SVG tools:
 - https://www.reddit.com/r/webdev/comments/17mm7rl/any_good_ai_tools_that_can_create_svg_graphics/
 
+Raising money / funds:
+- GitHub donations
+- Patreon
+- Open Collective: https://opencollective.com/
+- Stripe charity?
+
 #### On the HTML/CSS Aspects
 
 Thumbnails:
