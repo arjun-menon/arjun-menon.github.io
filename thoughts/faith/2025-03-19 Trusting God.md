@@ -1,6 +1,3 @@
----
-public: true
----
 _Notes from chats with my friend Emmanuel._
 
 #### <u>From 2025-03-19:</u>

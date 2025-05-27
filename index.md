@@ -28,22 +28,22 @@ Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software eng
 {# ### Writings #}
 
 I write here and [on medium](https://medium.com/@arjungmenon). Some of my writings, organized by topic, are:{# Some of my pieces include: A few of my writings, organized by topic, are: #}
-* On faith:
+* On my faith:
 	* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">({{file('my-hope').getIdeaDate('%b %-d, %Y')}})</span>
 	* {{mdm}} [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
 	* {{mdm}} [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
-* On politics and the Christian faith:
+* On the Christian faith and North American politics:
 	* {{mdm}} [A disturbing thing about Christianity in North America](https://medium.com/@arjungmenon/one-disturbing-thing-on-christianity-in-north-america-9dae8088c0e4) <span class="datenote">(Aug 4, 2023)</span>
 * On life and things in general:
 	* {{mdm}} [Organizing my time](https://medium.com/life-and-things/carving-out-my-time-4596332ae631) <span class="datenote">(Sep 21, 2024)</span>
-* On Canadian & other politics:
+* On Canadian (and general) politics:
 	* {{mdm}} [Uniting Against Conservatives, and a call to prayer](https://medium.com/canada-forward/uniting-against-conservatives-and-a-call-to-prayer-2cede05aac0a)
 	* {{am}} [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since Oct 2024)</span>
 	* {{mdm}} [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
 	* {{mdm}} [What was the federal NDP thinking? Two options to consider.](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
 	* {{mdm}} [Ideas for reducing emissions / pollution](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write a series of short stories, in the fantasy genre.
-{# * [Thoughts]({{link('thoughts')}}): Just some short things and thoughts that I'm scribbling down. #}
+* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write a series of short stories, **in the fantasy genre**.
+* {{am}} [Thoughts]({{link('thoughts')}}): Just some small thoughts & stuff I'm scribbling down.
 
 I hope the stuff I write contains good ideas, or is encouraging / uplifting / hope-inducing, or otherwise edifying in some way.
 
