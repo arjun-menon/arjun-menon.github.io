@@ -10,7 +10,7 @@ Unfortunately, dishonesty and misrepresentation have become a core and recurring
 
 Lying is not a good thing. Lying deceives people. Lying breaks trust. God hates lying.
 
-While all politicians (all _all people_ in general) might lie to a certain extent, the pestilence of lying has become particularly extreme, thematic, and all-too-common, among ***conservative politicians***. Moreover, the manner in which conservative politicians use their speech – the persistent compulsive lying, the abusive language and invective, and an utter disregard for truthfulness – has had a corrupting influence on political culture in North America.
+While all politicians (and _all people_ in general) might lie to a certain extent, the pestilence of lying has become particularly extreme, thematic, and all-too-common, among ***conservative politicians***. Moreover, the manner in which conservative politicians use their speech – the persistent compulsive lying, the abusive language and invective, and an utter disregard for truthfulness – has had a corrupting influence on political culture in North America.
 
 ### People are being deceived
 
