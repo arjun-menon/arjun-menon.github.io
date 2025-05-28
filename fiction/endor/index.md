@@ -24,7 +24,6 @@ Earth these days had one giant Pangaea-like continent and several smaller island
 “How long do you think you’ll want to hang around this time?” asked Aurielle. “A hundred years or so,” said Alethea, waving her hands. “I’ll join you for a dozen years or so”, replied Aurielle.
 
 TODOs 1:
-- Place subchapter headings at the beginning of each section? (With IM Fell font?) Saying "in the perspective of..."
 - A bit more description of Valinor (with the old sketch embedded?)
 - Chico, the dog with the seriousness of a general at war.
 - Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
