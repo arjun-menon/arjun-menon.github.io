@@ -4,6 +4,7 @@
 {{
 	style_css_href = f"{link('style')}?t={int(file('style').lastModifiedObj.timestamp())}"
 	extra_style_css_href = f"{link('extra-style')}?t={int(file('extra-style').lastModifiedObj.timestamp())}"
+	google_fonts_css_href = f"{link('google-fonts')}?t={int(file('google-fonts').lastModifiedObj.timestamp())}"
 	# trace_js_src = f"{link('trace')}?t={int(file('trace').lastModifiedObj.timestamp())}"
 }}
 <head>
@@ -15,7 +16,6 @@
 if page.done:
 	warn('Missing meta description.')
 }}{% endif %}
-<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="icon" type="image/png" sizes="192x192" href="{{link('AM-favicon-192x192')}}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{link('AM-favicon-32x32')}}">
@@ -28,7 +28,6 @@ if page.done:
 <meta name="generator" content="https://github.com/arjun-menon/alteza">
 <meta name="robots" content="index, follow">
 {% if exists('extra_meta_html') %}{{extra_meta_html}}{% endif %}
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -42,6 +41,7 @@ if page.done:
 <footer id="footer"></footer>
 </div>{# end page-div #}
 <link rel="stylesheet" href="{{extra_style_css_href}}">
+<link rel="stylesheet" href="{{google_fonts_css_href}}">
 <script defer src="{{link('trace')}}"></script>
 </body>
 
