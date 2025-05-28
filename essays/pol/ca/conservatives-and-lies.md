@@ -320,7 +320,7 @@ crowd size
 
 Rachel Gilmore PP video on abortion
 
-The conservatives feel so comfortable with lying / general dishonesty, that they have no problem pretending like all the people sent to CECOT were criminals, whereas in reality circa 75% of deportees to CECTO had no criminal recrod. This comfort of theirs with lying is disgusting. Everyone in that room knew full well that they were lying, but they felt perfectly comfortable with lying. In general, due process — a disrespect for the principles of Magna Carta and the Bill of Rights has been a conservative attitude for a long time.
+The conservatives feel so comfortable with lying / general dishonesty, that they have no problem pretending like all the people sent to CECOT were criminals, whereas in reality circa 75% of deportees to CECOT had no criminal record. This comfort of theirs with lying is disgusting. Everyone in that room knew full well that they were lying, but they felt perfectly comfortable with lying. In general, due process — a disrespect for the principles of Magna Carta and the Bill of Rights has been a conservative attitude for a long time.
 
 […] I don’t know if these people are just stupid or what. I think you have the lying conservative politicians on the top who just blatantly plain evil, and then you have large masses of low intelligence people who believe all the lies have little understanding of constitutional rights and freedoms, and just go carry on with the evil and wickedness of hatred of the other outgroup.
 
