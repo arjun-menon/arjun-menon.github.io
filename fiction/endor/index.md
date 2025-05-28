@@ -3,8 +3,8 @@ title: "Endor: on Truth & Lies"
 desc: "Endor: a story about truth & lies, some elves, magic, a bad king, etc."
 ---
 <style>
-h3 { font-size: 133%; }
-h4 { font-size: 120%; }
+h3 { font-size: 135%; color: darkgoldenrod; padding-top: 6px; }
+h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
 </style>
 
 <p><div class="heading" style="font-size: 17px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
@@ -13,7 +13,7 @@ h4 { font-size: 120%; }
 
 _Author's note: this story interleaves parallel perspectives. Subchapter headings indicate which._
 ### Chapter 1
-#### Subchapter 1.1
+#### Subchapter 1 of 7
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
@@ -50,7 +50,7 @@ TODOs 2:
 - the sun never stops shining, and the snow glitters in the sun
 - baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
 - zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
-#### Subchapter 1.2
+#### Subchapter 2 of 7
 
 _From the perspective of Nauriel, on Earth_:
 
@@ -62,12 +62,14 @@ TODO 3:
 I went over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by criminals and outcasts. I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?” “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours”. “Whereto?” “The fewer questions, the better”.
 
 They gave me a merchant’s outfit the next day, which they’d magically shrunk to my size. We got in a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses.
-#### Subchapter 1.3
+#### Subchapter 3 of 7
 
 _From the perspective of Alethea and Aurielle_:
 
-“Let’s pick a form.” Alethea decided to take the form of a small young elf. Aurielle took the opposite route and adopted the form of an old elven wizard. In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads. As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Aurielle said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
-#### Subchapter 1.4
+“Let’s pick a form.” Alethea decided to take the form of a small young elf. Aurielle took the opposite route and adopted the form of an old elven wizard.
+
+In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads. As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Aurielle said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
+#### Subchapter 4 of 7
 
 _From the perspective of Nauriel_:
 
@@ -88,7 +90,7 @@ I carefully looked around. I couldn’t stop looking at all the objects that sur
 Tim had forgotten to tell me where to find this dust. What did he expect me to do? Look for a bag labeled fairy wing dust? Thankfully, I had a locating spell up my sleeve--one that I learned as a kid, and which has been useful to me for many years. I muttered an incantation. A soft yellow light accompanied by a slight humming sound emanated a few shelves away. I walked over, toward a shelf, where there was a box conveniently labeled “fairy wing dust”. I only saw three bags inside the box. Well, that would have to do, I thought. I pocketed the three bags. But just as I was about to leave, I saw an open box on a table that piqued my curiosity. I went over to look at it. In it was the most elaborate wand I had ever seen. Instead of wood, this wand seemed to be made of metal and was covered in a twirling gold and glistening green pattern. I grabbed the wand and tucked it in an inner pocket of my coat. It pressed against my chest.
 
 I gently opened the trapdoor and came out. When I got out, the shop seemed empty. Then, through the window, I saw that Tim was with Olin, trying out a wand, casting small conjuring spells with it, making little colorful flowers pop out of the end of it.
-#### Subchapter 1.5
+#### Subchapter 5 of 7
 
 _Alethea and Aurielle_:  
 
@@ -135,7 +137,7 @@ Indeed, they were immune to it. Most of them blocked it from themselves. But he 
 “I don’t know, to be honest. I know that the red dragon that he got the wand of deception from hated humans. In fact, that dragon hated humans, dwarves, elves, and most creatures. I think that dragon just wanted to see us suffer. I think it gets a perverse pleasure or schadenfreude when it sees us getting sick and dying. And that too, from a disease like measles, which we had defeated in the past. I’m sure that dragon is laughing in his cave when he thinks about how we’re suffering and dying from measles.”
 
 Alethea felt sad when she heard all of this.
-#### Subchapter 1.6
+#### Subchapter 6 of 7
 
 _Nauriel_:
 
@@ -148,7 +150,7 @@ Tim spoke up and said, “Hey, I’m sorry about that, but we didn’t steal you
 I felt around my arms; and I could still feel my arms, but I felt weightless, and felt like a light wind was blowing around me, in the darkness. A few seconds later, we reappeared near the woods, near the little shack where I’d found this gang. “Any idea what he was talking about?” asked Tim. “Nope,” I lied. “That escape token cost me a lot, and I wasn’t expecting to need it to escape from the wand maker.” Arlo added, “Olin’s one of the finest wizards around. I don’t think we had much of a choice.” Tim said, “Well, I think we’ll need to subtract the cost of it from the payout for our new friend here.” “I didn’t do anything wrong,” I protested, knowing that wasn’t entirely true. “Your share would just about cover the cost of our escape token. I’m sorry this job didn’t work out for you, but maybe you can make something on our next job.” “What...,” I mumbled, and slowly started walking back home.
 
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
-#### Subchapter 1.7
+#### Subchapter 7 of 7
 
 _Alethea and Aurielle_:
 
@@ -181,6 +183,7 @@ People saw the two elves in the square, and began connecting the dots as to what
 “I wish we’d done this sooner...,” muttered Alethea quietly to Aurielle.
 
 The evil king was angry now.
+### Chapter 2
 
-_[to be continued...]_
+_[not yet written; to be continued...]_
 
