@@ -2,7 +2,7 @@
 title: "Endor: on Truth & Lies"
 desc: "Endor: a story about truth & lies, some elves, magic, a bad king, etc."
 ---
-<p><div style="border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px;">
+<p><div class="heading" style="font-size: 17px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
 <small>THIS IS A WORK IN PROGRESS, AND WILL BE CONSTANTLY CHANGING A LOT THESE DAYS.</small>
 </div></p>
 
@@ -18,7 +18,7 @@ the sun never stops shining, and the snow glitters in the sun
 baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
 zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
 
-_Nauriel, on Earth_:
+_Nauriel, on Earth_:  
 My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly. I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that. “My friend is sick. He has an awful headache, and he can’t see well. He says he sees things through a white mist.” “I know what that is. I have a potion that’ll cure him right up. It’ll be eight gold coins.” “I don’t have eight gold coins. Could I give you three for now, and five later?” “I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin. I didn’t want to press the matter, so I left quietly.
 
 TODO: a spell to make churros, that Nauriel had modified to incorporate chai tea spices in the dough bread mix itself, and that was covered in thick sprinkling layer of maple syrup sugar powder.
