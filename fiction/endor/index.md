@@ -17,29 +17,27 @@ _Author's note: this story interleaves parallel perspectives. Subchapter heading
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
-Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagon and other polygon-shaped platforms of amorphous vertical shape and height, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water steadily and consistently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
+Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of [Valinor](https://en.wikipedia.org/wiki/Valinor) lived across these hexagonal and other polygon-shaped platforms of amorphous vertical shape and height, that floated across the endless sky. The horizon being scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water steadily and consistently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
 
-“Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished.
-
-They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
+“Let’s go down to Earth”, said Ildris, “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of Valinor could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
 
 Even though it wasn't cold, snow that rarely melted occasionally floated across the air. Around a fourth of the trees were covered in them. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stops shining, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
 
-Aurielle was sitting on a white couch with gold streaks patterns, in Alethea's living room.
+[Alethea](https://en.wikipedia.org/wiki/Alethea) was sitting on a white couch with gold streaks patterns, in Ildris's living room.
 
-“How long do you think you’ll want to hang around this time?” asked Aurielle.
+“How long do you think you’ll want to hang around this time?” asked Alethea.
 
-“A hundred years or so,” said Alethea, waving her hands.
+“A hundred years or so,” said Ildris, waving his hands.
 
-“I’ll join you for a dozen years or so”, replied Aurielle.
+“I’ll join you for a dozen years or so”, replied Alethea.
 
-Her pet, Naiadryl, a translucent octopus, was curled up near her feet, with the tips of his tentacles resting comfortably in between her toes. Naiadryl had a fiercely independent spirit. He could move around with ease, go through the portals, and scale the crystal glass stairs that linked and connected all the hexagons together with great speed and agility, as well as fly and float in the air. Naiadryl loved to play. He'd been hanging out with Aurielle for a thousand years or so.
+Her pet, Naiadryl, a translucent octopus, was curled up near her feet, with the tips of his tentacles resting comfortably in between her toes. Naiadryl had a fiercely independent spirit. He could move around with ease, go through the portals, and scale the crystal glass stairs that linked and connected all the hexagons together with great speed and agility, as well as fly and float in the air. Naiadryl loved to play. He'd been hanging out with Alethea for a thousand years or so.
 
-Aurielle stared intently at Naiadryl’s slightly-squishy gelatinous head, and grabbed his cheeks tightly. Naiadryl’s cheeks turned a bit pink as a result of her tight grip, but he didn’t mind. Naiadryl loved Aurielle.
+Alethea stared intently at Naiadryl’s slightly-squishy gelatinous head, and grabbed his cheeks tightly. Naiadryl’s cheeks turned a bit pink as a result of her tight grip, but he didn’t mind. Naiadryl loved Alethea.
 
-"Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Aurielle watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
+"Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Alethea watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
 
-Alethea and Aurielle got up and walked towards a portal on their platform. Aurielle scooped up snow off a tree's leaf, and held it in her mouth, feeling in crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to Earth.
+Ildris and Alethea got up and walked towards a portal on their platform. Alethea scooped up snow off a tree's leaf, and held it in her mouth, feeling its crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to Earth.
 
 They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There was some tall spirally cylindrical towers scattered about the woods nearby. A few eldila were walking around, some flying in the air, and some sitting on tree branch or on the ground.
 
@@ -47,9 +45,9 @@ As they walked down the tree-lined cobblestone path, they passed by some delicac
 
 No one needed to eat food in Valinor, since everyone in Valinor was immortal. The food were all zero calories, and the purpose of food in Valinor _was purely for pleasure_. When you ate food in Valinor, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolves and disappears into the air.
 
-Aurielle stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds. Alethea and Aurielle popped a piece each into their mouths, and took a moment to enjoy its exquisite taste and rosy aroma.
+Ildris stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds. Alethea and Ildris popped a piece each into their mouths, and took a moment to enjoy its exquisite taste and rosy aroma.
 
-They reached the portal that went to Earth. There was a small line-up of five beings ahead of them.
+They reached the portal that went to Earth. There was a small line-up of five creatures ahead of them.
 
 Earth these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
 #### Subchapter 2 of 7
@@ -70,11 +68,11 @@ TODOs:
 - Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
 #### Subchapter 3 of 7
 
-_From the perspective of Alethea and Aurielle_:
+_From the perspective of Ildris and Alethea_:
 
-“Let’s pick a form.” Alethea decided to take the form of a small young elf. Aurielle took the opposite route and adopted the form of an old elven wizard.
+“Let’s pick a form.” Ildris said. Ildris decided to take the form of a small young elf. Alethea took the opposite route and adopted the form of an old elven wizard.
 
-In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads. As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Aurielle said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
+In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads. As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Ildris said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
 
 TODOs:
 - A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
@@ -103,17 +101,17 @@ Tim had forgotten to tell me where to find this dust. What did he expect me to d
 I gently opened the trapdoor and came out. When I got out, the shop seemed empty. Then, through the window, I saw that Tim was with Olin, trying out a wand, casting small conjuring spells with it, making little colorful flowers pop out of the end of it.
 #### Subchapter 5 of 7
 
-_Alethea and Aurielle_:  
+_Ildris and Alethea_:
 
-“What do you want to do while you’re here?” asked the friendly dwarf, of Aurielle. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Earth and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
+“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Earth and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
-Aurielle and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea. There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
+Ildris and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea. There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
 
-Elves were immune to disease and sickness, so they themselves had nothing to worry about. But Aurielle and Alethea's hearts went out to these people, and a feeling of sadness coming from empathy washed over them for what the people here were going through.
+Elves were immune to disease and sickness, so they themselves had nothing to worry about. But Ildris and Alethea's hearts went out to these people, and a feeling of sadness coming from empathy washed over them for what the people here were going through.
 
-Aurielle whispered, “I have a feeling or sense that tells me that this person knows what’s going on here.”
+Alethea whispered, “I have a feeling or sense that tells me that this person knows what’s going on here.”
 
-Alethea walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the institutions of learning in Zior.”
+Ildris walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the institutions of learning in Zior.”
 
 “What changed?”
 
@@ -121,7 +119,7 @@ Alethea walked over to the rash-covered human and asked, “What happened here?�
 
 “How did he get away with all that lying?”
 
-“The red dragon from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
+“The red dragon<sup>[c.f. Rev 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV)</sup> Therion from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
 “What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
@@ -139,7 +137,7 @@ Indeed, they were immune to it. Most of them blocked it from themselves. But he 
 
 “It’s measles.”
 
-“Didn’t I give you all a spell a hundred years ago that eradicated it?” Aurielle piped in.
+“Didn’t I give you all a spell a hundred years ago that eradicated it?” Alethea piped in.
 
 “Yes, you did. No one had measles fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
 
@@ -163,9 +161,9 @@ I felt around my arms; and I could still feel my arms, but I felt weightless, an
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
 #### Subchapter 7 of 7
 
-_Alethea and Aurielle_:
+_Ildris and Alethea_:
 
-“We should have come down here sooner. We should have kept a closer eye on Zior.” Aurielle muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
+“We should have come down here sooner. We should have kept a closer eye on Zior.” Ildris muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
 
 Alethea went to a square in the middle of the city. She began to cast a spell. As she was muttering the incantation, some of the king's soldiers approached her, but they fell back as soon as they saw she was an elf. They could sense that she was a powerful elf, even from far away, and they dared not confront her.
 
@@ -177,23 +175,27 @@ In less than twenty-four hours, the people of Zior caught on. They figured out t
 
 People began experimenting in front of a mirror by saying the things they’d heard, and seeing if a violet glow appeared in front of their mouths. Many began to realize how much they’d been lied to.
 
-Aurielle had magically transported herself to the king’s courtroom. He wasn’t there. But she found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. She squinted at him. “Aren’t you Olin..?” “Yes...,” he replied, sounding weak. “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
+Ildris had magically transported himself to the king’s courtroom. The king wasn’t there. But Ildris found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. He squinted at him. “Aren’t you Olin..?” “Yes...,” he replied, sounding weak. “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
 
-“Where is the king now?” Aurielle asked while casting a spell that healed Olin. She then magically broke his chains. “I don’t know,” replied Olin. Aurielle cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace. She flicked her hand, and the door burst into pieces; and she walked in. The old king was lying in bed, half naked and drooling.
+“Where is the king now?” Ildris asked while casting a spell that healed Olin. He then magically broke his chains. “I don’t know,” replied Olin.
+
+Ildris cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace.
+
+He flicked his hand, and the door burst into pieces; and he walked in. The old king was lying in bed, half naked and drooling.
 
 The king of Zior was fat, old, decrepit, and borderline senile. Years of lying with no shame had corrupted his mind, to the point that he believed some of his own fabrications, and he could no longer distinguish what was true and what was false himself.
 
-“You’re an evil man,” Aurielle said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
+“You’re an evil man,” Ildris said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
 
 “Who are you... I don’t know what you’re talking about...,” the king murmured from his bed, as though he was drunk or high on something.
 
-I’ll deal with him later, Aurielle thought. She magicked herself back to the square, where Alethea was resting by an old fountain. The old fountain was covered in black grime, because the city government hadn’t cleaned it in years. The king had cut funding to and fired all the people responsible for cleaning public places many years ago, and pocketed the tax money for his own pleasures.
+I’ll deal with him later, Ildris thought. He magicked himself back to the square, where Alethea was resting by an old fountain. The old fountain was covered in black grime, because the city government hadn’t cleaned it in years. The king had cut funding to and fired all the people responsible for cleaning public places many years ago, and pocketed the tax money for his own pleasures.
 
-People saw the two elves in the square, and began connecting the dots as to what had just happened. Many people came to them to say thanks. “Thank you so much for opening our eyes...”
+People saw the two elves in the square, and began connecting the dots as to what had just happened. Many people came to them to say thanks. “Thank you for helping us...”
 
-“I wish we’d done this sooner...,” muttered Alethea quietly to Aurielle.
+“We should've done this sooner...,” muttered Alethea quietly to Ildris.
 
-The evil king was angry now.
+The evil king was very angry now.
 ### Chapter 2
 
 _[not yet written; to be continued...]_
