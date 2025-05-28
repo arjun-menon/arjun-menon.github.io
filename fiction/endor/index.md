@@ -12,16 +12,26 @@ Earth these days had one giant Pangaea-like continent and several smaller island
 
 “How long do you think you’ll want to hang around this time?” asked Aurielle. “A hundred years or so,” said Alethea, waving her hands. “I’ll join you for a dozen years or so”, replied Aurielle.
 
-TODO:
-snow that's light and delicious and eminently edible
-the sun never stops shining, and the snow glitters in the sun
-baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
-zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
+TODOs 1:
+- Place subchapter headings at the beginning of each section? (With IM Fell font?) Saying "in the perspective of..."
+- A bit more description of Valinor (with the old sketch embedded?)
+- Chico, the dog with the seriousness of a general at war.
+- Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
+- A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
+- The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
+- An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
+
+TODOs 2:
+- snow that's light and delicious and eminently edible
+- the sun never stops shining, and the snow glitters in the sun
+- baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
+- zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
 
 _Nauriel, on Earth_:  
-My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly. I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that. “My friend is sick. He has an awful headache, and he can’t see well. He says he sees things through a white mist.” “I know what that is. I have a potion that’ll cure him right up. It’ll be eight gold coins.” “I don’t have eight gold coins. Could I give you three for now, and five later?” “I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin. I didn’t want to press the matter, so I left quietly.
+My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly. I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy Bismarckian mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that. “My friend is sick. He has an awful headache, and he can’t see well. He says he sees things through a white mist.” “I know what that is. I have a potion that’ll cure him right up. It’ll be eight gold coins.” “I don’t have eight gold coins. Could I give you three for now, and five later?” “I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin. I didn’t want to press the matter, so I left quietly.
 
-TODO: a spell to make churros, that Nauriel had modified to incorporate chai tea spices in the dough bread mix itself, and that was covered in thick sprinkling layer of maple syrup sugar powder.
+TODO 3:
+- a spell to make churros, that Nauriel had modified to incorporate chai tea spices in the dough bread mix itself, and that was covered in thick sprinkling layer of maple syrup sugar powder.
 
 I went over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by criminals and outcasts. I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?” “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours”. “Whereto?” “The fewer questions, the better”.
 
