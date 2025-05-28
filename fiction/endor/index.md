@@ -15,13 +15,27 @@ _Author's note: this story interleaves parallel perspectives. Subchapter heading
 ### Chapter 1
 #### Subchapter 1.1
 
-_From the perspective of beings in the eternal realm of immortals Valinor_:
+_From the perspective of beings in the eternal realm of immortals, Valinor_:
+
+Valinor, the realm of the undying, existed in a dimension unlike anything Earth-like. The eternal beings of Valinor live across hexagon-shaped platforms with blocks or other things on them, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water confidently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
 
 “Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
 
-Earth these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
+Aurielle was sitting on a white couch with gold streaks patterns, in Alethea's living room.
 
-“How long do you think you’ll want to hang around this time?” asked Aurielle. “A hundred years or so,” said Alethea, waving her hands. “I’ll join you for a dozen years or so”, replied Aurielle.
+“How long do you think you’ll want to hang around this time?” asked Aurielle.
+
+“A hundred years or so,” said Alethea, waving her hands.
+
+“I’ll join you for a dozen years or so”, replied Aurielle.
+
+Her pet, Naiadryl, a translucent octopus, was curled up near her feet, with the tips of his tentacles resting comfortably in between her toes. Naiadryl had a fiercely independent spirit. He could move around with ease, go through the portals, and scale the crystal glass stairs that linked and connected all the hexagons together with great speed and agility, as well as fly and float in the air. Naiadryl loved to play. He'd been hanging out with Aurielle for a thousand years or so.
+
+Aurielle stared intently at Naiadryl’s slightly-squishy gelatinous head, and grabbed his cheeks tightly. Naiadryl’s cheeks turned a bit pink as a result of her tight grip, but he didn’t mind. Naiadryl loved Aurielle.
+
+"Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Aurielle watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off gently flew towards the flowing water, and played (and splashed around) in the water flowing down.
+
+Endor (an Earth-like planet) these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
 
 TODOs 1:
 - A bit more description of Valinor (with the old sketch embedded?)
