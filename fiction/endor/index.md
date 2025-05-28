@@ -17,9 +17,11 @@ _Author's note: this story interleaves parallel perspectives. Subchapter heading
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
-Valinor, the realm of the undying, existed in a dimension unlike anything Earth-like. The eternal beings of Valinor live across hexagon-shaped platforms with blocks or other things on them, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water confidently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
+Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagon-shaped platforms with blocks or other things on them, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water steadily and consistently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
 
-“Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
+“Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished.
+
+They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
 
 Aurielle was sitting on a white couch with gold streaks patterns, in Alethea's living room.
 
@@ -33,23 +35,15 @@ Her pet, Naiadryl, a translucent octopus, was curled up near her feet, with the 
 
 Aurielle stared intently at Naiadryl’s slightly-squishy gelatinous head, and grabbed his cheeks tightly. Naiadryl’s cheeks turned a bit pink as a result of her tight grip, but he didn’t mind. Naiadryl loved Aurielle.
 
-"Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Aurielle watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off gently flew towards the flowing water, and played (and splashed around) in the water flowing down.
+"Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Aurielle watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
 
-Endor (an Earth-like planet) these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
-
-TODOs 1:
-- A bit more description of Valinor (with the old sketch embedded?)
-- Chico, the dog with the seriousness of a general at war.
-- Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
-- A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
-- The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
-- An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
-
-TODOs 2:
+TODOs:
 - snow that's light and delicious and eminently edible
 - the sun never stops shining, and the snow glitters in the sun
 - baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
 - zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
+
+Endor (an Earth-like planet) these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
 #### Subchapter 2 of 7
 
 _From the perspective of Nauriel, on Earth_:
@@ -62,6 +56,10 @@ TODO 3:
 I went over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by criminals and outcasts. I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?” “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours”. “Whereto?” “The fewer questions, the better”.
 
 They gave me a merchant’s outfit the next day, which they’d magically shrunk to my size. We got in a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses.
+
+TODOs:
+- Chico, the dog with the seriousness of a general at war.
+- Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
 #### Subchapter 3 of 7
 
 _From the perspective of Alethea and Aurielle_:
@@ -69,6 +67,11 @@ _From the perspective of Alethea and Aurielle_:
 “Let’s pick a form.” Alethea decided to take the form of a small young elf. Aurielle took the opposite route and adopted the form of an old elven wizard.
 
 In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads. As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Aurielle said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
+
+TODOs:
+- A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
+- The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
+- An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
 #### Subchapter 4 of 7
 
 _From the perspective of Nauriel_:
