@@ -17,7 +17,7 @@ _Author's note: this story interleaves parallel perspectives. Subchapter heading
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
-Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagonal and other polygon-shaped platforms of amorphous vertical shape and height, that floated across the endless sky. The horizon being scattered with them. They were all at different altitudes, and they were never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
+Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
 
 “Let’s go down to Earth”, said Ildris, “it’s been a while since we’ve been down there”.
 
@@ -47,7 +47,7 @@ As they walked down the tree-lined cobblestone path, they passed by some delicac
 
 No one needed to eat food in Valinor, since everyone in Valinor was immortal. The food were all zero calories, and the purpose of food in Valinor _was purely for pleasure_. When you ate food in Valinor, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolved and disappeared into the air.
 
-Ildris stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds. Alethea and Ildris popped a piece each into their mouths, and took a moment to enjoy its exquisite taste and rosy aroma.
+Ildris stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Ildris popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
 They reached the portal that went to Earth. There was a small line-up of five creatures ahead of them.
 
@@ -66,20 +66,17 @@ I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pele
 
 “I don’t have eight gold coins. Could I give you three for now, and five later?” I asked.
 
-“I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin.
+“I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin, continuing to eye me suspiciously.
 
-I didn’t want to press the matter, so I left quietly.
+I didn’t want to press the matter, so I left quietly. I went and sat on a rock nearby, pondering what to do next. I was a bit hungry. Thankfully, I had a scroll in my pocket (along with other scrolls) for my favorite snack. One that I myself had painstakingly and carefully engineered over several iterations over years. I learned a spell to make churros when I was eight years old, but over the years, I made a lot of little tweaks to it. I had adjusted the spell to have the churro's outer fried layer be exactly the level of crunchy I liked, the inside have the soft airy chewiness I enjoyed, and change the white sugar to maple sugar powder, and lastly incorporated chai spices into the dough bread mix (that I copied from a chai tea spell). After years of tweaking, I'd achieved what I call perfection with it. It was a party favorite. I opened up the scroll, and conjured up a stick of my unique Nauriel churro. The churro cured some of the disappointment I felt at how Pelegrin still viewed me.
 
-TODO:
-- a spell to make churros, that Nauriel had modified to incorporate chai tea spices in the dough bread mix itself, and that was covered in thick sprinkling layer of maple syrup sugar powder.
+I walked over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by not-so-trustworthy people, and various kinds of outcasts.
 
-I went over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by criminals and outcasts. I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?” “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours”. “Whereto?” “The fewer questions, the better”.
+I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?”
 
-They gave me a merchant’s outfit the next day, which they’d magically shrunk to my size. We got in a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses.
+“Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf. “Whereto?” I asked. “The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
 
-TODOs:
-- Chico, the dog with the seriousness of a general at war.
-- Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
+The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at with a soul-piercing intensity.
 #### Subchapter 3 of 7
 
 _From the perspective of Ildris and Alethea_:
@@ -100,7 +97,13 @@ I was quite anxious about joining these robbers. But if my friend couldn’t wor
 
 After about a day, and after having unhappily relieved myself in the woods while an annoying bird watched me, I began to make out the outline of some city. “Have you heard of Olin?” said Tim, who sat across from me. “No, I haven’t. Who’s that?” “Well, he’s only the best wand maker in a thousand miles.” “Are we doing something for him?” “No, do we look like we work for a living to you?” “Well…isn’t all this stealing a form of work...?” I replied. “It’s fun actually. I don’t really need to do it anymore. I do it for the thrill of it. Our last heist was enough to retire on. But that was too boring for me. Besides, I have an escape token that’ll transport me right back home if anything goes wrong, so I’ve got nothing to worry about.” “What if you get killed before you can escape?” “Do I look like I started doing this yesterday?” 
 
-As we got close to the city, apparently named Kae, a fear and anxiety grew in my stomach. I wanted to leave and go back home. Perhaps a homemade remedy would have sufficed. But I was too scared to leave now. What would Tim and his friends do if I tried to bail on them now? We got off the carriage by some woods close enough to the city that I could see rooftops through the foliage. A bearded man, Arlo, who had sat silently by Tim during our journey (but always nodding in agreement to things Tim said) waved his hands over the misty seahorses, saying some mysterious words, and I saw them turn into a watery looking liquid and go into a vial he wore as a necklace. He then repeated the motions with our carriage, and our carriage shrunk to thimble size. He picked it up from the ground and put it in his pocket.
+As we got close to the city, apparently named Kae, a fear and anxiety grew in my stomach. I wanted to leave and go back home. Perhaps a homemade remedy would have sufficed. But I was too scared to leave now. What would Tim and his friends do if I tried to bail on them now? We got off the carriage by some woods close enough to the city that I could see rooftops through the foliage.
+
+TODOs:
+- Chico, the dog with the seriousness of a general at war.
+- Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
+
+A bearded man, Arlo, who had sat silently by Tim during our journey (but always nodding in agreement to things Tim said) waved his hands over the misty seahorses, saying some mysterious words, and I saw them turn into a watery looking liquid and go into a vial he wore as a necklace. He then repeated the motions with our carriage, and our carriage shrunk to thimble size. He picked it up from the ground and put it in his pocket.
 
 “Your job will be to grab some tiny bags of fairy wing dust that Olin has in his storage room,” Tim said with a tone which indicated that I didn’t have a choice about the task. “It shouldn’t take you long. We’ll keep him distracted and preoccupied while you nab six bags. Each of your coat’s six pockets can conceal a bag; a concealment spell has been cast on them, so no one can detect them once the bags are in your pockets.” Tim pulled up a hand-scrawled map and pointed to the top right corner. “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air around you, so you’re not heard.”
 
