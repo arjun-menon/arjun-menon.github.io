@@ -17,11 +17,13 @@ _Author's note: this story interleaves parallel perspectives. Subchapter heading
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
-Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagon-shaped platforms with blocks or other things on them, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water steadily and consistently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
+Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagon and other polygon-shaped platforms of amorphous vertical shape and height, that are floating across the endless sky. The horizon is scattered with them. They’re all at different altitudes, and they’re never adjacent. Crystal glass escalators, or circular iridescent magical portals connect them to one another. Interspersed between these platforms are puffy white clouds. Glistening streams of water steadily and consistently pour out of them. Rainbow streaks often mark these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher. The platforms are lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupt the greenery.
 
 “Let’s go down to Earth”, said [Alethea](https://en.wikipedia.org/wiki/Alethea), “it’s been a while since we’ve been down there”. The immortal [eldila](https://the-silent-planet.fandom.com/wiki/Eldil) of [Valinor](https://en.wikipedia.org/wiki/Valinor) could descend down to Earth whenever they wished.
 
 They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
+
+Even though it wasn't cold, snow that rarely melted occasionally floated across the air. Around a fourth of the trees were covered in them. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stops shining, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
 
 Aurielle was sitting on a white couch with gold streaks patterns, in Alethea's living room.
 
@@ -37,20 +39,26 @@ Aurielle stared intently at Naiadryl’s slightly-squishy gelatinous head, and g
 
 "Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Aurielle watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
 
-TODOs:
-- snow that's light and delicious and eminently edible
-- the sun never stops shining, and the snow glitters in the sun
-- baklava honey pistachios sliced almonds with the flakiest filo pastries you've ever encountered - on marble stands about 4 feet high scattered about the gardens
-- zero calories for all food, since no one needs to eats in Valinor, and the food dissolves & disappears into the ether after you eat it
+Alethea and Aurielle got up and walked towards a portal on their platform. Aurielle scooped up snow off a tree's leaf, and held it in her mouth, feeling in crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to Earth.
 
-Endor (an Earth-like planet) these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
+They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There was some tall spirally cylindrical towers scattered about the woods nearby. A few eldila were walking around, some flying in the air, and some sitting on tree branch or on the ground.
+
+As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Valinor), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
+
+No one needed to eat food in Valinor, since everyone in Valinor was immortal. The food were all zero calories, and the purpose of food in Valinor _was purely for pleasure_. When you ate food in Valinor, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolves and disappears into the air.
+
+Aurielle stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds. Alethea and Aurielle popped a piece each into their mouths, and took a moment to enjoy its exquisite taste and rosy aroma.
+
+They reached the portal that went to Earth. There was a small line-up of five beings ahead of them.
+
+Earth these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
 #### Subchapter 2 of 7
 
 _From the perspective of Nauriel, on Earth_:
 
 My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly. I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy Bismarckian mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that. “My friend is sick. He has an awful headache, and he can’t see well. He says he sees things through a white mist.” “I know what that is. I have a potion that’ll cure him right up. It’ll be eight gold coins.” “I don’t have eight gold coins. Could I give you three for now, and five later?” “I’m afraid I’ll need it now. This illness won’t kill him,” replied Pelegrin. I didn’t want to press the matter, so I left quietly.
 
-TODO 3:
+TODO:
 - a spell to make churros, that Nauriel had modified to incorporate chai tea spices in the dough bread mix itself, and that was covered in thick sprinkling layer of maple syrup sugar powder.
 
 I went over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by criminals and outcasts. I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?” “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours”. “Whereto?” “The fewer questions, the better”.
