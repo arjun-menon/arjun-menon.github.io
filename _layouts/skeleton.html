@@ -5,7 +5,7 @@
 	style_css_href = f"{link('style')}?t={int(file('style').lastModifiedObj.timestamp())}"
 	extra_style_css_href = f"{link('extra-style')}?t={int(file('extra-style').lastModifiedObj.timestamp())}"
 	google_fonts_css_href = f"{link('google-fonts')}?t={int(file('google-fonts').lastModifiedObj.timestamp())}"
-	# trace_js_src = f"{link('trace')}?t={int(file('trace').lastModifiedObj.timestamp())}"
+	trace_js_src = f"{link('trace')}?t={int(file('trace').lastModifiedObj.timestamp())}"
 }}
 <head>
 <meta charset="utf-8">
@@ -42,7 +42,7 @@ if page.done:
 </div>{# end page-div #}
 <link rel="stylesheet" href="{{extra_style_css_href}}">
 <link rel="stylesheet" href="{{google_fonts_css_href}}">
-<script defer src="{{link('trace')}}"></script>
+<script defer src="{{trace_js_src}}"></script>
 </body>
 
 </html>
