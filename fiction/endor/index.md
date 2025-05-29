@@ -7,8 +7,8 @@ h3 { font-size: 135%; color: darkgoldenrod; padding-top: 6px; }
 h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
 </style>
 
-<p><div class="heading" style="font-size: 17px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
-<small>THIS IS A WORK IN PROGRESS, AND WILL BE CONSTANTLY CHANGING A LOT THESE DAYS.</small>
+<p><div class="heading" style="font-size: 21px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
+<small>Note: This is a <em>work-in-progress</em>, and is frequently being updated these days.</small>
 </div></p>
 
 _Author's note: this story interleaves parallel perspectives. Chapter subheadings indicate which._
