@@ -89,10 +89,12 @@ As they were passing by a row of houses, an old dwarf popped out and said, “Oh
 
 Aren's sod-roofed house was cozy inside. There were a few bird swings hanging from the ceiling, and he had a small cardinal bird sitting on his table next to his notebook. A parrot perched by a bookshelf as well.
 
+{#
 TODOs:
 - A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
 - The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
 - An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
+#}
 #### Subchapter 4 of 7
 
 _From the perspective of Nauriel_:
@@ -103,9 +105,11 @@ After about a day, and after having unhappily relieved myself in the woods while
 
 As we got close to the city, apparently named Kae, a fear and anxiety grew in my stomach. I wanted to leave and go back home. Perhaps a homemade remedy would have sufficed. But I was too scared to leave now. What would Tim and his friends do if I tried to bail on them now? We got off the carriage by some woods close enough to the city that I could see rooftops through the foliage.
 
+{#
 TODOs:
 - Chico, the dog with the seriousness of a general at war.
 - Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
+#}
 
 A bearded man, Arlo, who had sat silently by Tim during our journey (but always nodding in agreement to things Tim said) waved his hands over the misty seahorses, saying some mysterious words, and I saw them turn into a watery looking liquid and go into a vial he wore as a necklace. He then repeated the motions with our carriage, and our carriage shrunk to thimble size. He picked it up from the ground and put it in his pocket.
 
@@ -136,11 +140,11 @@ Ildris walked over to the rash-covered human and asked, “What happened here?�
 
 “What changed?”
 
-“About fifty years ago, a man named Drumpf was elected our ruler by the narrowest of margins. He lied all the time<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
+“About fifty years ago, a man named Drumpf was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
 “How did he get away with all that lying?”
 
-“The red dragon<sup>[c.f. Rev 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV)</sup> Therion from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
+“The red dragon{#<sup>[c.f. Rev 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV)</sup> Therion#} from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
 “What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
