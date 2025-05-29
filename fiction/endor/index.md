@@ -210,7 +210,7 @@ He flicked his hand, and the door burst into pieces; and he walked in. The old k
 
 The king of Zior was fat, old, decrepit, and borderline senile. Years of lying with no shame had corrupted his mind, to the point that he believed some of his own fabrications, and he could no longer distinguish what was true and what was false himself.
 
-“You’re an evil man,” Ildris said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
+“Your vile and evil actions have cast a stench upon this part of the Earth and great suffering to many,” Ildris said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
 
 “Who are you... I don’t know what you’re talking about...,” the king murmured from his bed, as though he was drunk or high on something.
 
