@@ -1,13 +1,14 @@
 ---
-title: "Endor: on Truth & Lies"
+title: "Endor: On Truth & Lies"
 desc: "Endor: a story about truth & lies, some elves, magic, a bad king, etc."
 ---
 <style>
 h3 { font-size: 135%; color: darkgoldenrod; padding-top: 6px; }
 h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
+.floating-bubble { font-size: 21px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); padding: 9px; width: fit-content; margin: 0 auto; }
 </style>
 
-<p><div class="heading" style="font-size: 21px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
+<p><div class="heading floating-bubble" style="background-color: orange;">
 <small>Note: This is a <em>work-in-progress</em>, and is frequently being updated these days.</small>
 </div></p>
 
