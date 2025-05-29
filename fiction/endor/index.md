@@ -11,9 +11,9 @@ h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
 <small>THIS IS A WORK IN PROGRESS, AND WILL BE CONSTANTLY CHANGING A LOT THESE DAYS.</small>
 </div></p>
 
-_Author's note: this story interleaves parallel perspectives. Subchapter headings indicate which._
-### Chapter 1
-#### Subchapter 1 of 7
+_Author's note: this story interleaves parallel perspectives. Chapter subheadings indicate which._
+### Part 1
+#### Chapter 1 of 7
 
 _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
@@ -52,7 +52,7 @@ Rhylandor stopped by a stand with some golden looking stuff. Looking closer, the
 They reached the portal that went to Earth. There was a small line-up of five creatures ahead of them.
 
 Earth these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
-#### Subchapter 2 of 7
+#### Chapter 2 of 7
 
 _From the perspective of Nauriel, on Earth_:
 
@@ -77,7 +77,7 @@ I went over to a table with the least scary looking group of people, and asked, 
 “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf. “Whereto?” I asked. “The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
 
 The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at with a soul-piercing intensity.
-#### Subchapter 3 of 7
+#### Chapter 3 of 7
 
 _From the perspective of Rhylandor and Alethea_:
 
@@ -95,7 +95,7 @@ TODOs:
 - The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
 - An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
 #}
-#### Subchapter 4 of 7
+#### Chapter 4 of 7
 
 _From the perspective of Nauriel_:
 
@@ -124,7 +124,7 @@ I carefully looked around. I couldn’t stop looking at all the objects that sur
 Tim had forgotten to tell me where to find this dust. What did he expect me to do? Look for a bag labeled fairy wing dust? Thankfully, I had a locating spell up my sleeve--one that I learned as a kid, and which has been useful to me for many years. I muttered an incantation. A soft yellow light accompanied by a slight humming sound emanated a few shelves away. I walked over, toward a shelf, where there was a box conveniently labeled “fairy wing dust”. I only saw three bags inside the box. Well, that would have to do, I thought. I pocketed the three bags. But just as I was about to leave, I saw an open box on a table that piqued my curiosity. I went over to look at it. In it was the most elaborate wand I had ever seen. Instead of wood, this wand seemed to be made of metal and was covered in a twirling gold and glistening green pattern. I grabbed the wand and tucked it in an inner pocket of my coat. It pressed against my chest.
 
 I gently opened the trapdoor and came out. When I got out, the shop seemed empty. Then, through the window, I saw that Tim was with Olin, trying out a wand, casting small conjuring spells with it, making little colorful flowers pop out of the end of it.
-#### Subchapter 5 of 7
+#### Chapter 5 of 7
 
 _From the perspective of Rhylandor and Alethea_:
 
@@ -171,7 +171,7 @@ Rhylandor walked over to the rash-covered human and asked, “What happened here
 “I don’t know, to be honest. I know that the red dragon that he got the wand of deception from hated humans. In fact, that dragon hated humans, dwarves, elves, and most creatures. I think that dragon just wanted to see us suffer. I think it gets a perverse pleasure or schadenfreude when it sees us getting sick and dying. And that too, from a disease like measles, which we had defeated in the past. I’m sure that dragon is laughing in his cave when he thinks about how we’re suffering and dying from measles.”
 
 Alethea felt sad when she heard all of this.
-#### Subchapter 6 of 7
+#### Chapter 6 of 7
 
 _From the perspective of Nauriel_:
 
@@ -184,7 +184,7 @@ Tim spoke up and said, “Hey, I’m sorry about that, but we didn’t steal you
 I felt around my arms; and I could still feel my arms, but I felt weightless, and felt like a light wind was blowing around me, in the darkness. A few seconds later, we reappeared near the woods, near the little shack where I’d found this gang. “Any idea what he was talking about?” asked Tim. “Nope,” I lied. “That escape token cost me a lot, and I wasn’t expecting to need it to escape from the wand maker.” Arlo added, “Olin’s one of the finest wizards around. I don’t think we had much of a choice.” Tim said, “Well, I think we’ll need to subtract the cost of it from the payout for our new friend here.” “I didn’t do anything wrong,” I protested, knowing that wasn’t entirely true. “Your share would just about cover the cost of our escape token. I’m sorry this job didn’t work out for you, but maybe you can make something on our next job.” “What...,” I mumbled, and slowly started walking back home.
 
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
-#### Subchapter 7 of 7
+#### Chapter 7 of 7
 
 _From the perspective of Rhylandor and Alethea_:
 
@@ -221,7 +221,7 @@ People saw the two elves in the square, and began connecting the dots as to what
 “We should've done this sooner...,” muttered Alethea quietly to Rhylandor.
 
 The evil king was very angry now.
-### Chapter 2
+### Part 2
 
 _[not yet written; to be continued...]_
 
