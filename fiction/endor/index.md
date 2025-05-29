@@ -77,7 +77,7 @@ I went over to a table with the least scary looking group of people, and asked, 
 
 “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf. “Whereto?” I asked. “The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
 
-The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at with a soul-piercing intensity.
+The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 #### Chapter 3 of 7
 
 _From the perspective of Rhylandor and Alethea_:
