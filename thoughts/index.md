@@ -1,5 +1,11 @@
 title: Thoughts
 ---
+<style>
+.datenote {
+	color: gray;
+	font-size: smaller;
+}
+</style>
 
 {% for dir in dir.subDirs %}
 <b>{{dir.title}}</b>
@@ -13,6 +19,7 @@ title: Thoughts
 				{{page.title}}
 				{% endif %}
 			</a>
+			&nbsp;&nbsp;<span class="datenote">({{page.getIdeaDate('%b %-d, %Y')}})</span>
 		</li>
 		{% %}
 	</ul>
