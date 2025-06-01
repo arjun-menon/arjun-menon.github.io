@@ -27,7 +27,9 @@ Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software eng
 
 {# ### Writings #}
 
-I write here and [on medium](https://medium.com/@arjungmenon). Some of my writings, organized by topic, are:{# Some of my pieces include: A few of my writings, organized by topic, are: #}
+I write here and [on medium](https://medium.com/@arjungmenon). Some of my writings, organized by topic, are:{# Some of my pieces include: A few of my writings, organized by topic, are: #}</p>
+
+<span>❖ Essays:</span>
 * On my faith:
 	* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">({{file('my-hope').getIdeaDate('%b %-d, %Y')}})</span>
 	* {{mdm}} [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>

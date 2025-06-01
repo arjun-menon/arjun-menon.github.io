@@ -1,4 +1,6 @@
+---
 title: Praying in the morning, like David
+incomplete: true
 ---
 
 Psalm 5:3: "In the morning, Lord, you hear my voice; in the morning I lay my requests before you and wait expectantly."

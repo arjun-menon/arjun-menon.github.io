@@ -1,7 +1,6 @@
 ---
 title: Praying for the discernment to make good decisions, knowledge, and depth of insight
-public: true
-done: false
+incomplete: true
 ---
 The question of making good decisions is something that's weighed on my mind for a while.
 
@@ -24,4 +23,4 @@ This in relation to making good decisions, in accordance with God's will.
 
 #### Impressions
 
-(From a Meetup discussion.)
+...todo...

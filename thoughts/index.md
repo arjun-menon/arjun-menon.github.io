@@ -1,8 +1,16 @@
 title: Thoughts
 ---
 
-A few random thoughts & stuff.
-
-* [[Trusting God]]
-* [A set of prayers to start the day with.]({{link('a-set-of-prayers-to-start-the-day-with')}})
+{% for dir in dir.subDirs %}
+<b>{{dir.title}}</b>
+	<ul>
+	    {% for page in dir.pages if 'incomplete' not in page.env %}
+	    <li>
+	        <a href="{{ link(page) }}">
+	            {{page.title}}
+	        </a>
+	    </li>
+	    {% %}
+	</ul>
+{% %}
 

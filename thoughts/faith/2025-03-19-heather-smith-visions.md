@@ -1,6 +1,8 @@
-title: Heather Smith's visions on March 16 and March 20, 2025
-public: false
 ---
+title: Heather Smith's visions on March 16 and March 20, 2025
+incomplete: true
+---
+
 
 Heather Smith (Dan Smith's wife) recollected two visions about me:
 

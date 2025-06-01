@@ -1,3 +1,7 @@
+---
+title: Dissociating with greedy, slanderous, swindling or drunkard brethren
+incomplete: true
+---
 
 1 Corinthians 5:11
 

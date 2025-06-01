@@ -1,3 +1,6 @@
+---
+title: Spoken vs written prayer
+---
 
 I've found spoken or written prayer to be more effective _(at making me feel better)_.
 Even if the speaking was done whispering.
