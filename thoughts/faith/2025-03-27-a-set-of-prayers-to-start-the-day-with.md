@@ -1,6 +1,7 @@
 ---
 title: A set of prayers to start the day with
 desc: A set of prayers to start the day with (from my friend Emmanuel).
+strong: true
 ---
 A set of prayers to start the day with (_from my friend Emmanuel_).
 
