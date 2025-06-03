@@ -20,17 +20,17 @@ _From the perspective of beings in the eternal realm of immortals, Valinor_:
 
 Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
 
-“Let’s go down to Earth”, said Rhylandor, “it’s been a while since we’ve been down there”.
+“Let’s go down to Earth”, said Rohan, “it’s been a while since we’ve been down there”.
 
 The immortal eldila of Valinor could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
 
 Even though it wasn't cold, snow that rarely melted occasionally floated across the air. Around a fourth of the trees were covered in them. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stops shining, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
 
-Alethea was sitting on a white couch with gold streaks patterns, in Rhylandor's living room.
+Alethea was sitting on a white couch with gold streaks patterns, in Rohan's living room.
 
 “How long do you think you’ll want to hang around this time?” asked Alethea.
 
-“A hundred years or so,” said Rhylandor, waving his hands.
+“A hundred years or so,” said Rohan, waving his hands.
 
 “I’ll join you for a dozen years or so”, replied Alethea.
 
@@ -40,7 +40,7 @@ Alethea stared intently at Naiadryl’s slightly-squishy gelatinous head, and gr
 
 "Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Alethea, and gave her palm a small squeeze as well. Then Alethea watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
 
-Rhylandor and Alethea got up and walked towards a portal on their platform. Alethea scooped up snow off a tree's leaf, and held it in her mouth, feeling its crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to Earth.
+Rohan and Alethea got up and walked towards a portal on their platform. Alethea scooped up snow off a tree's leaf, and held it in her mouth, feeling its crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to Earth.
 
 They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There was some tall spirally cylindrical towers scattered about the woods nearby. A few eldila were walking around, some flying in the air, and some sitting on tree branch or on the ground.
 
@@ -48,7 +48,7 @@ As they walked down the tree-lined cobblestone path, they passed by some delicac
 
 No one needed to eat food in Valinor, since everyone in Valinor was immortal. The food were all zero calories, and the purpose of food in Valinor _was purely for pleasure_. When you ate food in Valinor, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolved and disappeared into the air.
 
-Rhylandor stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rhylandor popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
+Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
 They reached the portal that went to Earth. There was a small line-up of five creatures ahead of them.
 
@@ -80,13 +80,13 @@ I went over to a table with the least scary looking group of people, and asked, 
 The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 #### Chapter 3 of 7
 
-_From the perspective of Rhylandor and Alethea_:
+_From the perspective of Rohan and Alethea_:
 
-“Let’s pick a form.” Rhylandor said. Rhylandor decided to take the form of a small young elf. Alethea took the opposite route and adopted the form of an old elven wizard.
+“Let’s pick a form.” Rohan said. Rohan decided to take the form of a small young elf. Alethea took the opposite route and adopted the form of an old elven wizard.
 
 In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
 
-As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Rhylandor said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
+As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Rohan said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
 
 Aren's sod-roofed house was cozy inside. There were a few bird swings hanging from the ceiling, and he had a small cardinal bird sitting on his table next to his notebook. A parrot perched by a bookshelf as well.
 
@@ -127,17 +127,17 @@ Tim had forgotten to tell me where to find this dust. What did he expect me to d
 I gently opened the trapdoor and came out. When I got out, the shop seemed empty. Then, through the window, I saw that Tim was with Olin, trying out a wand, casting small conjuring spells with it, making little colorful flowers pop out of the end of it.
 #### Chapter 5 of 7
 
-_From the perspective of Rhylandor and Alethea_:
+_From the perspective of Rohan and Alethea_:
 
 “What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Earth and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
-Rhylandor and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea. There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
+Rohan and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea. There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
 
-Elves were immune to disease and sickness, so they themselves had nothing to worry about. But Rhylandor and Alethea's hearts went out to these people, and a feeling of sadness coming from empathy washed over them for what the people here were going through.
+Elves were immune to disease and sickness, so they themselves had nothing to worry about. But Rohan and Alethea's hearts went out to these people, and a feeling of sadness coming from empathy washed over them for what the people here were going through.
 
 Alethea whispered, “I have a feeling or sense that tells me that this person knows what’s going on here.”
 
-Rhylandor walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the institutions of learning in Zior.”
+Rohan walked over to the rash-covered human and asked, “What happened here?” They looked up at her with sadness and said, “The king has ruined our city. We used to be a happy city, well-to-do, full of learning and knowledge, and people traveled from far places to study at the institutions of learning in Zior.”
 
 “What changed?”
 
@@ -187,9 +187,9 @@ I felt around my arms; and I could still feel my arms, but I felt weightless, an
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
 #### Chapter 7 of 7
 
-_From the perspective of Rhylandor and Alethea_:
+_From the perspective of Rohan and Alethea_:
 
-“We should have come down here sooner. We should have kept a closer eye on Zior.” Rhylandor muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
+“We should have come down here sooner. We should have kept a closer eye on Zior.” Rohan muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
 
 Alethea went to a square in the middle of the city. She began to cast a spell. As she was muttering the incantation, some of the king's soldiers approached her, but they fell back as soon as they saw she was an elf. They could sense that she was a powerful elf, even from far away, and they dared not confront her.
 
@@ -201,25 +201,25 @@ In less than twenty-four hours, the people of Zior caught on. They figured out t
 
 People began experimenting in front of a mirror by saying the things they’d heard, and seeing if a violet glow appeared in front of their mouths. Many began to realize how much they’d been lied to.
 
-Rhylandor had magically transported himself to the king’s courtroom. The king wasn’t there. But Rhylandor found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. He squinted at him. “Aren’t you Olin..?” “Yes...,” he replied, sounding weak. “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
+Rohan had magically transported himself to the king’s courtroom. The king wasn’t there. But Rohan found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. He squinted at him. “Aren’t you Olin..?” “Yes...,” he replied, sounding weak. “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
 
-“Where is the king now?” Rhylandor asked while casting a spell that healed Olin. He then magically broke his chains. “I don’t know,” replied Olin.
+“Where is the king now?” Rohan asked while casting a spell that healed Olin. He then magically broke his chains. “I don’t know,” replied Olin.
 
-Rhylandor cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace.
+Rohan cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace.
 
 He flicked his hand, and the door burst into pieces; and he walked in. The old king was lying in bed, half naked and drooling.
 
 The king of Zior was fat, old, decrepit, and borderline senile. Years of lying with no shame had corrupted his mind, to the point that he believed some of his own fabrications, and he could no longer distinguish what was true and what was false himself.
 
-“Your vile and evil actions have cast a stench upon this part of the Earth and great suffering to many,” Rhylandor said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
+“Your vile and evil actions have cast a stench upon this part of the Earth and great suffering to many,” Rohan said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
 
 “Who are you... I don’t know what you’re talking about...,” the king murmured from his bed, as though he was drunk or high on something.
 
-I’ll deal with him later, Rhylandor thought. He magicked himself back to the square, where Alethea was resting by an old fountain. The old fountain was covered in black grime, because the city government hadn’t cleaned it in years. The king had cut funding to and fired all the people responsible for cleaning public places many years ago, and pocketed the tax money for his own pleasures.
+I’ll deal with him later, Rohan thought. He magicked himself back to the square, where Alethea was resting by an old fountain. The old fountain was covered in black grime, because the city government hadn’t cleaned it in years. The king had cut funding to and fired all the people responsible for cleaning public places many years ago, and pocketed the tax money for his own pleasures.
 
 People saw the two elves in the square, and began connecting the dots as to what had just happened. Many people came to them to say thanks. “Thank you for helping us...”
 
-“We should've done this sooner...,” muttered Alethea quietly to Rhylandor.
+“We should've done this sooner...,” muttered Alethea quietly to Rohan.
 
 The evil king was very angry now.
 ### Part 2
