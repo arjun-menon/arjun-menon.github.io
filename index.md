@@ -27,9 +27,9 @@ Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software eng
 
 {# ### Writings #}
 
-I write here and [on medium](https://medium.com/@arjungmenon). Some of my writings, organized by topic, are:{# Some of my pieces include: A few of my writings, organized by topic, are: #}</p>
+I write here and [on medium](https://medium.com/@arjungmenon). Some of my writings, organized by topic, are:{# Some of my pieces include: A few of my writings, organized by topic, are: #}
 
-<span>❖ Essays:</span>
+❖ Essays:
 * On my faith:
 	* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">({{file('my-hope').getIdeaDate('%b %-d, %Y')}})</span>
 	* {{mdm}} [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
@@ -45,8 +45,10 @@ I write here and [on medium](https://medium.com/@arjungmenon). Some of my writin
 	* {{mdm}} [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
 	* {{mdm}} [What was the federal NDP thinking? Two options to consider.](https://medium.com/canada-forward/what-on-earth-was-the-ndp-and-jagmeet-singh-thinking-838e45a0daef) <span class="datenote">(Dec 28, 2024)</span>
 	* {{mdm}} [Ideas for reducing emissions / pollution](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
-* {{am}} [Fiction]({{link('fiction')}}): I'm slowly starting to write a series of short stories, **in the fantasy genre**.
-* {{am}} [Thoughts]({{link('thoughts')}}): Just some small thoughts & stuff I'm scribbling down.
+
+❖ {{am}} [**Fiction**]({{link('fiction')}}): I'm slowly starting to write a story, **in the fantasy genre**.
+
+❖ {{am}} [**Thoughts**]({{link('thoughts')}}): Just some small thoughts & stuff I'm scribbling down.
 
 I hope the stuff I write contains good ideas, or is encouraging / uplifting / hope-inducing, or otherwise edifying in some way.
 
