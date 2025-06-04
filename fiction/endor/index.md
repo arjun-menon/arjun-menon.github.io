@@ -141,11 +141,11 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 
 “What changed?”
 
-“About fifty years ago, a man named Drumpf was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
+“About fifty years ago, a man named Zoonphilus was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
 “How did he get away with all that lying?”
 
-“The red dragon{#<sup>[c.f. Rev 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV)</sup> Therion#} from Mordor made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
+“The enormous red dragon<sup>[c.f. Rev 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV)</sup> Therion from the Dead Mountains made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
 “What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
@@ -161,15 +161,17 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 
 “What’s the rash you have?”
 
-“It’s measles.”
+“It’s pixie trail fever.”
+
+Pixies gave off these little trails of used-up manna when they did their tiny bits of magic, and these trails were blown around by the wind. When humans or dwarves inhaled them, it got them quite sick. Some even died.
 
 “Didn’t I give you all a spell a hundred years ago that eradicated it?” Alethea piped in.
 
-“Yes, you did. No one had measles fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
+“Yes, you did. No one had pixie trail fever fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
 
 “Who benefits from all this?”
 
-“I don’t know, to be honest. I know that the red dragon that he got the wand of deception from hated humans. In fact, that dragon hated humans, dwarves, elves, and most creatures. I think that dragon just wanted to see us suffer. I think it gets a perverse pleasure or schadenfreude when it sees us getting sick and dying. And that too, from a disease like measles, which we had defeated in the past. I’m sure that dragon is laughing in his cave when he thinks about how we’re suffering and dying from measles.”
+“I don’t know, to be honest. I know that the red dragon that he got the wand of deception from hated humans. In fact, that dragon hated humans, dwarves, elves, and most creatures. I think that dragon just wanted to see us suffer. I think it gets a perverse pleasure or schadenfreude when it sees us getting sick and dying. And that too, from a disease like pixie trail fever, which we had defeated in the past. I’m sure that dragon is laughing in his cave when he thinks about how we’re suffering and dying from pixie trail fever.”
 
 Alethea felt sad when she heard all of this.
 #### Chapter 6 of 7
