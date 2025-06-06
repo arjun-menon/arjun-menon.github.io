@@ -341,7 +341,7 @@ Vagueness and conservative thought:
 * Example: https://news.bloomberglaw.com/daily-labor-report/trumps-illegal-dei-orders-hit-due-process-questions-in-court
 * Rachel Gilmore on the Cons adding "woke" to their platform
 
-
+https://www.theatlantic.com/ideas/archive/2025/06/existential-election-poland-nationalism/683051/
 
 ---
 
@@ -349,6 +349,20 @@ Vagueness and conservative thought:
 "My people are destroyed for lack of knowledge." — Hosea 4:6a.
 </div>
 
-"The righteous detest the dishonest; the wicked detest the upright." — Proverbs 29:27 (NIV).<br>
+<div style="text-align: end;">
+"The righteous detest the dishonest; the wicked detest the upright." — Proverbs 29:27 (NIV).
+</div>
+
+<div style="text-align: end;">
 "An unjust man is an abomination to the righteous, but one whose way is straight is an abomination to the wicked." — Proverbs 29:27 (ESV).<br>
+</div>
+
+<div style="text-align: end;">
+"<b>First, help me never to tell a lie.</b> Second, give me neither poverty nor riches! Give me just enough to satisfy my needs." — Proverbs 30:8 (NLT).
+</div>
+
+<div style="text-align: end;">
+"But evil people and impostors will flourish. They will deceive others and will themselves be deceived." — 2 Timothy 3:13 (NLT).
+</div>
+
 #}
