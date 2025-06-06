@@ -365,4 +365,6 @@ https://www.theatlantic.com/ideas/archive/2025/06/existential-election-poland-na
 "But evil people and impostors will flourish. They will deceive others and will themselves be deceived." — 2 Timothy 3:13 (NLT).
 </div>
 
+"The Lord detests lying lips, but delights in those who tell the truth." – [Proverbs 12:22](https://www.biblegateway.com/passage/?search=Proverbs%2012%3A22-24&version=NIV,NLT,NLV,NASB,ESV).
+
 #}
