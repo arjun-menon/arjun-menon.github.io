@@ -139,6 +139,8 @@ Argo: https://github.com/sviperll/argo ("Pragmatic functional programming langua
 
 Elixir & ML: https://news.ycombinator.com/item?id=40511307
 
+Bolt: https://github.com/boltlang/Bolt
+
 Ralph: https://github.com/turbolent/ralph
 * https://github.com/turbolent
 	- https://turbolent.com/
