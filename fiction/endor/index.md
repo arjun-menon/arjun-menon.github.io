@@ -196,14 +196,14 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 “What changed?”
 
 {{
-chrs['Philoteras'] = "the evil king of Zior."
+chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years."
 }}
 “About fifty years ago, a man named Philoteras was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
 “How did he get away with all that lying?”
 
 {{
-chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based on the red dragon in [Revelation 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV), who a few verses later in [Relevation 12:9](https://www.biblegateway.com/passage/?search=Revelation%2012%3A9&version=NIV) is indicated to be symbolic image for Satan: _\"The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray\"_."
+chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based on the red dragon in [Revelation 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV), who a few verses later in [Relevation 12:9](https://www.biblegateway.com/passage/?search=Revelation%2012%3A9&version=NIV) is indicated to be a symbolic image for Satan: _\"The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him\"_."
 }}
 “The enormous red dragon Therion from the Dead Mountains made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
