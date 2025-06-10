@@ -155,7 +155,7 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 
 “What changed?”
 
-“About fifty years ago, a man named Zoonphilus was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
+“About fifty years ago, a man named Philoteras was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
 “How did he get away with all that lying?”
 
@@ -181,7 +181,7 @@ Pixies gave off these little trails of used-up manna when they did their tiny bi
 
 “Didn’t I give you all a spell a hundred years ago that eradicated it?” Alethea piped in.
 
-“Yes, you did. No one had pixie trail fever fifty years ago. But this evil king and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
+“Yes, you did. No one had pixie trail fever fifty years ago. But this evil king Philoteras and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
 
 “Who benefits from all this?”
 
@@ -225,7 +225,7 @@ Rohan had magically transported himself to the king’s courtroom. The king wasn
 
 Rohan cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace.
 
-He flicked his hand, and the door burst into pieces; and he walked in. The old king was lying in bed, half naked and drooling.
+He flicked his hand, and the door burst into pieces; and he walked in. The old king Philoteras was lying in bed, half naked and drooling.
 
 The king of Zior was fat, old, decrepit, and borderline senile. Years of lying with no shame had corrupted his mind, to the point that he believed some of his own fabrications, and he could no longer distinguish what was true and what was false himself.
 
@@ -240,6 +240,7 @@ People saw the two elves in the square, and began connecting the dots as to what
 “We should've done this sooner...,” muttered Alethea quietly to Rohan.
 
 The evil king was very angry now.
+
 ### Part 2
 
 _[not yet written; to be continued...]_
