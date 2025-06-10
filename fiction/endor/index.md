@@ -21,16 +21,18 @@ def chn():
     ch_num += 1
     return ch_num
 }}
+
 ### Part 1
+
 #### Chapter {{chn()}}
 
-_From the perspective of beings in the eternal realm of immortals, Valinor_:
+_From the perspective of beings in the eternal realm of immortals, Aeterna_:
 
-Valinor, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Valinor lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
+Aeterna, the realm of the undying, existed in a dimension anything unlike Earth. The eternal beings of Aeterna lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
 
 “Let’s go down to Earth”, said Rohan, “it’s been a while since we’ve been down there”.
 
-The immortal eldila of Valinor could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Valinor, whom they could hear through soft whispering thoughts in their mind. When they went back to Valinor, they remembered everything again, with the memory of their short human life added on.
+The immortal eldila of Aeterna could descend down to Earth whenever they wished. They could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
 
 Even though it wasn't cold, snow that rarely melted occasionally floated across the air. Around a fourth of the trees were covered in them. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stops shining, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
 
@@ -52,9 +54,9 @@ Rohan and Alethea got up and walked towards a portal on their platform. Alethea 
 
 They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There was some tall spirally cylindrical towers scattered about the woods nearby. A few eldila were walking around, some flying in the air, and some sitting on tree branch or on the ground.
 
-As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Valinor), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
+As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Aeterna), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
 
-No one needed to eat food in Valinor, since everyone in Valinor was immortal. The food were all zero calories, and the purpose of food in Valinor _was purely for pleasure_. When you ate food in Valinor, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolved and disappeared into the air.
+No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food were all zero calories, and the purpose of food in Aeterna _was purely for pleasure_. When you ate food in Aeterna, you got to enjoy to taste it deeper than you could ever on Earth, and after you swallowed, the food dissolved and disappeared into the air.
 
 Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
@@ -102,7 +104,7 @@ Aren's sod-roofed house was cozy inside. There were a few bird swings hanging fr
 
 {#
 TODOs:
-- A cardinal with the spirit of an immortal human who was invited to Valinor. (wiki image embed?)
+- A cardinal with the spirit of an immortal human who was invited to Aeterna. (wiki image embed?)
 - The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
 - An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
 #}
