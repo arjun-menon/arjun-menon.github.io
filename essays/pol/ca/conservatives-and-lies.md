@@ -343,6 +343,8 @@ Vagueness and conservative thought:
 
 https://www.theatlantic.com/ideas/archive/2025/06/existential-election-poland-nationalism/683051/
 
+https://www.youtube.com/watch?v=XbdaLPM4L7k - yet another lie
+
 ---
 
 <div style="text-align: end;">
