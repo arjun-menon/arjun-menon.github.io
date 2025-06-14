@@ -78,6 +78,16 @@ They reached the portal that went to Earth. There was a small line-up of five cr
 
 Earth these days had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in lush tropical rainforests, cities, towns, and other settlements. Humans, elves, wizards, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way.
 
+
+{#
+
+Proxima Centauri
+Endor
+
+Humans arrival story.
+
+#}
+
 #### Chapter {{chn()}}
 
 _From the perspective of Nauriel, on Earth_:
@@ -135,6 +145,7 @@ TODOs:
 - A cardinal with the spirit of an immortal human who was invited to Aeterna. (wiki image embed?)
 - The Cardinal talks about the simulations and spirits being placed in stasis ... for later ... analysis ... but doesn’t say too much more about it ... he was picked out early ... all of this is revealed/done in dialog.
 - An annoying regular parrot who repeats himself. In his small brain, he’s annoyed and mildly jealous at the cardinal’s frequent incessant chit-chat chatter, which all the hit creatures seemed to pay great heed to.
+- Virtual projection from Aeterna?
 #}
 
 #### Chapter {{chn()}}
