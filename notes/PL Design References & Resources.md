@@ -197,7 +197,11 @@ Rust WASM
 * https://www.reddit.com/r/rust/comments/svf0qm/rust_lib_to_generate_wasm_ir/
 * https://docs.rs/wasm-encoder/0.10.0/wasm_encoder/
 
-Chumsky
+Tao -- see "Interesting Features" section:
+* https://github.com/zesterer/tao
+    * *Generalised algebraic effects*
+
+Chumsky:
 - https://docs.rs/chumsky/latest/chumsky/
 - https://crates.io/crates/chumsky#tutorial
 	- https://en.wikipedia.org/wiki/Parsing_expression_grammar
@@ -205,7 +209,6 @@ Chumsky
 	- https://github.com/zesterer/chumsky/blob/main/tutorial.md#chumsky-a-tutorial
 	- https://github.com/zesterer/chumsky/tree/main
 		- https://github.com/zesterer/euc
-		- https://github.com/zesterer/tao
 - https://docs.rs/chumsky/latest/chumsky/
 - https://www.reddit.com/r/rust/comments/qhyzwd/chumsky_a_parser_combinator_crate_that_makes/
 - https://github.com/zesterer/chumsky/tree/main/examples
