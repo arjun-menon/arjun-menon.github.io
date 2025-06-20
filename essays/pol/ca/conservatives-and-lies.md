@@ -345,6 +345,8 @@ https://www.theatlantic.com/ideas/archive/2025/06/existential-election-poland-na
 
 https://www.youtube.com/watch?v=XbdaLPM4L7k - yet another lie
 
+https://archive.is/4li09 -- Vance Boelter
+
 ---
 
 <div style="text-align: end;">
