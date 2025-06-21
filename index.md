@@ -5,7 +5,7 @@ desc: Arjun Menon's essays, thoughts & notes.
 .content {
 	font-family: {{ fancy_sans_1 }};
 }
-p {
+body, p {
 	font-size: 16px;
 }
 h1, h2 {
