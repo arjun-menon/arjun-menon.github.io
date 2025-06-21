@@ -133,4 +133,4 @@ details[open] summary {
 {{icon_class('am-icon', 'AM-favicon-192x192', '16%')}}
 {{icon_class('mdm-icon', 'medium-logo-square', '35%')}}
 
-/* Last modified {{page.getLastModified()}}. */
+/* Last modified {{page.lastModified()}}. */

@@ -19,7 +19,7 @@ title: Thoughts
 				{{page.title}}
 				{% endif %}
 			</a>
-			&nbsp;&nbsp;<span class="datenote">({{page.getIdeaDate('%b %-d, %Y')}})</span>
+			&nbsp;&nbsp;<span class="datenote">({{page.ideaDate('%b %-d, %Y')}})</span>
 		</li>
 		{% %}
 	</ul>

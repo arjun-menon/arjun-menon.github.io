@@ -31,7 +31,7 @@ I write here and [on medium](https://medium.com/@arjungmenon). Some of my writin
 
 ❖ Essays:
 * On my faith:
-	* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">({{file('my-hope').getIdeaDate('%b %-d, %Y')}})</span>
+	* {{am}} [My Hope]({{link('my-hope')}}) (also on {{mdm}} [medium](https://medium.com/@arjungmenon/my-hope-bb8d0178797b)) <span class="datenote">({{file('my-hope').ideaDate('%b %-d, %Y')}})</span>
 	* {{mdm}} [Another Perspective on Hope](https://medium.com/@arjungmenon/another-perspective-on-hope-b812f6388fdc) <span class="datenote">(Jan 24, 2024)</span>
 	* {{mdm}} [My Reflections on Ezekiel 36:25–27 and Isaiah 42:19–20](https://medium.com/@arjungmenon/ezekiel-36-25-27-and-isaiah-42-19-20-945028192388) <span class="datenote">(Apr 16, 2020)</span>
 * On the Christian faith and North American politics:
