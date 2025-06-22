@@ -37,7 +37,7 @@ _From the perspective of beings in the eternal realm of immortals, Aeterna_:
 {{
 places['Aeterna'] = "eternal realm of the undying. Loosely based on Tolkien's [Valinor](https://en.wikipedia.org/wiki/Valinor). "
 }}
-Aeterna, the realm of the undying, existed in a dimension anything unlike our universe of planetary worlds inhabited by carbon-based organic life forms. The eternal beings of Aeterna lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
+Aeterna, the realm of the undying, existed in a dimension anything unlike our universe of planetary worlds inhabited by carbon-based organic life forms. The eternal beings of Aeterna, eldil, lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
 
 {{
 chrs['Rohan'] = "an eternal being (eldila) who goes down to Endor as a young elf, confront Philateros, etc. The eldila are loosely based on [the C.S. Lewis space trilogy eldil](https://the-silent-planet.fandom.com/wiki/Eldil), but in this story that have a hominid features, etc."
@@ -46,13 +46,13 @@ chrs['Alethea'] = "an eternal being (eldila) who goes down to Endor as an old el
 }}
 “Let’s go down to Endor”, said Rohan, speaking to Alethea, “it’s been a while since we’ve been down there”.
 
-The immortal eldila of Aeterna could cross dimensions, and visit our universe, and descend down to the planets, whenever they wished. Endor was a planet in the Proxima Centauri system that Rohan and Alethea had a long history with. Endor had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in tropical rainforests, cities, towns, and other settlements. Elves, humans, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way. Wizards from all species invented new kinds of magic all the time, and traded in magical recipes, spells, and all sorts of magical objects.
+The immortal eldil of Aeterna could cross dimensions, and visit our universe, and descend down to the planets, whenever they wished. Endor was a planet in the Proxima Centauri system that Rohan and Alethea had a long history with. Endor had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in tropical rainforests, cities, towns, and other settlements. Elves, humans, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way. Wizards from all species invented new kinds of magic all the time, and traded in magical recipes, spells, and all sorts of magical objects.
 
 Alethea was sitting on a white couch with gold streaks patterns, in Rohan's living room.
 
 “How long do you think you’ll want to hang around this time?” asked Alethea.
 
-The immortal eldila could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
+The immortal eldil could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
 
 “A hundred years or so,” said Rohan, waving his hands.
 
@@ -75,7 +75,7 @@ They stepped through the circular portal, and stepped out the other side. A cobb
 
 As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Aeterna), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
 
-No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food were all zero calories, and the purpose of food in Aeterna was purely for pleasure. When you ate food in Aeterna, you got to enjoy to taste it deeper than you ever could on Earth, and after you swallowed, the food dissolved and disappeared into the air.
+No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food was all zero calories, and the purpose of food in Aeterna was purely for enjoying eating. When you ate food in Aeterna, you got to taste it deeper than you ever could on Earth, and what you ate just simply dissolved and disappeared into thin air.
 
 Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
@@ -121,7 +121,11 @@ I went over to a table with the least scary looking group of people, and asked, 
 chrs['Tim'] = "a strong dwarf, and the leader of a small band of thieves."
 chrs['Chico'] = "Tim's pet dog, a miniature schanuzer, with a fiesty personality."
 }}
-“Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf. “Whereto?” I asked. “The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
+“Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf.
+
+“Whereto?” I asked.
+
+“The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
 
 The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 
@@ -134,17 +138,27 @@ Humans arrival story.
 
 #}
 
-“Let’s pick a form.” Rohan said. Rohan decided to take the form of a small young elf. Alethea took the opposite route and adopted the form of an old elven wizard.
+“Let’s pick a form.” Rohan said.
+
+Rohan decided to take the form of a small young elf.
+
+Alethea took the opposite route and adopted the form of an old elven wizard.
 
 In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
 
 
 {{
-chrs['Aren'] = "dwarf, who gives Rohan and Alethea a place to rest the night, after their arrival to Earth."
+chrs['Andy'] = "dwarf, who gives Rohan and Alethea a place to rest the night, after their arrival to Earth."
 }}
-As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.” Rohan said, “We just arrived.” “I’m Aren. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” They were looking to rest, so they took up Aren’s generous offer.
+As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.”
 
-Aren's sod-roofed house was cozy inside. There were a few bird swings hanging from the ceiling, and he had a small cardinal bird sitting on his table next to his notebook. A parrot perched by a bookshelf as well.
+Rohan replied, “We just arrived.”
+
+“I’m Andy. If you’re looking for a place to sleep tonight, I’d love to have you stay over.” Andy said.
+
+They were looking to rest, so they took up Andy’s generous offer.
+
+Andy's sod-roofed house was cozy inside. There were a few bird swings hanging from the ceiling, and he had a small cardinal bird sitting on his table next to his notebook. A parrot perched by a bookshelf as well.
 
 {#
 TODOs:
@@ -160,15 +174,37 @@ _From the perspective of Nauriel_:
 
 I was quite anxious about joining these robbers. But if my friend couldn’t work, I couldn’t afford to cover the rent on my own, and we’d lose our house. We were already late on last month’s rent. I kept quite mum on the way to wherever we were going. The last thing I wanted to do was irritate these professional thieves with my small talk. I didn’t want to get tossed out for asking some annoying question.
 
+After about a day, and after having unhappily relieved myself in the woods while an annoying bird watched me, I began to make out the outline of some city.
+
 {{
 chrs['Olin'] = "highly talented human wizard, and wand maker. Loosely based on Harry Potter's [Ollivander](https://harrypotter.fandom.com/wiki/Garrick_Ollivander)."
 }}
-After about a day, and after having unhappily relieved myself in the woods while an annoying bird watched me, I began to make out the outline of some city. “Have you heard of Olin?” said Tim, who sat across from me. “No, I haven’t. Who’s that?” “Well, he’s only the best wand maker in a thousand miles.” “Are we doing something for him?” “No, do we look like we work for a living to you?” “Well…isn’t all this stealing a form of work...?” I replied. “It’s fun actually. I don’t really need to do it anymore. I do it for the thrill of it. Our last heist was enough to retire on. But that was too boring for me. Besides, I have an escape token that’ll transport me right back home if anything goes wrong, so I’ve got nothing to worry about.” “What if you get killed before you can escape?” “Do I look like I started doing this yesterday?”
+“Have you heard of Olin?” said Tim, who sat across from me.
+
+“No, I haven’t. Who’s that?” I said, curious to know more.
+
+“Well, he’s only the best wand maker in a thousand miles.” Tim said, with mischievous grin.
+
+“Are we doing something for him?” I asked.
+
+“No, do we look like we work for a living to you?” Tim replied, incredulously.
+
+I surmised the plan was to Robin. “Well…isn’t all this stealing a form of work...?” I replied.
+
+“It’s fun, actually. I don’t really need to do it anymore. I do it for the thrill of it. Our last heist was enough to retire on. But that was too boring for me. Besides, I have an escape token that’ll transport me right back home if anything goes wrong, so I’ve got nothing to worry about.” Tim said, sounding confident and excited.
+
+“What if you get killed before you can escape?” I asked Tim.
+
+Tim quickly replied, “Do I look like I started doing this yesterday?”
 
 {{
 places['Kae'] = "the city where Olin has his shop."
 }}
-As we got close to the city, apparently named Kae, a fear and anxiety grew in my stomach. I wanted to leave and go back home. Perhaps a homemade remedy would have sufficed. But I was too scared to leave now. What would Tim and his friends do if I tried to bail on them now? We got off the carriage by some woods close enough to the city that I could see rooftops through the foliage.
+As we got close to the city, apparently named Kae, a fear and anxiety grew in my stomach. I wanted to leave and go back home. Perhaps a homemade remedy would have sufficed.
+
+But I was too scared to leave now. What would Tim and his friends do if I tried to bail on them now?
+
+We got off the carriage by some woods close enough to the city that I could see rooftops through the foliage.
 
 {#
 TODOs:
@@ -181,7 +217,9 @@ chrs['Arlo'] = "a member of Tim's crew of robbers."
 }}
 A bearded man, Arlo, who had sat silently by Tim during our journey (but always nodding in agreement to things Tim said) waved his hands over the misty seahorses, saying some mysterious words, and I saw them turn into a watery looking liquid and go into a vial he wore as a necklace. He then repeated the motions with our carriage, and our carriage shrunk to thimble size. He picked it up from the ground and put it in his pocket.
 
-“Your job will be to grab some tiny bags of fairy wing dust that Olin has in his storage room,” Tim said with a tone which indicated that I didn’t have a choice about the task. “It shouldn’t take you long. We’ll keep him distracted and preoccupied while you nab six bags. Each of your coat’s six pockets can conceal a bag; a concealment spell has been cast on them, so no one can detect them once the bags are in your pockets.” Tim pulled up a hand-scrawled map and pointed to the top right corner. “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air around you, so you’re not heard.”
+“Your job will be to grab some tiny bags of fairy wing dust that Olin has in his storage room,” Tim said with a tone which indicated that I didn’t have a choice about the task, adding “It shouldn’t take you long. We’ll keep him distracted and preoccupied while you nab six bags. Each of your coat’s six pockets can conceal a bag; a concealment spell has been cast on them, so no one can detect them once the bags are in your pockets.”
+
+Tim pulled up a hand-scrawled map and pointed to the top right corner, and said “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air around you, so you’re not heard.”
 
 As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it. Tim strolled up and said confidently “We’re looking for a training wand for my niece. Do you have any recommendations?” “Oh, yes, we have lots of different kinds of training wands. What kind of magic is she training in?” “Healing magic,” said Tim. “Alright. Let me get you a catalog of what we have”. As Olin was grabbing a catalog file that had “<small>HEALING TRAINING WANDS</small>” scribbled on the side, he noticed my overly anxious facial expression and asked, “Are you alright?” with genuine kindness and care. “I’m alright. Just a bit tired,” I replied. I felt bad about what I was about to do.
 
