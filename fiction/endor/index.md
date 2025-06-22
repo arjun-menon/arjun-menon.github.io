@@ -219,9 +219,26 @@ A bearded man, Arlo, who had sat silently by Tim during our journey (but always 
 
 “Your job will be to grab some tiny bags of fairy wing dust that Olin has in his storage room,” Tim said with a tone which indicated that I didn’t have a choice about the task, adding “It shouldn’t take you long. We’ll keep him distracted and preoccupied while you nab six bags. Each of your coat’s six pockets can conceal a bag; a concealment spell has been cast on them, so no one can detect them once the bags are in your pockets.”
 
-Tim pulled up a hand-scrawled map and pointed to the top right corner, and said “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air around you, so you’re not heard.”
+Tim pulled up a hand-scrawled map and pointed to the top right corner, and said “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air surrounding you, so you’re not heard.”
 
-As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it. Tim strolled up and said confidently “We’re looking for a training wand for my niece. Do you have any recommendations?” “Oh, yes, we have lots of different kinds of training wands. What kind of magic is she training in?” “Healing magic,” said Tim. “Alright. Let me get you a catalog of what we have”. As Olin was grabbing a catalog file that had “<small>HEALING TRAINING WANDS</small>” scribbled on the side, he noticed my overly anxious facial expression and asked, “Are you alright?” with genuine kindness and care. “I’m alright. Just a bit tired,” I replied. I felt bad about what I was about to do.
+As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it.
+
+{#
+todo:
+description of Olin
+#}
+
+Tim strolled up and said confidently “We’re looking for a training wand for my niece. Do you have any recommendations?”
+
+“Oh, yes, we have lots of different kinds of training wands. What kind of magic is she training in?”
+
+“Healing magic,” said Tim.
+
+“Alright. Let me get you a catalog of what we have”.
+
+As Olin was grabbing a catalog file that had “<small>HEALING TRAINING WANDS</small>” scribbled on the side, he noticed my overly anxious facial expression and asked, “Are you alright?” with genuine kindness and care.
+
+“I’m alright. Just a bit tired,” I replied. I felt bad about what I was about to do.
 
 I slowly moved away, pretending to look around the shop, while Tim peppered Olin with questions about the pros and cons of various wands. As I inched closer to what seemed like the trapdoor, I prayed and hoped that Arlo’s spell held. I lifted its dirty handle and slipped in quickly. I heard it close with a thud. But assuming that Arlo’s spell worked, I’d be fine. The tunnel wasn’t too long. At the end of it was a circular wooden door with a wavy bronze handle. I didn’t notice a keyhole. I turned the handle, and I was inside. There was a veritable cornucopia of things in here. Wand making was a complex art that involved many ingredients that varied depending on the kind of wand to be made.
 
@@ -260,7 +277,7 @@ chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-know
 {{
 chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based on the red dragon in [Revelation 12:3](https://www.biblegateway.com/passage/?search=Revelation+12%3A3&version=NIV), who a few verses later in [Relevation 12:9](https://www.biblegateway.com/passage/?search=Revelation%2012%3A9&version=NIV) is indicated to be a symbolic image for Satan: _\"The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him\"_."
 }}
-“The enormous red dragon Therion from the Dead Mountains made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
+“The red dragon Therion from the Dead Mountains made him a wand that helped him deceive people. He used it to cast a spell over this city that dulled people’s sense of discernment between what is true and what is a lie.”
 
 “What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
