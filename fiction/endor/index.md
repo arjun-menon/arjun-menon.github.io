@@ -75,18 +75,18 @@ They stepped through the circular portal, and stepped out the other side. A cobb
 
 As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Aeterna), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
 
-No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food was all zero calories, and the purpose of food in Aeterna was purely for enjoying eating. When you ate food in Aeterna, you got to taste it deeper than you ever could on Earth, and what you ate just simply dissolved and disappeared into thin air.
+No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food was all zero calories, and the purpose of food in Aeterna was purely for enjoying eating. When you ate food in Aeterna, you got to taste it deeper than you ever could in the planetary realm, and what you ate just simply dissolved and disappeared into thin air.
 
 Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
-They reached the portal that went to Earth. There was a small line-up of five creatures ahead of them.
+They reached the portal that went to Endor. There was a small line-up of five creatures ahead of them.
 
 #### Chapter {{chn()}}
 
-_From the perspective of Nauriel, on Earth_:
+_From the perspective of Nauriel, on Endor_:
 
 {{
-chrs['Nauriel'] = "a half-elf half-human who lives on Earth, and is the main character of the 2nd parallel storyline here."
+chrs['Nauriel'] = "a half-elf half-human who lives on Endor, and is the main character of the 2nd parallel storyline here."
 }}
 My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly.
 
@@ -132,11 +132,6 @@ The next day they gave me a merchant’s outfit, which they’d magically shrunk
 #### Chapter {{chn()}}
 
 _From the perspective of Rohan and Alethea_:
-{#
-
-Humans arrival story.
-
-#}
 
 “Let’s pick a form.” Rohan said.
 
@@ -144,11 +139,18 @@ Rohan decided to take the form of a small young elf.
 
 Alethea took the opposite route and adopted the form of an old elven wizard.
 
-In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down. A few small travelers’ outposts dotted the mountainside, serving food and drink. As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
+In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down.
 
+{# todo:
+Humans arrival story.
+#}
+
+A few small travelers’ outposts dotted the mountainside, serving food and drink. {# todo: more desc #}
+
+As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
 
 {{
-chrs['Andy'] = "dwarf, who gives Rohan and Alethea a place to rest the night, after their arrival to Earth."
+chrs['Andy'] = "dwarf, who gives Rohan and Alethea a place to rest the night, after their arrival to Endor."
 }}
 As they were passing by a row of houses, an old dwarf popped out and said, “Oh wow! How long have you been around? It’s been a long time since we’ve seen any elves here.”
 
@@ -252,7 +254,7 @@ I gently opened the trapdoor and came out. When I got out, the shop seemed empty
 
 _From the perspective of Rohan and Alethea_:
 
-“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Earth and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
+“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Endor and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
 {{
 places['Zior'] = "a small kingdom that been under the rule of an evil king for about fifty years."
@@ -347,7 +349,7 @@ He flicked his hand, and the door burst into pieces; and he walked in. The old k
 
 The king of Zior was fat, old, decrepit, and borderline senile. Years of lying with no shame had corrupted his mind, to the point that he believed some of his own fabrications, and he could no longer distinguish what was true and what was false himself.
 
-“Your vile and evil actions have cast a stench upon this part of the Earth and great suffering to many,” Rohan said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
+“Your vile and evil actions have cast a stench upon this part of the Endor and great suffering to many,” Rohan said. “What did that red dragon offer you, for the evils you’ve inflicted on the people of this city?”
 
 “Who are you... I don’t know what you’re talking about...,” the king murmured from his bed, as though he was drunk or high on something.
 
