@@ -49,9 +49,11 @@ Note<sup>3</sup>: most chapters comes with a piece of music to be enjoyed along 
 You might need to click the ▶ play button twice, and be logged into Spotify on your browser.
 </div></p>
 
+{#
 <p><div class="heading floating-bubble" style="background-color: silver;">
 Note<sup>4</sup>: this story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
 </div></p>
+#}
 
 {{
 ch_num = 0
@@ -133,7 +135,9 @@ Alethea was sitting on a white couch with gold streaks patterns, in Rohan's livi
 
 “How long do you think you’ll want to hang around this time?” asked Alethea.
 
-The eldil of Aeterna could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on. {# todo change power #}
+The eldila of Aeterna could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept a full breadth of magical powers. They could choose to go down keeping their memories and knowledge and skills and power, which most did.
+
+But in terms of memory, they also had the choice to down tabula rasa. In this case, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on. Some took this route as a challenge.
 
 “A hundred years or so,” said Rohan, waving his hands.
 
@@ -292,6 +296,8 @@ A few small travelers’ outposts dotted the mountainside, serving food and drin
 
 A planet-wide centralized system of credit lines meant you could get whatever you wanted, and pay for it later. But, of course, people deep in debt had to use coins.
 
+##### Andy
+
 As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
 
 {{
@@ -306,6 +312,23 @@ Rohan replied, “We just arrived.”
 They were looking to rest, so they took up Andy’s generous offer.
 
 Andy's sod-roofed house was cozy inside. There were a few bird swings hanging from the ceiling, and he had a small cardinal bird sitting on his table next to his notebook. A parrot perched by a bookshelf as well.
+
+##### Ildris
+{{
+chrs['Ildris'] = "an eldil visiting Endor in bird form (as a bright red cardinal)."
+}}
+Andy had a circle of seven cushy deep couches, with a round table in the center that was scattered with books, scrolls, a few fountain pens, an open ink bottle, and parchments with things scribbled on them. Rohan and Alethea sunk into two couches. As they were chatting, the red cardinal flew over and looked inquisitively at them.
+
+Suddenly, the cardinal spoke, "it's good to have you here".
+
+Andy interjected, "this is Ildris, he's a visiting eldil actually".
+{{
+chrs['Iluvatar'] = "very similar to Tolkien's [Iluvatar](https://tolkiengateway.net/wiki/Il%C3%BAvatar)."
+}}
+"True, but that's not quite the full story", the red cardinal bird named Ildris replied, with a wizened voice that sounded steeped in wisdom. "I was a human four hundred fifty years ago. Iluvatar took me up, and turned me into an eldil while I was still alive on Earth. This is my third visit to the realm of the mortals."
+
+Alethea found Ildris' choice of bird form both peculiar and amusing. 
+
 
 {#
 TODOs:
@@ -347,6 +370,7 @@ I surmised the plan was to Robin. “Well…isn’t all this stealing a form of 
 
 Tim quickly replied, “Do I look like I started doing this yesterday?”
 
+##### Kae
 {{
 places['Kae'] = "the city where Olin has his shop."
 }}
@@ -372,6 +396,7 @@ A bearded man, Arlo, who had sat silently by Tim during our journey (but always 
 
 Tim pulled up a hand-scrawled map and pointed to the top right corner, and said “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air surrounding you, so you’re not heard.”
 
+##### Olin's wand shop
 As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it. Olin had a round face, most clean shave, except very thin long wispy white goatee several centimeters long. It swung about as he walked over to greet us.
 
 Tim strolled up and said confidently “We’re looking for a training wand for my niece. Do you have any recommendations?”
@@ -386,7 +411,11 @@ As Olin was grabbing a catalog file that had “<small>HEALING TRAINING WANDS</s
 
 “I’m alright. Just a bit tired,” I replied. I felt bad about what I was about to do.
 
-I slowly moved away, pretending to look around the shop, while Tim peppered Olin with questions about the pros and cons of various wands. As I inched closer to what seemed like the trapdoor, I prayed and hoped that Arlo’s spell held. I lifted its dirty handle and slipped in quickly. I heard it close with a thud. But assuming that Arlo’s spell worked, I’d be fine. The tunnel wasn’t too long. At the end of it was a circular wooden door with a wavy bronze handle. I didn’t notice a keyhole. I turned the handle, and I was inside. There was a veritable cornucopia of things in here. Wand making was a complex art that involved many ingredients that varied depending on the kind of wand to be made.
+I slowly moved away, pretending to look around the shop, while Tim peppered Olin with questions about the pros and cons of various wands. As I inched closer to what seemed like the trapdoor, I prayed and hoped that Arlo’s spell held. I lifted its dirty handle and slipped in quickly. I heard it close with a thud. But assuming that Arlo’s spell worked, I’d be fine. The tunnel wasn’t too long. At the end of it was a circular wooden door with a wavy bronze handle. I didn’t notice a keyhole. I turned the handle, and I was inside.
+
+##### Olin's wand shop's storage room
+
+There was a veritable cornucopia of things in here. Wand making was a complex art that involved many ingredients that varied depending on the kind of wand to be made.
 
 I carefully looked around. I couldn’t stop looking at all the objects that surrounded me. There were so many fascinating things. I could easily get lost examining these things for hours. I hated the fact that I had so little time to spend here.
 
@@ -409,10 +438,11 @@ Rohan replied, “Help folks out a bit here and there. Perhaps create some new s
 
 “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
+##### Visiting Zior
 {{
 places['Zior'] = "a small kingdom that been under the rule of an evil king for about fifty years."
 }}
-Rohan and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea.
+Rohan and Alethea left a few days later. After some travel, they reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea.
 
 There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
 
