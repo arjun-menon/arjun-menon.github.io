@@ -510,13 +510,45 @@ Alethea felt sad when she heard all of this.
 <p class="pg">From the perspective of Nauriel:</p>
 
 <p class="para_first">
-I walked out of the door of Olin’s shop. “We missed you there for a bit!” Olin said warmly, smiling at me cheerfully. I felt really bad that I had stolen from such a nice, genuinely kind man. I glanced at Tim, trying to indicate that it was perhaps time to go. Tim seemed to have gotten the signal, and he told Olin, “I think I’ll need to think it over, chat with my niece, to decide which one to get. Thank you for showing us your wares.” “You’re most welcome,” replied Olin.</p>
+I walked out of the door of Olin’s shop. “We missed you there for a bit!” Olin said warmly, smiling at me cheerfully.</p>
 
-We slowly trudged back to the woods climbing up a sloping rocky path. Arlo took the miniature carriage, and carefully placed it on a small patch of forest that was clear of trees. He began casting a spell. Just as the carriage was growing bigger, I heard a loud screeching noise as though from a bird, but I saw no bird anywhere. When I turned around, I saw Olin stepping out of a portal, and he looked angry. “You don’t know what you’ve stolen!” “I’m sorry,” I whispered. “I’m sure these guys put you up to it. That’s the wand of the king of Zior! It’s a wand that was crafted by a dragon. I was working on adding more manna to it. That king didn’t even pay me for it; he just threatened to hurt me and my family if I didn’t modify the wand the way he wanted.”
+I felt really bad that I had stolen from such a nice, genuinely kind man.
 
-Tim spoke up and said, “Hey, I’m sorry about that, but we didn’t steal your wand. We did help ourselves to some of your fairy wing dust as we do need to make a living, but we’re not interested in your wands. They’re not as easy to sell. We don’t know anything about this wand. We’re going to be leaving now.” Tim took out a little button-like object and cast it on the ground between us and the carriage, and as soon as it hit the ground, a bubble of light surrounded us and the carriage (but not Olin as he was a bit further away from us), and everything went dark for a few seconds.
+I glanced at Tim, trying to indicate that it was perhaps time to go. Tim seemed to have gotten the signal, and he told Olin, “I think I’ll need to think it over, chat with my niece, to decide which one to get. Thank you for showing us your wares.”
 
-I felt around my arms; and I could still feel my arms, but I felt weightless, and felt like a light wind was blowing around me, in the darkness. A few seconds later, we reappeared near the woods, near the little shack where I’d found this gang. “Any idea what he was talking about?” asked Tim. “Nope,” I lied. “That escape token cost me a lot, and I wasn’t expecting to need it to escape from the wand maker.” Arlo added, “Olin’s one of the finest wizards around. I don’t think we had much of a choice.” Tim said, “Well, I think we’ll need to subtract the cost of it from the payout for our new friend here.” “I didn’t do anything wrong,” I protested, knowing that wasn’t entirely true. “Your share would just about cover the cost of our escape token. I’m sorry this job didn’t work out for you, but maybe you can make something on our next job.” “What...,” I mumbled, and slowly started walking back home.
+“You’re most welcome,” replied Olin.
+
+We slowly trudged back to the woods climbing up a sloping rocky path. Arlo took the miniature carriage, and carefully placed it on a small patch of forest that was clear of trees. He began casting a spell. Just as the carriage was growing bigger, I heard a loud screeching noise as though from a bird, but I saw no bird anywhere.
+
+When I turned around, I saw Olin stepping out of a portal, and he looked angry.
+
+“You don’t know what you’ve stolen!” Olin screamed.
+
+“I’m sorry,” I whispered.
+
+Olin continued roaring, “I’m sure these guys put you up to it. That’s the wand of the king of Zior! It’s a wand that was crafted by a dragon. I was working on adding more manna to it. That king didn’t even pay me for it; he just threatened to hurt me and my family if I didn’t modify the wand the way he wanted.”
+
+Tim spoke up and said, “Hey, I’m sorry about that, but we didn’t steal your wand. We did help ourselves to some of your fairy wing dust as we do need to make a living, but we’re not interested in your wands. They’re not as easy to sell. We don’t know anything about this wand. We’re going to be leaving now.”
+
+Tim took out a little button-like object and cast it on the ground between us and the carriage, and as soon as it hit the ground, a bubble of light surrounded us and the carriage (but not Olin as he was a bit further away from us), and everything went dark for a few seconds.
+
+I felt around my arms; and I could still feel my arms, but I felt weightless, and felt like a light wind was blowing around me, in the darkness. A few seconds later, we reappeared near the woods, near the little shack where I’d found this gang.
+
+“Any idea what he was talking about?” asked Tim.
+
+“Nope,” I lied.
+
+“That escape token cost me a lot, and I wasn’t expecting to need it to escape from the wand maker.” Tim grumbled.
+
+Arlo remarked, “Olin’s one of the finest wizards around. I don’t think we had much of a choice.”
+
+Tim said, “Well, I think we’ll need to subtract the cost of it from the payout for our new friend here.”
+
+“I didn’t do anything wrong,” I protested, knowing that wasn’t entirely true.
+
+“Your share would just about cover the cost of our escape token. I’m sorry this job didn’t work out for you, but maybe you can make something on our next job.” Tim said, looking like he didn't care how much danger I'd put myself.
+
+“What...,” I mumbled, not sure if it was even safe to complain in this company, and slowly started walking back home.
 
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
 
@@ -527,7 +559,9 @@ I thought to myself that, well, if anything, even if we couldn’t pay rent, at 
 <p class="pg">From the perspective of Rohan and Alethea:</p>
 
 <p class="para_first">
-“We should have come down here sooner. We should have kept a closer eye on Zior.” Rohan muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.</p>
+“We should have come down here sooner. We should have kept a closer eye on Zior.” Rohan muttered.</p>
+
+“You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
 
 Alethea went to a square in the middle of the city. She began to cast a spell. As she was muttering the incantation, some of the king's soldiers approached her, but they fell back as soon as they saw she was an elf. They could sense that she was a powerful elf, even from far away, and they dared not confront her.
 
@@ -539,9 +573,15 @@ In less than twenty-four hours, the people of Zior caught on. They figured out t
 
 People began experimenting in front of a mirror by saying the things they’d heard, and seeing if a violet glow appeared in front of their mouths. Many began to realize how much they’d been lied to.
 
-Rohan had magically transported himself to the king’s courtroom. The king wasn’t there. But Rohan found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. He squinted at him. “Aren’t you Olin..?” “Yes...,” he replied, sounding weak. “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
+Rohan had magically transported himself to the king’s courtroom. The king wasn’t there. But Rohan found an old genteel-looking man, chained against the side wall, looking quite bruised and with dry clotted wounds. He squinted at him.
 
-“Where is the king now?” Rohan asked while casting a spell that healed Olin. He then magically broke his chains. “I don’t know,” replied Olin.
+“Aren’t you Olin..?” Rohan asked.
+
+“Yes...,” Olin replied, sounding weak, and adding “The king’s warlocks kidnapped me and tortured me because I lost his precious wand... His wand was stolen from me...”
+
+“Where is the king now?” Rohan asked while casting a spell that healed Olin. He then magically broke his chains.
+
+“I don’t know,” replied Olin.
 
 Rohan cast a locating spell, and followed the path it lit up. It led to a door on the second floor of the palace.
 
