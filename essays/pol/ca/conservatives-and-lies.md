@@ -9,7 +9,7 @@ This is only about 2% done right now. 98% of this essay is still a messy draft, 
 
 Unfortunately, dishonesty and misrepresentation have become a core and recurring theme of North American conservative politics and politicians. I will discuss this sad state of affairs in both Canada and the U.S., by touching on a few demonstrative examples.
 
-Lying is not a good thing. Lying deceives people. Lying breaks trust. God hates lying.
+Lying is not a good thing. Lying deceives people. Lying breaks trust. {# in a different para with quotes? God hates lying. #}
 
 While all politicians (and _all people_ in general) might lie to a certain extent, the pestilence of lying has become particularly extreme, thematic, and all-too-common, among ***conservative politicians***. Moreover, the manner in which conservative politicians use their speech – the persistent compulsive lying, the abusive language and invective, and an utter disregard for truthfulness – has had a corrupting influence on political culture in North America.
 
@@ -20,6 +20,10 @@ A lot of people in North America have unfortunately believed the incessant strea
 Many people often repeat the same nonsense they hear.
 
 Many people blindly trust these lying politicians; not having recognized the lies for what they are.
+
+### Canada
+
+
 
 {#
 ### Canada
