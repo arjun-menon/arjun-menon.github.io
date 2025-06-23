@@ -317,14 +317,17 @@ Andy's sod-roofed house was cozy inside. There were a few bird swings hanging fr
 {{
 chrs['Ildris'] = "an eldil visiting Endor in bird form (as a bright red cardinal)."
 }}
+
 Andy had a circle of seven cushy deep couches, with a round table in the center that was scattered with books, scrolls, a few fountain pens, an open ink bottle, and parchments with things scribbled on them. Rohan and Alethea sunk into two couches. As they were chatting, the red cardinal flew over and looked inquisitively at them.
 
 Suddenly, the cardinal spoke, "it's good to have you here".
 
 Andy interjected, "this is Ildris, he's a visiting eldil actually".
+
 {{
 chrs['Iluvatar'] = "very similar to Tolkien's [Iluvatar](https://tolkiengateway.net/wiki/Il%C3%BAvatar)."
 }}
+
 "True, but that's not quite the full story", the red cardinal bird named Ildris replied, with a wizened voice that sounded steeped in wisdom. "I was a human four hundred fifty years ago. Iluvatar took me up, and turned me into an eldil while I was still alive on Earth. This is my third visit to the realm of the mortals."
 
 Alethea found Ildris' choice of bird form both peculiar and amusing. 
@@ -384,7 +387,7 @@ We got off the carriage by some woods close enough to the city that I could see 
 TODOs:
 - Chico, the dog with the seriousness of a general at war.
 - Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
--  Annoying eldil knowing everything?
+-  An annoying eldil knowing everything, but who won't share anything with us mortal?
 #}
 
 {{
@@ -454,8 +457,10 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 
 “What changed?”
 
+##### Philoteras and his lying
+
 {{
-chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years."
+chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years. The name Philoteras is of Koine Greek construction, and roughly translates to friend of the monster/beast."
 }}
 “About fifty years ago, a man named Philoteras was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
@@ -478,6 +483,8 @@ chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based 
 
 “Education at our places of learning taught people to think and discern between truth and lies better, even without magic. In addition, our greatest teachers and learned people fought to counter the evil deception spell he’d cast over our city. But, alas, the dragon’s magic was too strong for us to overcome at the time...”
 
+##### Philoteras and protection spells
+
 “What’s the rash you have?”
 
 “It’s pixie trail fever.”
@@ -487,6 +494,8 @@ Pixies gave off these little trails of used-up manna when they did their tiny bi
 “Didn’t I give you all a spell a hundred years ago that eradicated it?” Alethea piped in.
 
 “Yes, you did. No one had pixie trail fever fifty years ago. But this evil king Philoteras and his friends told people that the spells we cast on our children to make them immune to various diseases were actually hurting them, even though we had a hundred years of evidence of your spells working. And people believed his lies, became deceived, and they stopped casting protection spells on their children. My parents refused to listen to his nonsense, but he threatened to imprison parents who tried to cast protection spells on their children. My parents were adjunct instructors, and hence not that well off, so we could not afford to move like some of our friends.”
+
+##### Therion's hatred
 
 “Who benefits from all this?”
 
