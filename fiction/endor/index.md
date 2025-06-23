@@ -49,11 +49,9 @@ Note<sup>3</sup>: most chapters comes with a piece of music to be enjoyed along 
 You might need to click the ▶ play button twice, and be logged into Spotify on your browser.
 </div></p>
 
-{#
 <p><div class="heading floating-bubble" style="background-color: silver;">
 Note<sup>4</sup>: this story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
 </div></p>
-#}
 
 {{
 ch_num = 0
@@ -433,7 +431,7 @@ I gently opened the trapdoor and came out. When I got out, the shop seemed empty
 <p class="pg">From the perspective of Rohan and Alethea:</p>
 
 <p class="para_first">
-Andy, friendly dwarf, asked Rohan, “What do you want to do while you’re here?”.</p>
+Andy, the friendly dwarf, asked Rohan, “What do you want to do while you’re here?”.</p>
 
 Rohan replied, “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.”
 
