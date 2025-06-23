@@ -23,7 +23,12 @@ Many people blindly trust these lying politicians; not having recognized the lie
 
 ### Canada
 
+One example of a recent lie in Canadian politics involves the carbon tax. The conservatives spun a whole web of lies around it, blaming it for everything.
 
+<p><div style="border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); background-color: orange; padding: 9px; width: fit-content; margin: 0 auto;">
+This is an ongoing <b>WORK IN PROGRESS</b>, and more will be added in the coming days.<br>
+This is only about 2% done right now. 98% of this essay is still a messy draft, right now.
+</div></p>
 
 {#
 ### Canada
