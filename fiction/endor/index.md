@@ -145,15 +145,22 @@ chrs['Tim'] = "a strong dwarf, and the leader of a small band of thieves."
 
 “The fewer questions, the better”, Tim replied.
 
+<figure style="float: right;">
+<img src="{{link('chico-staring-from-a-bed')}}" style="width:200px; height:auto;">
+<figcaption style="text-align: center;"><h5><em>Chico's stare</em></h5></figcaption>
+</figure>
+
 ##### Chico
 {{
 chrs['Chico'] = "Tim's pet dog, a miniature schanuzer, with a fiesty personality."
 }}
-Tim had a miniature schnauzer sitting next to him, who gazed at me intently.
+Tim had a small dog, a miniature schnauzer (with mostly black hair but with white-haired eyebrows and a white-haired mustache and beard) sitting next to him, who gazed at me intently.
 
 "That's Chico. He's a good boy," Tim added.
 
-The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
+The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses.
+
+Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 
 #### Chapter {{chn()}}
 
