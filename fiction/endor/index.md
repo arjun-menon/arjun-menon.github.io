@@ -5,6 +5,7 @@ desc: "Endor: a story about truth & lies, some elves, magic, a bad king, etc."
 <style>
 h3 { font-size: 135%; color: darkgoldenrod; padding-top: 6px; }
 h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
+h5 { font-size: 100%;  color: goldenrod; padding-top: 5px; }
 .floating-bubble { font-size: 17.5px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); padding: 11.5px 9px; width: fit-content; margin: 0 auto; }
 </style>
 
@@ -28,24 +29,29 @@ chrs = {}
 places = {}
 }}
 
-### Part 1
+### Part 1: Zior and Lies
 
-#### Chapter {{chn()}}
+#### Chapter {{chn()}}: In Aeterna, and going to Endor
 
 _From the perspective of beings in the eternal realm of immortals, Aeterna_:
 
 {{
-places['Aeterna'] = "eternal realm of the undying. Loosely based on Tolkien's [Valinor](https://en.wikipedia.org/wiki/Valinor). "
+places['Aeterna'] = "eternal realm of the undying. Loosely based on J.R.R. Tolkien's [Valinor](https://en.wikipedia.org/wiki/Valinor). "
 }}
 Aeterna, the realm of the undying, existed in a dimension anything unlike our universe of planetary worlds inhabited by carbon-based organic life forms. The eternal beings of Aeterna, eldil, lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
 
 {{
-chrs['Rohan'] = "an eternal being (eldila) who goes down to Endor as a young elf, confront Philateros, etc. The eldila are loosely based on [the C.S. Lewis space trilogy eldil](https://the-silent-planet.fandom.com/wiki/Eldil), but in this story that have a hominid features, etc."
+chrs['Rohan'] = "an eternal being (eldila) who goes down to Endor as a young elf, confront Philateros, etc. The eldila are very loosely based on the C.S. Lewis [Space Trilogy](https://en.wikipedia.org/wiki/The_Space_Trilogy)'s<sup>([fandom](https://the-silent-planet.fandom.com/wiki/Ransom_trilogy), [narniafans](https://narniafans.com/books/the-space-trilogy/))</sup> [eldil](https://the-silent-planet.fandom.com/wiki/Eldil), but in this story they are more elf-like in features, etc. The elves are also loosely inspired by the elves in Tolkien's world, the manga [Frieren](https://en.wikipedia.org/wiki/Frieren), etc."
 
 chrs['Alethea'] = "an eternal being (eldila) who goes down to Endor as an old elven wizard, brings truth, etc. The name Alethea means truth as well, per [this Wikipedia article](https://en.wikipedia.org/wiki/Alethea)."
 }}
 “Let’s go down to Endor”, said Rohan, speaking to Alethea, “it’s been a while since we’ve been down there”.
 
+{{
+places['Alpha Centauri'] = "the star system that this story takes place. See Wikipedia on [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri)."
+places['Proxima Centauri'] = "the exosolar system that this story takes place. See Wikipedia on [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri)."
+places['Endor'] = "the planet this story takes place in. The name is taken from J.R.R. Tolkien's [Endor](https://tolkiengateway.net/wiki/Endor), which in LOTR lore is the Quenya name for Middle-earth. "
+}}
 The immortal eldil of Aeterna could cross dimensions, and visit our universe, and descend down to the planets, whenever they wished. Endor was a planet in the Proxima Centauri system that Rohan and Alethea had a long history with. Endor had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in tropical rainforests, cities, towns, and other settlements. Elves, humans, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way. Wizards from all species invented new kinds of magic all the time, and traded in magical recipes, spells, and all sorts of magical objects.
 
 Alethea was sitting on a white couch with gold streaks patterns, in Rohan's living room.
@@ -58,6 +64,7 @@ The immortal eldil could go down as humans, or as elves, or as other creatures. 
 
 “I’ll join you for a dozen years or so”, replied Alethea.
 
+##### Naiadryl
 {{
 chrs['Naiadryl'] = "a translucent pet octopus, who can fly, and who lives with Alethea."
 }}
@@ -67,11 +74,15 @@ Alethea stared intently at Naiadryl’s slightly-squishy gelatinous head, and gr
 
 "Go off now, I'll be back in a decade or two," she told Naiadryl, who understood. He gave her a big giant hug, and scurried toward Rohan, and gave his palm a small squeeze as well. Then Alethea watched as Naiadryl ascended a particularly long set of crystal stairs with ease. There was a rainbow-streaked waterfall halfway up. Naiadryl stopped at the edge of a stair, jumped off and gently flew towards the flowing water, and started playing and splashing around in the water flowing down.
 
-Even though it wasn't cold, snow that rarely melted occasionally floated across the air. Around a fourth of the trees were covered in them. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stops shining, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
+##### Leaving
+
+Even though it wasn't cold, snow that never melted occasionally floated across the air. Around a quarter of the trees were covered in snow. This snow was cool, light, and eminently edible with a fresh watery deliciousness. The sun never stopped shining in Aeterna, and the snow resting on leaves and elsewhere glittered like diamonds in the endless sunlight.
 
 Rohan and Alethea got up and walked towards a portal on their platform. Alethea scooped up snow off a tree's leaf, and held it in her mouth, feeling its crisp crunchy coolness for a while, before swallowing the snow. They were heading to another hexagonal block where there was a portal to the planet Endor.
 
-They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There was some tall spirally cylindrical towers scattered about the woods nearby. A few eldila were walking around, some flying in the air, and some sitting on tree branch or on the ground.
+They stepped through the circular portal, and stepped out the other side. A cobblestone path led down to a town square. There were some tall spirally cylindrical towers scattered about the woods nearby. A few eldil were walking around, some flying in the air, and some sitting on tree branch or on the ground.
+
+##### Baklava
 
 As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Aeterna), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
 
@@ -79,9 +90,11 @@ No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. Th
 
 Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
-They reached the portal that went to Endor. There was a small line-up of five creatures ahead of them.
+##### On to Endor
 
-#### Chapter {{chn()}}
+Then, they reached the portal that went to Endor. There was a small line-up of five eldil ahead of them.
+
+#### Chapter {{chn()}}: Nauriel and some thieves
 
 _From the perspective of Nauriel, on Endor_:
 
@@ -90,10 +103,12 @@ chrs['Nauriel'] = "a half-elf half-human who lives on Endor, and is the main cha
 }}
 My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly.
 
+##### Visiting Pelegrin
 {{
 chrs['Pelegrin'] = "a wizard who worked as a town doctor and apothecary."
 }}
-I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy Bismarckian mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that.
+
+I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pelegrin towered over me, eyebrows furrowed, with his bushy mustache looking down at me with suspicion, as though he didn’t trust me. I had stolen a transparency potion of his when I was a little kid, and he hadn’t forgotten that.
 
 “My friend is sick. He has an awful headache, and he can’t see well. He says he sees things through a white mist.” I said.
 
@@ -105,27 +120,38 @@ I went to Pelegrin, a local wizard who was both a doctor and an apothecary. Pele
 
 I didn’t want to press the matter, so I left quietly. I went and sat on a rock nearby, pondering what to do next.
 
+##### My Churro
+
 I was a bit hungry.
 
 Thankfully, I had a scroll in my pocket (along with other scrolls) for my favorite snack. One that I myself had painstakingly and carefully engineered over several iterations over years.
 
 I learned a spell to make churros when I was eight years old, but over the years, I made a lot of little tweaks to it. I had adjusted the spell to have the churro's outer fried layer be exactly the level of crunchy I liked, the inside have the soft airy chewiness I enjoyed, and change the white sugar to maple sugar powder, and lastly incorporated chai spices into the dough bread mix (that I copied from a chai tea spell). After years of tweaking, I'd achieved what I call perfection with it. It was a party favorite.
 
-I opened up the scroll, and conjured up a stick of my unique Nauriel churro. Munching on the churro cured some of the disappointment I felt at how Pelegrin still saw me.
+I opened up the scroll, and conjured up a stick of my unique churro. Munching on the churro cured some of the disappointment I felt at how Pelegrin still saw me.
 
-I walked over to a corner of the town, by the woods. There was a little wooden shack there, with a little bar, frequented by not-so-trustworthy people, and various kinds of outcasts.
+##### Grunt's Keep
+
+I walked over to a corner of the town, by the woods. There was a little wooden shack there, with a hand-crafted wooden sign with little wooden sticks nailed together that spelled out "Grunt's Keep". Some illumination spell gave the sign a faint firefly-like glow. Inside, was a little bar, frequented by not-so-trustworthy people, and various kinds of outcasts.
 
 I went over to a table with the least scary looking group of people, and asked, “Is there any way I could come about five gold coins?”
 
 {{
 chrs['Tim'] = "a strong dwarf, and the leader of a small band of thieves."
-chrs['Chico'] = "Tim's pet dog, a miniature schanuzer, with a fiesty personality."
 }}
 “Hullo, I’m Tim. We have a little job a bit north of here. Help us out, and five coins is yours,” replied a burly looking dwarf.
 
 “Whereto?” I asked.
 
-“The fewer questions, the better”. Tim had a miniature schnauzer sitting next to him, who gazed at me intently. "That's Chico. He's a good boy," Tim added.
+“The fewer questions, the better”, Tim replied.
+
+##### Chico
+{{
+chrs['Chico'] = "Tim's pet dog, a miniature schanuzer, with a fiesty personality."
+}}
+Tim had a miniature schnauzer sitting next to him, who gazed at me intently.
+
+"That's Chico. He's a good boy," Tim added.
 
 The next day they gave me a merchant’s outfit, which they’d magically shrunk to my size. We got into a carriage, which was pulled by these translucent iridescent mist-like beings that looked like seahorses. Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 
@@ -287,7 +313,7 @@ chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based 
 
 “How did he stay on for so long?”
 
-“He canceled elections, and became a king. Many were deceived by his lies, and so he had a cadre of supporters to help him cling on to power as well. He also cut off funding for education, so most of the learned people left Zior. The institutions of learning shuttered, and the people that remained fell deeper into his black hole of lies. Many weak ones in our city fell for his deception spell, and felt like there was nothing wrong, and failed to see the evil and suffering that was before their very eyes. And also, he threw anyone who resisted or wasn’t sycophantic towards him or didn’t address him as ‘_our dear and beloved king_’ into a gulag in a foreign land, to be tortured. Our people got sick. We became poor.”
+“He canceled elections, and became a king. Many were deceived by his lies, and so he had a cadre of supporters to help him cling on to power as well. He also cut off funding for education, so most of the learned people left Zior. The institutions of learning shuttered, and the people that remained fell deeper into his black hole of lies. Many weak ones in our city fell for his deception spell, and felt like there was nothing wrong, and failed to see the evil and suffering that was before their very eyes. And, also, he threw anyone who resisted or wasn’t sycophantic towards him or didn’t address him as ‘_our dear and beloved king_’ into a gulag in a foreign land, to be tortured. Our people got sick. We became poor.”
 
 “What did he have against education and places of learning?”
 
