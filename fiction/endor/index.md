@@ -17,21 +17,67 @@ Note<sup>1</sup>: This is a <em>work-in-progress</em>, and is frequently being u
 Note<sup>2</sup>: this story interleaves <em>parallel perspectives</em>. Chapter subheadings indicate which.
 </div></p>
 
+<p><div class="heading floating-bubble" style="background-color: mediumpurple; text-align: center;">
+Note<sup>3</sup>: most chapters comes with a piece of music to be enjoyed along with the chapter.<br>
+You might need to click the ▶ play button twice, and be logged into Spotify on your browser.
+</div></p>
 
+<p><div class="heading floating-bubble" style="background-color: silver;">
+Note<sup>4</sup>: this story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
+</div></p>
 
 {{
 ch_num = 0
-def chn():
+def chn(check_n = None):
     global ch_num
     ch_num += 1
+    if check_n is not None:
+        assert(check_n == ch_num)
     return ch_num
 chrs = {}
 places = {}
 }}
 
+{% def spotify_embed track_id caption %}
+<figure style="float: right;">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/{{track_id}}?utm_source=generator" width="250" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<figcaption style="text-align: center;"><h5><em>Music: {{caption}}</em></h5></figcaption>
+</figure>
+{% %}
+
+{{
+council_of_elrond = ("3Knohqfb9jeYzL6wMZiWLM", "The Council of Elrond")
+children_tinlicker = ("3PUnmXpIRfLa8yI9wfgJPC", "Children by Tinlicker")
+unicorns_rest = ("1z9JX28wuVnQ0KDN1jdDVP", "Unicorn's Rest<br>by Bill Brown")
+arise_es_posthumus = ("6WtGYhmAmMcrIr6sj86FDC", "Arise by E.S. Posthumus")
+the_mandalorian = ("6tJFtthY0rI1x06qb8NjK0", "The Mandalorian")
+celtic_lore = ("0dErnwCOJio6gkYfzPUfSa", "A Celtic Lore<br>by Adrian Von Ziegler")
+machina_del_diablo = ("21sBRQODrIuLIrwK5VdGfV", "Machina del Diablo")
+cornfield_chase = ("6pWgRkpqVfxnj3WuIcJ7WP", "Cornfield Chase<br>by Hans Zimmer")
+the_riders_of_rohan = ("1mJxXKuqwo0TBwf13vBUKH", "The Riders of Rohan")
+
+chapter_music_mapping = {
+    1: council_of_elrond,
+    2: children_tinlicker,
+    3: unicorns_rest,
+    4: arise_es_posthumus,
+    5: the_mandalorian,
+    6: celtic_lore,
+    7: machina_del_diablo,
+}
+
+def spotify():
+    global ch_num
+    if ch_num not in chapter_music_mapping:
+        raise Exception("Chapter %d does not have a music mapping." % ch_num)
+    track_id, caption = chapter_music_mapping[ch_num]
+    write(spotify_embed(track_id, caption))
+}}
 ### Part 1: Zior and Lies
 
-#### Chapter {{chn()}}: In Aeterna, and going to Endor
+#### Chapter {{chn(1)}}: In Aeterna, and going to Endor
+
+{{ spotify() }}
 
 _From the perspective of beings in the eternal realm of immortals, Aeterna_:
 
@@ -94,7 +140,9 @@ Rohan stopped by a stand with some golden looking stuff. Looking closer, these w
 
 Then, they reached the portal that went to Endor. There was a small line-up of five eldil ahead of them.
 
-#### Chapter {{chn()}}: Nauriel and some thieves
+#### Chapter {{chn(2)}}: Nauriel and some thieves
+
+{{ spotify() }}
 
 _From the perspective of Nauriel, on Endor_:
 
@@ -162,7 +210,9 @@ The next day they gave me a merchant’s outfit, which they’d magically shrunk
 
 Chico sat across from me, and continued to stare at me with a soul-piercing intensity.
 
-#### Chapter {{chn()}}
+#### Chapter {{chn(3)}}
+
+{{ spotify() }}
 
 _From the perspective of Rohan and Alethea_:
 
@@ -203,7 +253,9 @@ TODOs:
 - Virtual projection from Aeterna?
 #}
 
-#### Chapter {{chn()}}
+#### Chapter {{chn(4)}}
+
+{{ spotify() }}
 
 _From the perspective of Nauriel_:
 
@@ -283,7 +335,9 @@ Tim had forgotten to tell me where to find this dust. What did he expect me to d
 
 I gently opened the trapdoor and came out. When I got out, the shop seemed empty. Then, through the window, I saw that Tim was with Olin, trying out a wand, casting small conjuring spells with it, making little colorful flowers pop out of the end of it.
 
-#### Chapter {{chn()}}
+#### Chapter {{chn(5)}}
+
+{{ spotify() }}
 
 _From the perspective of Rohan and Alethea_:
 
@@ -342,7 +396,9 @@ Pixies gave off these little trails of used-up manna when they did their tiny bi
 
 Alethea felt sad when she heard all of this.
 
-#### Chapter {{chn()}}
+#### Chapter {{chn(6)}}
+
+{{ spotify() }}
 
 _From the perspective of Nauriel_:
 
@@ -356,7 +412,9 @@ I felt around my arms; and I could still feel my arms, but I felt weightless, an
 
 I thought to myself that, well, if anything, even if we couldn’t pay rent, at least I had a fancy new wand to play with.
 
-#### Chapter {{chn()}}
+#### Chapter {{chn(7)}}
+
+{{ spotify() }}
 
 _From the perspective of Rohan and Alethea_:
 
