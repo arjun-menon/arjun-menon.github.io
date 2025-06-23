@@ -127,13 +127,13 @@ places['Alpha Centauri'] = "the star system that this story takes place. See Wik
 places['Proxima Centauri'] = "the exosolar system that this story takes place. See Wikipedia on [Proxima Centauri](https://en.wikipedia.org/wiki/Proxima_Centauri)."
 places['Endor'] = "the planet this story takes place in. The name is taken from J.R.R. Tolkien's [Endor](https://tolkiengateway.net/wiki/Endor), which in LOTR lore is the Quenya name for Middle-earth. "
 }}
-The immortal eldil of Aeterna could cross dimensions, and visit our universe, and descend down to the planets, whenever they wished. Endor was a planet in the Proxima Centauri system that Rohan and Alethea had a long history with. Endor had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in tropical rainforests, cities, towns, and other settlements. Elves, humans, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way. Wizards from all species invented new kinds of magic all the time, and traded in magical recipes, spells, and all sorts of magical objects.
+The immortal eldil of Aeterna could cross dimensions, and visit our universe, and descend down to the planets, whenever they wished. Endor was a planet of Proxima Centauri (in the Alpha Centauri system) that Rohan and Alethea had a long history with. Endor had one giant Pangaea-like continent and several smaller island continents, and most of the land was covered in tropical rainforests, cities, towns, and other settlements. Elves, humans, dwarves, talking trees, and other creatures inhabited the land. Magic filled the air, and every creature used magic in some way. Wizards from all species invented new kinds of magic all the time, and traded in magical recipes, spells, and all sorts of magical objects.
 
 Alethea was sitting on a white couch with gold streaks patterns, in Rohan's living room.
 
 “How long do you think you’ll want to hang around this time?” asked Alethea.
 
-The eldil of Aeterna could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
+The eldil of Aeterna could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on. {# todo change power #}
 
 “A hundred years or so,” said Rohan, waving his hands.
 
@@ -162,6 +162,8 @@ They stepped through the circular portal, and stepped out the other side. A cobb
 As they walked down the tree-lined cobblestone path, they passed by some delicacy plates. Magical marble stands that were about four feet high, with engravings and relief art of magical creatures and nature, with flat surfaces on top, had these silver plates on them, with various kinds of delicacies. Coming up with a recipe was a work of art, and when someone came up with a recipe for a new delicacy, they'd program and create a magical stand that regenerated these delicacies forever. People could enjoy them whenever (as food never went bad in Aeterna), and they'd be magically replenished. Sometimes the author of the recipe would go back and make little tweaks and changes, so it never really stayed the same.
 
 No one needed to eat food in Aeterna, since everyone in Aeterna was immortal. The food was all zero calories, and the purpose of food in Aeterna was purely for enjoying eating. When you ate food in Aeterna, you got to taste it deeper than you ever could in the planetary realm, and what you ate just simply dissolved and disappeared into thin air.
+
+<img src="{{link('baklava-wiki-ir')}}" style="width:200px; height:auto; float: right;">
 
 Rohan stopped by a stand with some golden looking stuff. Looking closer, these were baklava, with the flakiest filo pastry layers you've ever encountered, with layers of honey and rosewater mixed in with pieces of sliced almonds and crushed pistachios. Alethea and Rohan popped a piece each into their mouths. Crunch. Crunch. Crunch. They took a moment to enjoy its delicate taste and rosy aroma.
 
@@ -254,13 +256,41 @@ Rohan decided to take the form of a small young elf.
 
 Alethea took the opposite route and adopted the form of an old elven wizard.
 
+##### On the mountainside
+
 In a few moments, they emerged out of a portal in a cave on a mountain beside the city Zior. They made their way down.
 
-{# todo:
-Humans arrival story.
-#}
+This mountainside and its valley marked the place where humans had first arrived in Endor, about a thousand years ago. An engraved bronze plaque near the portal commemorated this event. Inscribed on it was:
 
-A few small travelers’ outposts dotted the mountainside, serving food and drink. {# todo: more desc #}
+> _**Humans Reaching Proxima Centauri and the planet Endor**_
+
+> An enormous spaceship glittering with thousands of lights emanating from small windows.
+
+> The inhabitants of Endor look up to the ship, and examine it, both from afar, and up close.
+
+> Humans in the ship blast a cacophony of radio waves in all directions, hoping to be understood.
+
+> The people of Endor, who have perfected the art of magic, cast a spell that automatically translates.
+
+> Representatives from Endor _and across Proxima Centauri_ magically transport themselves to the human spaceship.
+
+> Long, deep, meaningful conversations follow, for many days, and they get to know each other.
+
+> The beings of Proxima Centauri graciously invite the humans to join them, and settle down, and live permanently on the planet Endor. _Unlike the beings of other star systems._
+
+> The humans’ ship gradually descends, swaying gently, and lands on the planet Endor, with their ship protected and gently held in the safe embrace of the powerful magic of some talented elves.
+
+> The humans settle down in Endor, with the generous support of the beings living in Endor.
+
+> The humans discover new trades, crafts, and various other productive things to do in Endor.
+
+> Humans learn to do magic, and blend it with their technology, to fabricate new kinds of magic.
+
+> Life is forever transformed by the arrival of humans to Endor.
+
+A few small travelers’ outposts dotted the mountainside, serving food and drink. Several had food and drink that was magically replenished, without the need for attendance by someone. A few rare outposts had a powerful interactive magical interface, where you could just imagine what edible you wanted, allowed it to read that thought of yours, and the food or drink you wanted would be magically conjured up before you.
+
+A planet-wide centralized system of credit lines meant you could get whatever you wanted, and pay for it later. But, of course, people deep in debt had to use coins.
 
 As they got close to the bottom of the mountain, they reached a dwarven settlement built on the last slight downward slope of the mountain. The unpaved rocky path gave way to cobblestone roads.
 
@@ -330,6 +360,7 @@ We got off the carriage by some woods close enough to the city that I could see 
 TODOs:
 - Chico, the dog with the seriousness of a general at war.
 - Chico mind communicating with the elves. Chico talking about random stuff he’s heard. (Chico dog photo embed?) 
+-  Annoying eldil knowing everything?
 #}
 
 {{
@@ -341,12 +372,7 @@ A bearded man, Arlo, who had sat silently by Tim during our journey (but always 
 
 Tim pulled up a hand-scrawled map and pointed to the top right corner, and said “There’s a trapdoor near these shelves. Sneak in and follow the short tunnel to the end; that’s where Olin’s storage room is. Arlo will put a quietness spell on you which will still the air surrounding you, so you’re not heard.”
 
-As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it.
-
-{#
-todo:
-description of Olin
-#}
+As we walked nonchalantly into Olin’s wand shop, my heart was beating so loudly that had it not been for Arlo’s silencing spell, I think everyone would have heard it. Olin had a round face, most clean shave, except very thin long wispy white goatee several centimeters long. It swung about as he walked over to greet us.
 
 Tim strolled up and said confidently “We’re looking for a training wand for my niece. Do you have any recommendations?”
 
@@ -375,12 +401,20 @@ I gently opened the trapdoor and came out. When I got out, the shop seemed empty
 <p class="pg">From the perspective of Rohan and Alethea:</p>
 
 <p class="para_first">
-“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Endor and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.</p>
+Andy, friendly dwarf, asked Rohan, “What do you want to do while you’re here?”.</p>
+
+Rohan replied, “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.”
+
+“That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Endor and see if there are any people being oppressed or who need help.”
+
+“The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
 {{
 places['Zior'] = "a small kingdom that been under the rule of an evil king for about fifty years."
 }}
-Rohan and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea. There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
+Rohan and Alethea reached a large human settlement in Zior. There was a certain mysterious somber and taciturn feel to it. “This place wasn’t like this a hundred years ago... I wonder what happened,” said Alethea.
+
+There was sickness here too; they saw people coughing. One person was sitting outside shirtless, leaning against a house’s wall, and their skin was covered in rashes or blisters.
 
 Elves were immune to disease and sickness, so they themselves had nothing to worry about. But Rohan and Alethea's hearts went out to these people, and a feeling of sadness coming from empathy washed over them for what the people here were going through.
 
@@ -404,7 +438,7 @@ chrs['Therion'] = "the evil dragon that helped Philoteras deceive people. Based 
 
 “What about the people at your places of learning? Were not the teachers and learned people there immune to this spell of deception?”
 
-“Indeed, they were immune to it. Most of them blocked it from themselves. But he lied and lied and convinced people that our places of learning were all about brainwashing people. He called the people who spoke out against him liars and fake news, even though he was the biggest liar we’d seen in a position of power in over a century. He surrounded himself with evil and obsequious people, and elevated himself so that many deceived people failed to see his wickedness and looked up to him as though he was good.”
+“Indeed, they were immune to it. Most of them blocked it from themselves. But he lied and lied and convinced people that our places of learning were all about brainwashing people. He called the very people who spoke out against him and his lies liars, even though he was the biggest liar we’d seen in a position of power in over a century. He surrounded himself with evil and obsequious people, and elevated himself so that many deceived people failed to see his wickedness and looked up to him as though he was good.”
 
 “How did he stay on for so long?”
 
@@ -481,6 +515,12 @@ The king of Zior was fat, old, decrepit, and borderline senile. Years of lying w
 “Who are you... I don’t know what you’re talking about...,” the king murmured from his bed, as though he was drunk or high on something.
 
 I’ll deal with him later, Rohan thought. He magicked himself back to the square, where Alethea was resting by an old fountain. The old fountain was covered in black grime, because the city government hadn’t cleaned it in years. The king had cut funding to and fired all the people responsible for cleaning public places many years ago, and pocketed the tax money for his own pleasures.
+
+{# todo (more above)
+
+Rohan stood patiently by as Alethea's spirit joined back together
+
+#}
 
 People saw the two elves in the square, and began connecting the dots as to what had just happened. Many people came to them to say thanks. “Thank you for helping us...”
 
