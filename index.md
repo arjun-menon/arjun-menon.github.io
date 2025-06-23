@@ -66,7 +66,7 @@ I'm looking for new job opportunities at the moment. Feel free to take a look at
 	* [NeoLisp](https://github.com/novarc/NeoLisp): an experimental LISP dialect.
 	* [Distributed graph algorithms](https://github.com/arjun-menon/Distributed-Graph-Algorithms): implementations of a few distributed graph algorithms, where each node in the graph is a process, and IPC is used to solve graph problems.
 	* [Multi Adblock Detect](https://github.com/arjun-menon/multi-adblock-detect) ([npm](https://www.npmjs.com/package/multi-adblock-detect)): a library containing a React hook for detecting ad blockers.
-	* [test_cmd](https://github.com/arjun-menon/test_cmd): a `stdin/stdout/stderr` command-line testing tool.
+	* [test_cmd](https://github.com/arjun-menon/test_cmd): a command-line black box <small>`stdin/stdout/stderr`</small>-based testing tool.
 
 ### Toronto
 
