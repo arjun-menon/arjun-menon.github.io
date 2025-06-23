@@ -6,7 +6,34 @@ desc: "Endor: a story about truth & lies, some elves, magic, a bad king, etc."
 h3 { font-size: 135%; color: darkgoldenrod; padding-top: 6px; }
 h4 { font-size: 124%;  color: goldenrod; padding-top: 5px; }
 h5 { font-size: 100%;  color: goldenrod; padding-top: 5px; }
-.floating-bubble { font-size: 17.5px; border-radius: 20px; box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); padding: 11.5px 9px; width: fit-content; margin: 0 auto; }
+
+.floating-bubble {
+  font-size: 17.5px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+  padding: 11.5px 9px;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+p {
+   /*text-indent: 1.2em;*/
+   text-indent: 0.25em;
+}
+
+.para_first::first-letter {
+  font-size: 3em;
+  initial-letter: 2;
+  float: left;
+}
+.para_first, .pg {
+  text-indent: 0;
+}
+
+.pg {
+  font-style: italic;
+}
+
 </style>
 
 <p><div class="heading floating-bubble" style="background-color: orange;">
@@ -79,12 +106,14 @@ def spotify():
 
 {{ spotify() }}
 
-_From the perspective of beings in the eternal realm of immortals, Aeterna_:
+<p class="pg">From the perspective of beings in the eternal realm of immortals, Aeterna:</p>
 
 {{
 places['Aeterna'] = "eternal realm of the undying. Loosely based on J.R.R. Tolkien's [Valinor](https://en.wikipedia.org/wiki/Valinor). "
 }}
-Aeterna, the realm of the undying, existed in a dimension anything unlike our universe of planetary worlds inhabited by carbon-based organic life forms. The eternal beings of Aeterna, eldil, lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.
+
+<p class="para_first">
+Aeterna, the realm of the undying, existed in a dimension anything unlike our universe of planetary worlds inhabited by carbon-based organic life forms. The eternal beings of Aeterna, eldil, lived across these hexagonal and other polygon-shaped platforms, that floated across the endless sky. The horizon was scattered with them. They were all at different altitudes, and they were never adjacent. Most of these platforms were lush green, covered with grass and trees. Buildings and other structures made of stone or marble interrupted the greenery. Crystal glass escalators and circular iridescent magical portals connect them to one another. Interspersed between these platforms were puffy white clouds with glistening streams of water steadily pouring out of them. Rainbow streaks often marked these magical waterfalls. At the bottom, all that’s visible is a gentle rising mist that dissipates as it gets higher.</p>
 
 {{
 chrs['Rohan'] = "an eternal being (eldila) who goes down to Endor as a young elf, confront Philateros, etc. The eldila are very loosely based on the C.S. Lewis [Space Trilogy](https://en.wikipedia.org/wiki/The_Space_Trilogy)'s<sup>([fandom](https://the-silent-planet.fandom.com/wiki/Ransom_trilogy), [narniafans](https://narniafans.com/books/the-space-trilogy/))</sup> [eldil](https://the-silent-planet.fandom.com/wiki/Eldil), but in this story they are more elf-like in features, etc. The elves are also loosely inspired by the elves in Tolkien's world, the manga [Frieren](https://en.wikipedia.org/wiki/Frieren), etc."
@@ -104,7 +133,7 @@ Alethea was sitting on a white couch with gold streaks patterns, in Rohan's livi
 
 “How long do you think you’ll want to hang around this time?” asked Alethea.
 
-The immortal eldil could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
+The eldil of Aeterna could go down as humans, or as elves, or as other creatures. If they went down as elves, they kept their memories and a full breadth of magical powers. But if they went down as humans, they would start with a blank state, with no memories. However, they still retained a faint connection to the beings in Aeterna, whom they could hear through soft whispering thoughts in their mind. When they went back to Aeterna, they remembered everything again, with the memory of their short human life added on.
 
 “A hundred years or so,” said Rohan, waving his hands.
 
@@ -144,12 +173,14 @@ Then, they reached the portal that went to Endor. There was a small line-up of f
 
 {{ spotify() }}
 
-_From the perspective of Nauriel, on Endor_:
+<p class="pg">From the perspective of Nauriel, on Endor:</p>
 
 {{
 chrs['Nauriel'] = "a half-elf half-human who lives on Endor, and is the main character of the 2nd parallel storyline here."
 }}
-My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly.
+
+<p class="para_first">
+My friend (and roommate) was thoroughly sick and bedridden, and I wanted to find a cure quickly.</p>
 
 ##### Visiting Pelegrin
 {{
@@ -214,9 +245,10 @@ Chico sat across from me, and continued to stare at me with a soul-piercing inte
 
 {{ spotify() }}
 
-_From the perspective of Rohan and Alethea_:
+<p class="pg">From the perspective of Rohan and Alethea:</p>
 
-“Let’s pick a form.” Rohan said.
+<p class="para_first">
+“Let’s pick a form.” Rohan said.</p>
 
 Rohan decided to take the form of a small young elf.
 
@@ -257,9 +289,10 @@ TODOs:
 
 {{ spotify() }}
 
-_From the perspective of Nauriel_:
+<p class="pg">From the perspective of Nauriel:</p>
 
-I was quite anxious about joining these robbers. But if my friend couldn’t work, I couldn’t afford to cover the rent on my own, and we’d lose our house. We were already late on last month’s rent. I kept quite mum on the way to wherever we were going. The last thing I wanted to do was irritate these professional thieves with my small talk. I didn’t want to get tossed out for asking some annoying question.
+<p class="para_first">
+I was quite anxious about joining these robbers. But if my friend couldn’t work, I couldn’t afford to cover the rent on my own, and we’d lose our house. We were already late on last month’s rent. I kept quite mum on the way to wherever we were going. The last thing I wanted to do was irritate these professional thieves with my small talk. I didn’t want to get tossed out for asking some annoying question.</p>
 
 After about a day, and after having unhappily relieved myself in the woods while an annoying bird watched me, I began to make out the outline of some city.
 
@@ -339,9 +372,10 @@ I gently opened the trapdoor and came out. When I got out, the shop seemed empty
 
 {{ spotify() }}
 
-_From the perspective of Rohan and Alethea_:
+<p class="pg">From the perspective of Rohan and Alethea:</p>
 
-“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Endor and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
+<p class="para_first">
+“What do you want to do while you’re here?” asked the friendly dwarf, of Alethea. “Help folks out a bit here and there. Perhaps create some new spells that’ll be useful and improve lives.” “That sounds wonderful.” Alethea added, “I’m hoping to do a bit of the same, but I also want to take a look at the political state of affairs on Endor and see if there are any people being oppressed or who need help.” “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.</p>
 
 {{
 places['Zior'] = "a small kingdom that been under the rule of an evil king for about fifty years."
@@ -400,9 +434,10 @@ Alethea felt sad when she heard all of this.
 
 {{ spotify() }}
 
-_From the perspective of Nauriel_:
+<p class="pg">From the perspective of Nauriel:</p>
 
-I walked out of the door of Olin’s shop. “We missed you there for a bit!” Olin said warmly, smiling at me cheerfully. I felt really bad that I had stolen from such a nice, genuinely kind man. I glanced at Tim, trying to indicate that it was perhaps time to go. Tim seemed to have gotten the signal, and he told Olin, “I think I’ll need to think it over, chat with my niece, to decide which one to get. Thank you for showing us your wares.” “You’re most welcome,” replied Olin.
+<p class="para_first">
+I walked out of the door of Olin’s shop. “We missed you there for a bit!” Olin said warmly, smiling at me cheerfully. I felt really bad that I had stolen from such a nice, genuinely kind man. I glanced at Tim, trying to indicate that it was perhaps time to go. Tim seemed to have gotten the signal, and he told Olin, “I think I’ll need to think it over, chat with my niece, to decide which one to get. Thank you for showing us your wares.” “You’re most welcome,” replied Olin.</p>
 
 We slowly trudged back to the woods climbing up a sloping rocky path. Arlo took the miniature carriage, and carefully placed it on a small patch of forest that was clear of trees. He began casting a spell. Just as the carriage was growing bigger, I heard a loud screeching noise as though from a bird, but I saw no bird anywhere. When I turned around, I saw Olin stepping out of a portal, and he looked angry. “You don’t know what you’ve stolen!” “I’m sorry,” I whispered. “I’m sure these guys put you up to it. That’s the wand of the king of Zior! It’s a wand that was crafted by a dragon. I was working on adding more manna to it. That king didn’t even pay me for it; he just threatened to hurt me and my family if I didn’t modify the wand the way he wanted.”
 
@@ -416,9 +451,10 @@ I thought to myself that, well, if anything, even if we couldn’t pay rent, at 
 
 {{ spotify() }}
 
-_From the perspective of Rohan and Alethea_:
+<p class="pg">From the perspective of Rohan and Alethea:</p>
 
-“We should have come down here sooner. We should have kept a closer eye on Zior.” Rohan muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.
+<p class="para_first">
+“We should have come down here sooner. We should have kept a closer eye on Zior.” Rohan muttered. “You go and confront the king. I’ll go about breaking this dark veil of deception,” replied Alethea.</p>
 
 Alethea went to a square in the middle of the city. She began to cast a spell. As she was muttering the incantation, some of the king's soldiers approached her, but they fell back as soon as they saw she was an elf. They could sense that she was a powerful elf, even from far away, and they dared not confront her.
 
