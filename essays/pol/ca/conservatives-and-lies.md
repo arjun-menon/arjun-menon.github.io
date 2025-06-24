@@ -356,6 +356,16 @@ https://www.youtube.com/watch?v=XbdaLPM4L7k - yet another lie
 
 https://archive.is/4li09 -- Vance Boelter
 
+On political violence:
+* Political Violence Is Here, and It’s Working https://www.nytimes.com/2025/06/22/opinion/political-violence-trump-shooting.html?smid=nytcore-ios-share&referringSource=articleShare
+* We May Be on the Brink of an Extremely Violent Era in American Politics https://www.nytimes.com/2025/06/16/opinion/political-violence-minnesota.html?smid=nytcore-ios-share&referringSource=articleShare
+* There Is an Antidote to Political Violence https://www.nytimes.com/2024/07/24/opinion/secret-service-trump-assassination-attempt.html?smid=nytcore-ios-share&referringSource=articleShare
+* Is Civil War Coming to Europe? https://www.nytimes.com/2025/06/03/opinion/europe-civil-war.html?smid=nytcore-ios-share&referringSource=articleShare
+* Political Violence Came to Minnesota. It Didn’t Start There. https://www.nytimes.com/2025/06/15/opinion/political-violence-minnesota.html?smid=nytcore-ios-share&referringSource=articleShare
+* The Nation Encourages Political Violence by Allowing It to Seem Normal https://www.nytimes.com/2025/06/20/opinion/political-violence-hortman-minnesota.html?smid=nytcore-ios-share&referringSource=articleShare
+
+https://www.theatlantic.com/technology/archive/2025/06/elon-musk-usaid-cuts/683299/
+
 ---
 
 <div style="text-align: end;">
