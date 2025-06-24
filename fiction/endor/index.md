@@ -439,6 +439,10 @@ Rohan replied, “Help folks out a bit here and there. Perhaps create some new s
 
 “The people of Zior might need your help actually...,” said the dwarf quietly, without explaining further.
 
+{# todo
+* One of the elves reminisces about Zior
+* Discussion in the dwarves home about Zior
+#}
 ##### Visiting Zior
 {{
 places['Zior'] = "a small kingdom that been under the rule of an evil king for about fifty years."
@@ -456,7 +460,7 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 “What changed?”
 
 ##### Philoteras and his lying
-
+{# maybe embed a direct image thumbnail of https://archive.is/tGoed around here? #}
 {{
 chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years. The name Philoteras is of Koine Greek construction, and roughly translates to friend of the monster/beast."
 }}
@@ -605,6 +609,10 @@ People saw the two elves in the square, and began connecting the dots as to what
 
 The evil king was very angry now.
 
+{# todo maybe? 
+a bubble at the end for my essay (moving it down here)
+a bubble here for Adam Serwer’s essay on the The Atlantic?
+#}
 ### Part 2
 
 _[not yet written; to be continued...]_
