@@ -46,11 +46,7 @@ Note<sup>2</sup>: this story interleaves <em>parallel perspectives</em>. Chapter
 
 <p><div class="heading floating-bubble" style="background-color: mediumpurple; text-align: center;">
 Note<sup>3</sup>: most chapters comes with a piece of music to be enjoyed along with the chapter.<br>
-You might need to click the ▶ play button twice, and be logged into Spotify on your browser.
-</div></p>
-
-<p><div class="heading floating-bubble" style="background-color: silver;">
-Note<sup>4</sup>: this story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
+You might need to click the ▶ play button twice, and be <a href="https://open.spotify.com/">logged into Spotify</a> on your browser. <br>If you're not logged into Spotify, only a tiny fragment of each musical piece will play.
 </div></p>
 
 {{
@@ -599,6 +595,8 @@ I’ll deal with him later, Rohan thought. He magicked himself back to the squar
 
 {# todo (more above)
 
+Add to Story: multi process mind.
+
 Rohan stood patiently by as Alethea's spirit joined back together
 
 #}
@@ -613,6 +611,10 @@ The evil king was very angry now.
 a bubble at the end for my essay (moving it down here)
 a bubble here for Adam Serwer’s essay on the The Atlantic?
 #}
+
+<p><div class="heading floating-bubble" style="background-color: silver;">
+Note<sup>4</sup>: this part of the story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
+</div></p>
 ### Part 2
 
 _[not yet written; to be continued...]_
