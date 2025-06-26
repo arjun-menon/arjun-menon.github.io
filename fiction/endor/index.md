@@ -22,8 +22,9 @@ p {
 }
 
 .para_first::first-letter {
+  font-family: 'IM Fell English', {{ std_serif_1 }};
   font-size: 3em;
-  initial-letter: 2;
+  initial-letter: 2.5;
   float: left;
 }
 .para_first, .pg {
@@ -456,7 +457,6 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 “What changed?”
 
 ##### Philoteras and his lying
-{# maybe embed a direct image thumbnail of https://archive.is/tGoed around here? #}
 {{
 chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years. The name Philoteras is of Koine Greek construction, and roughly translates to friend of the monster/beast."
 }}
@@ -610,6 +610,7 @@ The evil king was very angry now.
 {# todo maybe? 
 a bubble at the end for my essay (moving it down here)
 a bubble here for Adam Serwer’s essay on the The Atlantic?
+maybe embed a direct image thumbnail of https://archive.is/tGoed around here?
 #}
 
 <p><div class="heading floating-bubble" style="background-color: silver;">
