@@ -458,7 +458,7 @@ Rohan walked over to the rash-covered human and asked, “What happened here?”
 
 ##### Philoteras and his lying
 {{
-chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/iMCaK) for years. The name Philoteras is of Koine Greek construction, and roughly translates to friend of the monster/beast."
+chrs['Philoteras'] = "the evil king of Zior. Loosely based on a fairly well-known evil bumbling fool south of the border of Canada, who [has attacked knowledge and truth](https://archive.is/tGoed) for years. The name Philoteras is of Koine Greek construction, and roughly translates to friend of the monster/beast."
 }}
 “About fifty years ago, a man named Philoteras was elected our ruler by the narrowest of margins. He lied all the time{#<sup>[c.f.](https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump)</sup>#}, incessantly, about anything and everything. He never cared about the people and just cared about the glory and the power and the trappings of office.”
 
@@ -607,14 +607,17 @@ People saw the two elves in the square, and began connecting the dots as to what
 
 The evil king was very angry now.
 
-{# todo maybe? 
-a bubble at the end for my essay (moving it down here)
-a bubble here for Adam Serwer’s essay on the The Atlantic?
-maybe embed a direct image thumbnail of https://archive.is/tGoed around here?
-#}
-
 <p><div class="heading floating-bubble" style="background-color: silver;">
 Note<sup>4</sup>: this part of the story is inspired by an essay I'm working on called <em><a href="{{link('conservatives-and-lies')}}">Conservative Politicians & Lies</a></em>.
+</div></p>
+
+<p><div class="heading floating-bubble" style="background-color: burlywood; max-width: 543px;">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://cdn.theatlantic.com/thumbor/eHJ7kvkaY0WkPZ7DtapIaObY1rU=/0x0:1200x1500/960x1200/media/img/2025/05/26/NewBookMockupVert/original.png" height="90" width="72" style="display: inline-block; vertical-align: top; border-radius: 20px; border: 1px solid #333; box-shadow: 0px 0px 5px #333, inset 0px 0px 2px #333; margin-left: 4px; margin-right: 10px;">
+  <div style="line-height: 1.8;">
+    Note<sup>5</sup>: Relevant further real-world present-day reading on the topic of this part of the story could be Adam Serwer's excellent essay in <em>The Atlantic</em> magazine called <em><strong><a href="https://archive.is/iMCaK">The New Dark Age</a></strong></em>.
+  </div>
+</div>
 </div></p>
 ### Part 2
 
