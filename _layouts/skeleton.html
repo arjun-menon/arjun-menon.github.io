@@ -32,14 +32,21 @@ if page.done:
 
 <body>
 <link rel="stylesheet" href="{{style_css_href}}">
+
 <div id="page-div">
 
 <main id="main">
 {{ content }}
 </main>{# end main #}
 
-<footer id="footer"></footer>
+<footer id="footer">
+<div style="padding-top: 4px; text-align: center; font-size: x-small; color: silver; font-family: {{fancy_sans_1}};">
+© Arjun G. Menon, et al.
+</div>{# end footer #}
+</footer>
+
 </div>{# end page-div #}
+
 <link rel="stylesheet" href="{{extra_style_css_href}}">
 <link rel="stylesheet" href="{{google_fonts_css_href}}">
 <script defer src="{{trace_js_src}}"></script>
