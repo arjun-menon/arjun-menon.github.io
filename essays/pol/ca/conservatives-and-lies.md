@@ -107,6 +107,9 @@ Right wing media dominance - media matters diagram, Reddit post on it.
 * Better news sources: NYTimes, Atlantic, Vox, Forbes, Bloomberg, The Guardian, Slate, Current Affairs, Jacobin, https://www.democracynow.org/.
 * Better Canadian news: TheWalrus, The Tyee, PressProgress.ca, The Breach, etc.
 
+Curtis Yarvin
+* going through a single post, on how he created a strawman villain
+
 ### Vagueness
 
 Conservatives live in a matrix of vague thought and vague thinking.
@@ -355,6 +358,10 @@ https://www.theatlantic.com/ideas/archive/2025/06/existential-election-poland-na
 https://www.youtube.com/watch?v=XbdaLPM4L7k - yet another lie
 
 https://archive.is/4li09 -- Vance Boelter
+
+From October 2024, 200 Reasons to Vote Against Trump:
+* https://www.meidasplus.com/p/200-reasons-to-vote-against-trump
+
 
 On political violence:
 * Political Violence Is Here, and It’s Working https://www.nytimes.com/2025/06/22/opinion/political-violence-trump-shooting.html?smid=nytcore-ios-share&referringSource=articleShare

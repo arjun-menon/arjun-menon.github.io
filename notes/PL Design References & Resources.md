@@ -47,6 +47,10 @@ What Are the Enduring Innovations of Lisp?: https://elliottslaughter.com/2022/12
 [Pin](https://without.boats/blog/pin/) ([without.boats](https://news.ycombinator.com/from?site=without.boats))
 - https://fasterthanli.me/articles/pin-and-suffering
 
+ Structuring Arrays with Algebraic Shapes: https://news.ycombinator.com/item?id=44399757
+- https://dl.acm.org/doi/abs/10.1145/3736112.3736141
+
+
 Rust’s Ugly Syntax:
 - https://matklad.github.io/2023/01/26/rusts-ugly-syntax.html
 	- via https://news.ycombinator.com/item?id=41355731 
