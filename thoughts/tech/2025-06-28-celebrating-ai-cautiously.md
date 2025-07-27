@@ -35,4 +35,6 @@ Even with making video games, it's _personally_ a paradigm shift for me. Because
 
 Overall, I feel like, this new LLM stuff is only more empowering & enabling.
 
+to quote https://news.ycombinator.com/item?id=44431095 :
+To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.
 
