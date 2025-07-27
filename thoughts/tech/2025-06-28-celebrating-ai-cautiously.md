@@ -23,7 +23,7 @@ Of course, I don’t want any AI for written English content (I always want a di
 
 It was often so easy to distract myself with programming, with the tiny technical details. Now, with thinking of things at a higher level details, I can occupy my mind with concerns more relevant to the actual end user.
 
-Am I more of just an English writer and thinker, with a heavy technical background, now?
+Am I more of just a writer and thinker, with a heavy technical background, now?
 
 I’m fairly confident seeing how much better even Claude 4 (that was released on May 22nd) is, that things are likely only going to get better.
 
@@ -35,6 +35,6 @@ Even with making video games, it's _personally_ a paradigm shift for me. Because
 
 Overall, I feel like, this new LLM stuff is only more empowering & enabling.
 
-to quote https://news.ycombinator.com/item?id=44431095 :
+To quote https://news.ycombinator.com/item?id=44431095 :
 To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.
 
