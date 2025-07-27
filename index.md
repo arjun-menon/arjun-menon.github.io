@@ -54,15 +54,18 @@ I hope the stuff I write contains good ideas, or is encouraging / uplifting / ho
 
 ### Software
 
-I'm looking for new job opportunities at the moment. Feel free to take a look at my open source works [**on GitHub**](https://github.com/arjun-menon), or my [résumé](https://gratom.com/arjun-menon/resume/), or the recommendations I've received on [LinkedIn](https://www.linkedin.com/in/arjungmenon/). If you know of any jobs that I might be a good fit for, please send them my way!
+I currently work on fintech (banking software mainly) at a company in Toronto.
 
-* Some of my recently-updated open source software includes:
+I love building useful (and fun) software in spare time as well. 
+{# I'm looking for new job opportunities at the moment. Feel free to take a look at my open source works [**on GitHub**](https://github.com/arjun-menon), or my [résumé](https://gratom.com/arjun-menon/resume/), or the recommendations I've received on [LinkedIn](https://www.linkedin.com/in/arjungmenon/). If you know of any jobs that I might be a good fit for, please send them my way! #}
+
+* Some of my recently-updated hobby projects includes:
 	* [Alteza](https://github.com/arjun-menon/alteza): a static site generator (used by this site).
 	* [PyPage](https://github.com/arjun-menon/pypage): a template language & engine (also used by this site).
 	* [CashTrack](https://github.com/gratom-inc/CashTrack)<sup>(wip)</sup>: a work-in-progress cash flow tracking tool.
 	* [Tax Analyzer](https://github.com/arjun-menon/tax-analyzer): gives you an NYC income tax breakdown with a graph. [**Check it out here!**](https://arjun-menon.com/tax-analyzer)
 
-* Some of my older open source software includes:
+* Some of my older hobby projects includes:
 	* [NeoLisp](https://github.com/novarc/NeoLisp): an experimental LISP dialect.
 	* [Distributed graph algorithms](https://github.com/arjun-menon/Distributed-Graph-Algorithms): implementations of a few distributed graph algorithms, where each node in the graph is a process, and IPC is used to solve graph problems.
 	* [Multi Adblock Detect](https://github.com/arjun-menon/multi-adblock-detect) ([npm](https://www.npmjs.com/package/multi-adblock-detect)): a library containing a React hook for detecting ad blockers.
