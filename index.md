@@ -56,7 +56,7 @@ I hope the stuff I write contains good ideas, or is encouraging / uplifting / ho
 
 I currently work on fintech (banking software mainly) at a company in Toronto.
 
-I love building useful (and fun) software in spare time as well. 
+I love building useful (and fun) software in my spare time as well. 
 {# I'm looking for new job opportunities at the moment. Feel free to take a look at my open source works [**on GitHub**](https://github.com/arjun-menon), or my [résumé](https://gratom.com/arjun-menon/resume/), or the recommendations I've received on [LinkedIn](https://www.linkedin.com/in/arjungmenon/). If you know of any jobs that I might be a good fit for, please send them my way! #}
 
 * Some of my recently-updated hobby projects includes:
