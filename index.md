@@ -56,7 +56,7 @@ I hope the stuff I write contains good ideas, or is encouraging / uplifting / ho
 
 I currently work on fintech (banking software mainly) at a company in Toronto.
 
-I love building useful (and fun) software in my spare time as well. 
+I love building useful (and fun) software in my spare time as well.
 {# I'm looking for new job opportunities at the moment. Feel free to take a look at my open source works [**on GitHub**](https://github.com/arjun-menon), or my [résumé](https://gratom.com/arjun-menon/resume/), or the recommendations I've received on [LinkedIn](https://www.linkedin.com/in/arjungmenon/). If you know of any jobs that I might be a good fit for, please send them my way! #}
 
 * Some of my recently-updated hobby projects includes:
@@ -76,7 +76,7 @@ I love building useful (and fun) software in my spare time as well.
 I live in Toronto. I'm always up to meet up in-person for coffee/tea and chat, or to chat on the phone.
 
 I've started a few public meetup groups here in Toronto:
-* [Toronto Bible Study, Prayer, and Other Christian Books Group](https://www.meetup.com/toronto-bible-study-prayer-and-other-christian-books-group/): this group just has a church event (for the Toronto _[NewLife church](https://nlife.ca/)_) at the moment, but I will be adding a Bible study soon.
+* [Toronto Bible Study, Prayer, and Other Christian Books Group](https://www.meetup.com/toronto-bible-study-prayer-and-other-christian-books-group/): this group currently has recurring Sunday church event (for the Toronto _[NewLife church](https://nlife.ca/)_), as well as a biweekly Bible study.
 * [NDP, Liberal & Green Supporters](https://www.meetup.com/ndp-liberal-green-party-supporters-group/): a group for progressive political organizing and action, with an emphasis on defending Canada from conservatives, and on enacting electoral reform.
 * [Fantasy and Sci-Fi Writers Creative Collective](https://www.meetup.com/fantasy-sci-fi-writing-meetup-group/): a group for people interested in writing sci-fi and fantasy fiction. (I haven't organized any events for it yet.)
 
