@@ -3,6 +3,15 @@ title: Cautiously celebrating AI, perhaps?
 incomplete: true
 ---
 
+Recent advances in AI in the past few years have felt rather shocking to me. If you had told me five years ago what LLMs today are capable of, I would have said that's impossible sci-fi that we'd need to wait a hundred years or more for, or that it might be entirely impossible to build such systems. I remember sci-fi stories with talking robots in them, and thinking to myself that the sort of AI needed for that sort of thing is nearly impossible to engineer.
+
+Regardless, here we are today. Noam Shazeer, one of the authors of the paper _[Attention is All You Need](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need)_ (which was foundational to current AI advances via transformer-based LLMs) when asked _"Why do large language models work?"_ [replied](https://archive.is/XE00r) that "My best guess is divine benevolence" and "It’s hard. Nobody really understands what’s going on. This is a very experimental science, which nobody’s really used to in the world of computing where everything is operating deterministically. But we just have no clue what’s going to happen. It’s more like alchemy or whatever chemistry was in the Middle Ages."
+
+I can't really predict what these advances AI are going to lead to. It's a bit too hard of thing to speculate.
+
+
+
+
 AI and Programming
 
 it’s like being a technical product manager (TPM)
