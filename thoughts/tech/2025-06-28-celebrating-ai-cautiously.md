@@ -38,3 +38,34 @@ Overall, I feel like, this new LLM stuff is only more empowering & enabling.
 To quote https://news.ycombinator.com/item?id=44431095 :
 To misuse a woodworking metaphor, I think we’re experiencing a shift from hand tools to power tools.
 
+
+
+Paul g on scutwork
+
+In fact this empowerment we get from AI adds joy 
+
+
+On [https://www.antirez.com/news/155](https://www.antirez.com/news/155) etc.
+
+
+
+> “Writing computer software is one of the purest creative activities in the history of the human race. Programmers aren’t bound by practical limitations such as the laws of physics; we can create exciting virtual worlds with behaviors that could never exist in the real world. Programming doesn’t require great physical skill or coordination, like ballet or basketball. All programming requires is a creative mind and the ability to organize your thoughts. If you can visualize a system, you can probably implement it in a computer program.”
+
+-- Excerpt From _A Philosophy of Software Design, 2nd Edition_ by _John K. Ousterhout
+
+
+
+About unlocking new productivity and creativity from people like me & VB6 in childhood
+
+
+
+Also:
+- This thread: [It's rude to show AI output to people | Lobsters](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) 
+- And [https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/) 
+
+
+ the  golden rule for AI: [https://www.linkedin.com/posts/drewbent_one-of-my-favorite-heuristics-for-when-to-activity-7351309669727879170-ZrPT?utm_source=share&utm_medium=member_ios&rcm=ACoAAAKeIqYBctq32xbo32ZZuQndKGYNUZII4No](https://www.linkedin.com/posts/drewbent_one-of-my-favorite-heuristics-for-when-to-activity-7351309669727879170-ZrPT?utm_source=share&utm_medium=member_ios&rcm=ACoAAAKeIqYBctq32xbo32ZZuQndKGYNUZII4No).
+
+
+"Good planning and hard work lead to prosperity, but hasty shortcuts lead to poverty." -- Proverbs 21:5 NLT https://bible.com/bible/116/pro.21.5.NLT 
+
