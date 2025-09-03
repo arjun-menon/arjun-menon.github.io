@@ -67,6 +67,9 @@ On [https://www.antirez.com/news/155](https://www.antirez.com/news/155) etc.
 About unlocking new productivity and creativity from people like me & VB6 in childhood
 
 
+https://www.sanity.io/blog/first-attempt-will-be-95-garbage via https://news.ycombinator.com/item?id=45107962
+
+
 
 Also:
 - This thread: [It's rude to show AI output to people | Lobsters](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) 
@@ -77,4 +80,5 @@ Also:
 
 
 "Good planning and hard work lead to prosperity, but hasty shortcuts lead to poverty." -- Proverbs 21:5 NLT https://bible.com/bible/116/pro.21.5.NLT 
+
 
