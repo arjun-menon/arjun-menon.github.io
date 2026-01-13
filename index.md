@@ -51,7 +51,7 @@ I write here and [on medium](https://medium.com/@arjungmenon). Some of my writin
 #}
 	* {{mdm}} [Ideas for reducing emissions / pollution](https://medium.com/politics-and-systems/possible-solutions-to-reducing-pollution-carbon-emissions-d87f37ebf458) <span class="datenote">(Dec 29, 2024)</span>
 
-❖ {{am}} [**Fiction**]({{link('fiction')}}): I'm slowly starting to write a story, **in the fantasy genre**.
+{# ❖ {{am}} [**Fiction**]({{link('fiction')}}): I'm slowly starting to write a story, **in the fantasy genre**. #}
 
 ❖ {{am}} [**Thoughts**]({{link('thoughts')}}): Just some small thoughts & stuff I'm scribbling down.
 
