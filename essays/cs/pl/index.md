@@ -15,6 +15,9 @@ The question of language design is one UI design.
 I'm thinking of starting with researching the many languages that exist out there. Well, at least as many as is practical.
 
 
+Bridge to TypeScript, Python, etc.
+
+
 I'm thinking of having two separate languages. The first language with a high set of static guarantees, with a rich highly advanced type system, and with amazing runtime performance. The second language would be designed to be easy to use, with a lot of implicit choices and pervasive type inference that makes writing code in it very easy.
 
 
