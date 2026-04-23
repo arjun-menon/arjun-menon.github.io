@@ -44,7 +44,7 @@ I write here and [on medium](https://medium.com/@arjungmenon). Some of my writin
 #}
 	* {{am}} [BC's 2024 Provincial Election, and the dire need for Electoral Reform]({{link('bc-2024-and-electoral-reform')}}) <span class="datenote">(since Oct 2024)</span>
     * {{mdm}} Medium blog on Canadian politics: [Canada Forward](https://medium.com/canada-forward)
-    * {{am}} [Entitlement and Resentment]({{link('Entitlement and Resentment')}})
+    * {{am}} [Entitlement and Resentment: a deceptive conservative tactic]({{link('Entitlement and Resentment')}})
 {#
 	* <small>{{am}} (_Work In Progress:_) [Conservative Politicians and Lies – a Culture of Deception]({{link('conservatives-and-lies')}}) <span class="datenote">(since April 2025)</span></small>
 	* {{mdm}} [Transferable Vote: a simple form of electoral reform that both the NDP and Liberals could agree on](https://medium.com/canada-forward/transferable-vote-a-simple-form-of-electoral-reform-that-both-the-ndp-and-liberals-could-agree-on-e1be752e2224) <span class="datenote">(Dec 31, 2024)</span>
