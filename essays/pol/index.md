@@ -2,6 +2,6 @@ title: Politics
 desc: A series of political essays.
 ---
 
-This is a folder of my political writings.
+This is a folder for my political writings.
 
 
