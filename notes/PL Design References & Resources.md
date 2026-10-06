@@ -249,3 +249,51 @@ https://www.reddit.com/r/rust/comments/1fj31n3/i_would_choose_rust_just_for_the_
 
 Tiny Pointers: https://arxiv.org/abs/2111.12800 
 
+
+
+
+Some old/ancient stuff:
+
+```
+fn – pure func  
+let – const decl
+
+letx – let mut  
+fnx – fn w/ side effects
+  
+op(arg1, arg2) -> str {
+  
+defer(
+chrono.milliseconds(10),
+task {
+  
+}
+);
+  
+time.wait(chrono.seconds(5));
+  
+}
+  
+arr = [rand() * x for x in range(0, 1000000000)]
+  
+for idx in range(0, len(arr)):
+if idx < len(arr) - 1:
+arr[idx] += arr[idx + 1]
+  
+operation x for x in arr {
+x *= x
+}
+  
+def sum(a):
+s = 0
+for k in a:
+s += k
+return s
+  
+arr = [x*x*x for x in range(100000)]
+  
+s <= sum(arr)
+  
+arr[3456] = 11
+```
+
