@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "textFontFamily": "EB Garamond,Optima",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "theme": "moonstone"
 }

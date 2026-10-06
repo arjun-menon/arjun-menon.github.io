@@ -6,7 +6,6 @@ Idris:
 	- https://news.ycombinator.com/item?id=34454158
 - https://livebook.manning.com/book/type-driven-development-with-idris/chapter-1/7
 
-
 LigoL
 * https://ligolang.org/?lang=jsligo
 
@@ -31,6 +30,8 @@ Borgo: https://borgo-lang.github.io/
 https://ballerina.io/
 
 https://github.com/ponylang/ponyc
+
+www.vivienhenz.com/common-lisp via https://news.ycombinator.com/item?id=49973598
 
 Mech:
 * https://github.com/mech-lang/mech
