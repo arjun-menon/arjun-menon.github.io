@@ -25,13 +25,13 @@ ul {
 
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation.
 
-I am currently working [CaseVisit](https://casevisit.com/), and some other small side consulting gigs, and volunteering in my spare time.
-
 ### Software
 
-I love building useful (and fun) software.
+I love building useful, robust, efficient, and reliable high-quality software.
 
 I'm looking for new work opportunities at the moment. Feel free to take a look at my open source work [**on GitHub**](https://github.com/arjun-menon), or my [résumé](https://gratom.com/arjun-menon/resume/), or the recommendations I've received on [LinkedIn](https://www.linkedin.com/in/arjungmenon/). If you know of any work that I might be a good fit for, please send them my way!
+
+One product/project I’ve been working on this year is [CaseVisit](https://casevisit.com/).
 
 * Some of my recently-updated hobby projects includes:
 	* [Alteza](https://github.com/arjun-menon/alteza): a static site generator (used by this site).
