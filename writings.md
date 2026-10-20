@@ -55,6 +55,7 @@ I write here and [on medium](https://medium.com/@arjungmenon). Some of my writin
 
 I hope the stuff I write contains good ideas, or is encouraging / uplifting / hope-inducing, or otherwise edifying in some way.
 
+And I hope to write more stuff in the near future, and publish it here as well as elsewhere.
 
 {#
 
