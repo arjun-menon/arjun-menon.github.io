@@ -1,6 +1,6 @@
 title: Writings
 desc: Arjun Menon's essays, thoughts & notes.
-public: true
+public: false
 ---
 <style>
 .content {
