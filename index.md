@@ -25,7 +25,7 @@ ul {
 
 Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation.
 
-{# ### Software #}
+### Software
 
 I love building useful, robust, efficient, and reliable high-quality software.
 
@@ -45,7 +45,8 @@ One product/project I’ve been working on this year is [CaseVisit](https://case
 	* [Multi Adblock Detect](https://github.com/arjun-menon/multi-adblock-detect) ([npm](https://www.npmjs.com/package/multi-adblock-detect)): a library containing a React hook for detecting ad blockers.
 	* [test_cmd](https://github.com/arjun-menon/test_cmd): a command-line black box <small>`stdin/stdout/stderr`</small>-based testing tool.
 
-{# ### Endnote #}
+### Reach out!
+
 You can reach out to me at <span class="endnote-mail">arj9 at pm dot me</span>, at my addresses listed elsewhere, or other platforms.
 
 I live in Toronto. I'm always up to meet up in-person for coffee/tea and chat, or to chat on the phone.
