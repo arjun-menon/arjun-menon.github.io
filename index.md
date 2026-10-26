@@ -23,7 +23,7 @@ ul {
 }
 </style>
 
-Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), [writing]({{link('writings')}}), and good conversation.
+Welcome to my little corner on the internet. I'm Arjun Menon. I'm a software engineer who enjoys programming, reading (and learning new things), writing, and good conversation.
 
 ### Software
 
