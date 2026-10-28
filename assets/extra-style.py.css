@@ -8,9 +8,13 @@
 }}
 
 @media (min-width: {{max_content_width}}) {
+	body {
+		background-color: rgb({{body_bgcolor}});
+		background-image: url("{{textured_paper_png}}");
+	}
+
 	@supports (backdrop-filter: blur(20px)) {
 		body {
-			background-color: rgb({{body_bgcolor}});
 			background-image: image-set(
 				url("{{bg1x}}.jxl") type("image/jxl") 1x,
 				url("{{bg2x}}.jxl") type("image/jxl") 2x,
